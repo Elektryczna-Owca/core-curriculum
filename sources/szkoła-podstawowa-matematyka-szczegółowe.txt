@@ -1,0 +1,205 @@
+KLASY IV–VI
+		I. Liczby naturalne w dziesiątkowym układzie pozycyjnym. Uczeń:
+			1) zapisuje i odczytuje liczby naturalne wielocyfrowe;
+			2) interpretuje liczby naturalne na osi liczbowej;
+			3) porównuje liczby naturalne;
+			4) zaokrągla liczby naturalne;
+			5) liczby w zakresie do 3 000 zapisane w systemie rzymskim przedstawia w systemie dziesiątkowym, a zapisane w systemie dziesiątkowym przedstawia w systemie rzymskim.
+		II. Działania na liczbach naturalnych. Uczeń:
+			1) dodaje i odejmuje w pamięci liczby naturalne dwucyfrowe lub większe, liczbę jednocyfrową dodaje do dowolnej liczby naturalnej i odejmuje od dowolnej liczby naturalnej;
+			2) dodaje i odejmuje liczby naturalne wielocyfrowe sposobem pisemnym i za pomocą kalkulatora;
+			3) mnoży i dzieli liczbę naturalną przez liczbę naturalną jednocyfrową, dwucyfrową lub trzycyfrową sposobem pisemnym, w pamięci (w najprostszych przykładach) i za pomocą kalkulatora (w trudniejszych przykładach);
+			4) wykonuje dzielenie z resztą liczb naturalnych;
+			5) stosuje wygodne dla siebie sposoby ułatwiające obliczenia, w tym przemienność i łączność dodawania i mnożenia oraz rozdzielność mnożenia względem dodawania;
+			6) porównuje liczby naturalne z wykorzystaniem ich różnicy lub ilorazu;
+			7) rozpoznaje liczby podzielne przez 2, 3, 4, 5, 9, 10, 100;
+			8) rozpoznaje liczbę złożoną, gdy jest ona jednocyfrowa lub dwucyfrowa, a także gdy na istnienie dzielnika właściwego wskazuje cecha podzielności;
+			9) rozkłada liczby dwucyfrowe na czynniki pierwsze;
+			10) oblicza kwadraty i sześciany liczb naturalnych;
+			11) stosuje reguły dotyczące kolejności wykonywania działań;
+			12) szacuje wyniki działań;
+			13) znajduje największy wspólny dzielnik (NWD) w sytuacjach nie trudniejszych niż typu NWD(600, 72), NWD(140, 567), NWD(10000, 48), NWD(910, 2016) oraz wyznacza najmniejszą wspólną wielokrotność dwóch liczb naturalnych metodą rozkładu na czynniki;
+			14) rozpoznaje wielokrotności danej liczby, kwadraty, sześciany, liczby pierwsze, liczby złożone;
+			15) odpowiada na pytania dotyczące liczebności zbiorów różnych rodzajów liczb wśród liczb z pewnego niewielkiego zakresu (np. od 1 do 200 czy od 100 do 1000), o ile liczba w odpowiedzi jest na tyle mała, że wszystkie rozważane liczby uczeń może wypisać;
+			16) rozkłada liczby naturalne na czynniki pierwsze, w przypadku gdy co najwyżej jeden z tych czynników jest liczbą większą niż 10;
+			17) wyznacza wynik dzielenia z resztą liczby <math>a</math> przez liczbę <math>b</math> i zapisuje liczbę a w postaci: <math> a = b \cdot q + r </math>
+		III. Liczby całkowite. Uczeń:
+			1) podaje praktyczne przykłady stosowania liczb ujemnych;
+			2) interpretuje liczby całkowite na osi liczbowej;
+			3) oblicza wartość bezwzględną;
+			4) porównuje liczby całkowite;
+			5) wykonuje proste rachunki pamięciowe na liczbach całkowitych.
+		IV. Ułamki zwykłe i dziesiętne. Uczeń:
+			1) opisuje część danej całości za pomocą ułamka;
+			2) przedstawia ułamek jako iloraz liczb naturalnych, a iloraz liczb naturalnych jako ułamek zwykły;
+			3) skraca i rozszerza ułamki zwykłe;
+			4) sprowadza ułamki zwykłe do wspólnego mianownika;
+			5) przedstawia ułamki niewłaściwe w postaci liczby mieszanej, a liczbę mieszaną w postaci ułamka niewłaściwego;
+			6) zapisuje wyrażenia dwumianowane w postaci ułamka dziesiętnego i odwrotnie;
+			7) zaznacza i odczytuje ułamki zwykłe i dziesiętne na osi liczbowej oraz odczytuje ułamki zwykłe i dziesiętne zaznaczone na osi liczbowej;
+			8) zapisuje ułamki dziesiętne skończone w postaci ułamków zwykłych;
+			9) zamienia ułamki zwykłe o mianownikach będących dzielnikami liczb 10, 100, 1 000 itd. na ułamki dziesiętne skończone dowolną metodą (przez rozszerzanie lub skracanie ułamków zwykłych, dzielenie licznika przez mianownik w pamięci, pisemnie lub za pomocą kalkulatora);
+			10) zapisuje ułamki zwykłe o mianownikach innych niż wymienione w pkt 9 w postaci rozwinięcia dziesiętnego nieskończonego (z użyciem wielokropka po ostatniej cyfrze), uzyskane w wyniku dzielenia licznika przez mianownik w pamięci, pisemnie lub za pomocą kalkulatora;
+			11) zaokrągla ułamki dziesiętne;
+			12) porównuje ułamki (zwykłe i dziesiętne);
+			13) oblicza liczbę, której część jest podana (wyznacza całość, z której określono część za pomocą ułamka);
+			14) wyznacza liczbę, która powstaje po powiększeniu lub pomniejszeniu o pewną część innej liczby.
+		V. Działania na ułamkach zwykłych i dziesiętnych. Uczeń:
+			1) dodaje, odejmuje, mnoży i dzieli ułamki zwykłe o mianownikach jedno- lub dwucyfrowych, a także liczby mieszane;
+			2) dodaje, odejmuje, mnoży i dzieli ułamki dziesiętne w pamięci (w przykładach najprostszych), pisemnie i za pomocą kalkulatora (w przykładach trudnych);
+			3) wykonuje nieskomplikowane rachunki, w których występują jednocześnie ułamki zwykłe i dziesiętne;
+			4) porównuje ułamki z wykorzystaniem ich różnicy;
+			5) oblicza ułamek danej liczby całkowitej;
+			6) oblicza kwadraty i sześciany ułamków zwykłych i dziesiętnych oraz liczb mieszanych;
+			7) oblicza wartość prostych wyrażeń arytmetycznych, stosując reguły dotyczące kolejności wykonywania działań;
+			8) wykonuje działania na ułamkach dziesiętnych, używając własnych, poprawnych strategii lub za pomocą kalkulatora;
+			9) oblicza wartości wyrażeń arytmetycznych, wymagających stosowania działań arytmetycznych na liczbach całkowitych lub liczbach zapisanych za pomocą ułamków zwykłych, liczb mieszanych i ułamków dziesiętnych, także wymiernych ujemnych o stopniu trudności nie większym niż w przykładzie <math> -\frac{1}{2} : 0,25 + 5,25 : 0,05 - 7\frac{1}{2} \cdot (2,5 - 3\frac{2}{3}) + 1,25 </math>;
+		VI. Elementy algebry. Uczeń:
+			1) korzysta z nieskomplikowanych wzorów, w których występują oznaczenia literowe, opisuje wzór słowami;
+			2) stosuje oznaczenia literowe nieznanych wielkości liczbowych i zapisuje proste wyrażenia algebraiczne na podstawie informacji osadzonych w kontekście praktycznym, na przykład zapisuje obwód trójkąta o bokach: <math> a, a+2, b </math>; rozwiązuje równania pierwszego stopnia z jedną niewiadomą występującą po jednej stronie równania (przez zgadywanie, dopełnianie lub wykonanie działania odwrotnego), na przykład <math> { x-2\over 3} = 4 </math>
+		VII. Proste i odcinki. Uczeń:
+			1) rozpoznaje i nazywa figury: punkt, prosta, półprosta, odcinek;
+			2) rozpoznaje proste i odcinki prostopadłe i równoległe, na przykład jak w sytuacji określonej w zadaniu: Odcinki AB i CD są prostopadłe, odcinki CD i EF są równoległe oraz odcinki EF i DF są prostopadłe. Określ wzajemne położenie odcinków DF oraz AB. Wykonaj odpowiedni rysunek;
+			3) rysuje pary odcinków prostopadłych i równoległych;
+			4) mierzy odcinek z dokładnością do 1 mm;
+			5) znajduje odległość punktu od prostej.
+		VIII. Kąty. Uczeń:
+			1) wskazuje w dowolnym kącie ramiona i wierzchołek;
+			2) mierzy z dokładnością do 1° kąty mniejsze niż 180°;
+			3) rysuje kąty mniejsze od 180°;
+			4) rozpoznaje kąt prosty, ostry i rozwarty;
+			5) porównuje kąty;k:
+			6) rozpoznaje kąty wierzchołkowe i przyległe oraz korzysta z ich własności.
+		IX. Wielokąty, koła i okręgi. Uczeń:
+			1) rozpoznaje i nazywa trójkąty ostrokątne, prostokątne, rozwartokątne, równoboczne i równoramienne;
+			2) konstruuje trójkąt o danych trzech bokach i ustala możliwość zbudowania trójkąta na podstawie nierówności trójkąta;
+			3) stosuje twierdzenie o sumie kątów wewnętrznych trójkąta;
+			4) rozpoznaje i nazywa: kwadrat, prostokąt, romb, równoległobok i trapez;
+			5) zna najważniejsze własności kwadratu, prostokąta, rombu, równoległoboku i trapezu, rozpoznaje figury osiowosymetryczne i wskazuje osie symetrii figur;
+			6) wskazuje na rysunku cięciwę, średnicę oraz promień koła i okręgu;
+			7) rysuje cięciwę koła i okręgu, a także, jeżeli dany jest środek okręgu, promień i średnicę;
+			8) w trójkącie równoramiennym wyznacza przy danym jednym kącie miary pozostałych kątów oraz przy danych obwodzie i długości jednego boku długości pozostałych boków.
+		X. Bryły. Uczeń:
+			1) rozpoznaje graniastosłupy proste, ostrosłupy, walce, stożki i kule w sytuacjach praktycznych i wskazuje te bryły wśród innych modeli brył;
+			2) wskazuje wśród graniastosłupów prostopadłościany i sześciany i uzasadnia swój wybór;
+			3) rozpoznaje siatki graniastosłupów prostych i ostrosłupów;
+			4) rysuje siatki prostopadłościanów;
+			5) wykorzystuje podane zależności między długościami krawędzi graniastosłupa do wyznaczania długości poszczególnych krawędzi.
+		XI. Obliczenia w geometrii. Uczeń:
+			1) oblicza obwód wielokąta o danych długościach boków;
+			2) oblicza pola: trójkąta, kwadratu, prostokąta, rombu, równoległoboku, trapezu, przedstawionych na rysunku oraz w sytuacjach praktycznych, w tym także dla danych wymagających zamiany jednostek i w sytuacjach z nietypowymi wymiarami, na przykład pole trójkąta o boku 1 km i wysokości 1 mm;
+			3) stosuje jednostki pola: mm, cm, dm, m, km, ar, hektar (bez zamiany jednostek w trakcie obliczeń);
+			4) oblicza pola wielokątów metodą podziału na mniejsze wielokąty lub uzupełniania do większych wielokątów jak w sytuacjach: <file>szkoła-podstawowa-matematyka-16-4.png</file> <file>szkoła-podstawowa-matematyka-16-23.png</file>
+			5) oblicza objętość i pole powierzchni prostopadłościanu przy danych długościach krawędzi;
+			6) stosuje jednostki objętości i pojemności: mililitr, litr, cm, dm, m;
+			7) oblicza miary kątów, stosując przy tym poznane własności kątów i wielokątów.
+		XII. Obliczenia praktyczne. Uczeń:
+			1) interpretuje 100% danej wielkości jako całość, 50% – jako połowę, 25% – jako jedną czwartą, 10% – jako jedną dziesiątą, 1% – jako jedną setną części danej wielkości liczbowej;
+			2) w przypadkach osadzonych w kontekście praktycznym oblicza procent danej wielkości w stopniu trudności typu 50%, 20%, 10%;
+			3) wykonuje proste obliczenia zegarowe na godzinach, minutach i sekundach;
+			4) wykonuje proste obliczenia kalendarzowe na dniach, tygodniach, miesiącach, latach;
+			5) odczytuje temperaturę (dodatnią i ujemną);
+			6) zamienia i prawidłowo stosuje jednostki długości: milimetr, centymetr, decymetr, metr, kilometr;
+			7) zamienia i prawidłowo stosuje jednostki masy: gram, dekagram, kilogram, tona;
+			8) oblicza rzeczywistą długość odcinka, gdy dana jest jego długość w skali oraz długość odcinka w skali, gdy dana jest jego rzeczywista długość;
+			9) w sytuacji praktycznej oblicza: drogę przy danej prędkości i czasie, prędkość przy danej drodze i czasie, czas przy danej drodze i prędkości oraz stosuje jednostki prędkości km/h i m/s.
+		XIII. Elementy statystyki opisowej. Uczeń:
+			1) gromadzi i porządkuje dane;
+			2) odczytuje i interpretuje dane przedstawione w tekstach, tabelach, na diagramach i na wykresach, na przykład: wartości z wykresu, wartość największą, najmniejszą, opisuje przedstawione w tekstach, tabelach, na diagramach i na wykresach zjawiska przez określenie przebiegu zmiany wartości danych, na przykład z użyciem określenia „wartości rosną”, „wartości maleją”, „wartości są takie same” („przyjmowana wartość jest stała”).
+		XIV. Zadania tekstowe. Uczeń:
+			1) czyta ze zrozumieniem tekst zawierający informacje liczbowe;
+			2) wykonuje wstępne czynności ułatwiające rozwiązanie zadania, w tym rysunek pomocniczy lub wygodne dla niego zapisanie informacji i danych z treści zadania;
+			3) dostrzega zależności między podanymi informacjami;
+			4) dzieli rozwiązanie zadania na etapy, stosując własne, poprawne, wygodne dla niego strategie rozwiązania;
+			5) do rozwiązywania zadań osadzonych w kontekście praktycznym stosuje poznaną wiedzę z zakresu arytmetyki i geometrii oraz nabyte umiejętności rachunkowe, a także własne poprawne metody;
+			6) weryfikuje wynik zadania tekstowego, oceniając sensowność rozwiązania np. poprzez szacowanie, sprawdzanie wszystkich warunków zadania, ocenianie rzędu wielkości otrzymanego wyniku;
+			7) układa zadania i łamigłówki, rozwiązuje je; stawia nowe pytania związane z sytuacją w rozwiązanym zadaniu.
+KLASY VII i VIII
+		I. Potęgi o podstawach wymiernych. Uczeń:
+			1) zapisuje iloczyn jednakowych czynników w postaci potęgi o wykładniku całkowitym dodatnim;
+			2) mnoży i dzieli potęgi o wykładnikach całkowitych dodatnich;
+			3) mnoży potęgi o różnych podstawach i jednakowych wykładnikach;
+			4) podnosi potęgę do potęgi;
+			5) odczytuje i zapisuje liczby w notacji wykładniczej <math>a \cdot 10^k</math>, gdy <math> 1 \leq a < 10 </math>, k jest liczbą całkowitą.
+		II. Pierwiastki. Uczeń:
+			1) oblicza wartości pierwiastków kwadratowych i sześciennych z liczb, które są odpowiednio kwadratami lub sześcianami liczb wymiernych;
+			2) szacuje wielkość danego pierwiastka kwadratowego lub sześciennego oraz wyrażenia arytmetycznego zawierającego pierwiastki;
+			3) porównuje wartość wyrażenia arytmetycznego zawierającego pierwiastki z daną liczbą wymierną oraz znajduje liczby wymierne większe lub mniejsze od takiej wartości, na przykład znajduje liczbę całkowitą a taką, że: <math>a \leq \sqrt{137} < a + 1</math>;
+			4) oblicza pierwiastek z iloczynu i ilorazu dwóch liczb, wyłącza liczbę przed znak pierwiastka i włącza liczbę pod znak pierwiastka;
+			5) mnoży i dzieli pierwiastki tego samego stopnia.
+		III. Tworzenie wyrażeń algebraicznych z jedną i z wieloma zmiennymi. Uczeń:
+			1) zapisuje wyniki podanych działań w postaci wyrażeń algebraicznych jednej lub kilku zmiennych;
+			2) oblicza wartości liczbowe wyrażeń algebraicznych;
+			3) zapisuje zależności przedstawione w zadaniach w postaci wyrażeń algebraicznych jednej lub kilku zmiennych;
+			4) zapisuje rozwiązania zadań w postaci wyrażeń algebraicznych jak w przykładzie: Bartek i Grześ zbierali kasztany. Bartek zebrał n kasztanów, Grześ zebrał 7 razy więcej. Następnie Grześ w drodze do domu zgubił 10 kasztanów, a połowę pozostałych oddał Bartkowi. Ile kasztanów ma teraz Bartek, a ile ma Grześ?
+		IV. Przekształcanie wyrażeń algebraicznych. Sumy algebraiczne i działania na nich. Uczeń:
+			1) porządkuje jednomiany i dodaje jednomiany podobne (tzn. różniące się jedynie współczynnikiem liczbowym);
+			2) dodaje i odejmuje sumy algebraiczne, dokonując przy tym redukcji wyrazów podobnych;
+			3) mnoży sumy algebraiczne przez jednomian i dodaje wyrażenia powstałe z mnożenia sum algebraicznych przez jednomiany;
+			4) mnoży dwumian przez dwumian, dokonując redukcji wyrazów podobnych.
+		V. Obliczenia procentowe. Uczeń:
+			1) przedstawia część wielkości jako procent tej wielkości;
+			2) oblicza liczbę a równą p procent danej liczby b;
+			3) oblicza, jaki procent danej liczby b stanowi liczba a;
+			4) oblicza liczbę b, której p procent jest równe a;
+			5) stosuje obliczenia procentowe do rozwiązywania problemów w kontekście praktycznym, również w przypadkach wielokrotnych podwyżek lub obniżek danej wielkości.
+		VI. Równania z jedną niewiadomą. Uczeń:
+			1) sprawdza, czy dana liczba jest rozwiązaniem równania (stopnia pierwszego, drugiego lub trzeciego) z jedną niewiadomą, na przykład sprawdza, które liczby całkowite niedodatnie i większe od –8 są rozwiązaniami równania<math> \frac{x^3}{8} + \frac{x^2}{2} = 0 </math>;
+			2) rozwiązuje równania pierwszego stopnia z jedną niewiadomą metodą równań równoważnych;
+			3) rozwiązuje równania, które po prostych przekształceniach wyrażeń algebraicznych sprowadzają się do równań pierwszego stopnia z jedną niewiadomą;
+			4) rozwiązuje zadania tekstowe za pomocą równań pierwszego stopnia z jedną niewiadomą, w tym także z obliczeniami procentowymi;
+			5) przekształca proste wzory, aby wyznaczyć zadaną wielkość we wzorach geometrycznych (np. pól figur) i fizycznych (np. dotyczących prędkości, drogi i czasu).
+		VII. Proporcjonalność prosta. Uczeń:
+			1) podaje przykłady wielkości wprost proporcjonalnych;
+			2) wyznacza wartość przyjmowaną przez wielkość wprost proporcjonalną w przypadku konkretnej zależności proporcjonalnej, na przykład wartość zakupionego towaru w zależności od liczby sztuk towaru, ilość zużytego paliwa w zależności od liczby przejechanych kilometrów, liczby przeczytanych stron książki w zależności od czasu jej czytania;
+			3) stosuje podział proporcjonalny.
+		VIII. Własności figur geometrycznych na płaszczyźnie. Uczeń:
+			1) zna i stosuje twierdzenie o równości kątów wierzchołkowych (z wykorzystaniem zależności między kątami przyległymi);
+			2) przedstawia na płaszczyźnie dwie proste w różnych położeniach względem siebie, w szczególności proste prostopadłe i proste równoległe;
+			3) korzysta z własności prostych równoległych, w szczególności stosuje równość kątów odpowiadających i naprzemianległych;
+			4) zna i stosuje cechy przystawania trójkątów;
+			5) zna i stosuje własności trójkątów równoramiennych (równość kątów przy podstawie);
+			6) zna nierówność trójkąta AB + BC ≥ AC i wie, kiedy zachodzi równość;
+			7) wykonuje proste obliczenia geometryczne wykorzystując sumę kątów wewnętrznych trójkąta i własności trójkątów równoramiennych;
+			8) zna i stosuje w sytuacjach praktycznych twierdzenie Pitagorasa (bez twierdzenia odwrotnego);
+			9) przeprowadza dowody geometryczne o poziomie trudności nie większym niż w przykładach:a) dany jest ostrokątny trójkąt równoramienny ABC, w którym AC = BC. W tym trójkącie poprowadzono wysokość AD. Udowodnij, że kąt ABC jest dwa razy większy od kąta BAD,b) na bokach BC i CD prostokąta ABCD zbudowano, na zewnątrz prostokąta, dwa trójkąty równoboczne BCE i CDF. Udowodnij, że AE = AF.
+		IX. Wielokąty. Uczeń:
+			1) zna pojęcie wielokąta foremnego;
+			2) stosuje wzory na pole trójkąta, prostokąta, kwadratu, równoległoboku, rombu, trapezu, a także do wyznaczania długości odcinków o poziomie trudności nie większym niż w przykładach:
+				a) oblicz najkrótszą wysokość trójkąta prostokątnego o bokach długości: 5 cm, 12 cm i 13 cm,
+				b) przekątne rombu ABCD mają długości AC = 8 dm i BD = 10 dm. Przekątną BD rombu przedłużono do punktu E w taki sposób, że odcinek BE jest dwa razy dłuższy od tej przekątnej. Oblicz pole trójkąta CDE. (zadanie ma dwie odpowiedzi).
+		X. Oś liczbowa. Układ współrzędnych na płaszczyźnie. Uczeń:
+			1) zaznacza na osi liczbowej zbiory liczb spełniających warunek taki jak  x ≥ 1, 5 lub taki jak <math> x< -\frac{4}{7} </math>;
+			2) znajduje współrzędne danych (na rysunku) punktów kratowych w układzie współrzędnych na płaszczyźnie;
+			3) rysuje w układzie współrzędnych na płaszczyźnie punkty kratowe o danych współrzędnych całkowitych (dowolnego znaku);
+			4) znajduje środek odcinka, którego końce mają dane współrzędne (całkowite lub wymierne) oraz znajduje współrzędne drugiego końca odcinka, gdy dany jest jeden koniec i środek;
+			5) oblicza długość odcinka, którego końce są danymi punktami kratowymi w układzie współrzędnych;
+			6) dla danych punktów kratowych A i B znajduje inne punkty kratowe należące do prostej AB.
+		XI. Geometria przestrzenna. Uczeń:
+			1) rozpoznaje graniastosłupy i ostrosłupy – w tym proste i prawidłowe;
+			2) oblicza objętości i pola powierzchni graniastosłupów prostych, prawidłowych i takich, które nie są prawidłowe o poziomie trudności nie większym niż w przykładowym zadaniu: Podstawą graniastosłupa prostego jest trójkąt równoramienny, którego dwa równe kąty mają po 45° , a najdłuższy bok ma długość 6 √2 dm. Jeden z boków prostokąta, który jest w tym graniastosłupie ścianą boczną o największej powierzchni, ma długość 4 dm. Oblicz objętość i pole powierzchni całkowitej tego graniastosłupa;
+			3) oblicza objętości i pola powierzchni ostrosłupów prawidłowych i takich, które nie są prawidłowe o poziomie trudności nie większym niż w przykładzie: Prostokąt ABCD jest podstawą ostrosłupa ABCDS, punkt M jest środkiem krawędzi AD, odcinek MS jest wysokością ostrosłupa. Dane są następujące długości krawędzi: AD = 10 cm, AS = 13 cm oraz AB = 20 cm. Oblicz objętość ostrosłupa. <file>szkoła-podstawowa-matematyka-20-9.png</file>
+		XII. Wprowadzenie do kombinatoryki i rachunku prawdopodobieństwa. Uczeń:
+			1) wyznacza zbiory obiektów, analizuje i oblicza, ile jest obiektów, mających daną własność, w przypadkach niewymagających stosowania reguł mnożenia i dodawania;
+			2) przeprowadza proste doświadczenia losowe, polegające na rzucie monetą, rzucie sześcienną kostką do gry, rzucie kostką wielościenną lub losowaniu kuli spośród zestawu kul, analizuje je i oblicza prawdopodobieństwa zdarzeń w doświadczeniach losowych.
+		XIII. Odczytywanie danych i elementy statystyki opisowej. Uczeń:
+			1) interpretuje dane przedstawione za pomocą tabel, diagramów słupkowych i kołowych, wykresów, w tym także wykresów w układzie współrzędnych;
+			2) tworzy diagramy słupkowe i kołowe oraz wykresy liniowe na podstawie zebranych przez siebie danych lub danych pochodzących z różnych źródeł;
+			3) oblicza średnią arytmetyczną kilku liczb.
+		XIV. Długość okręgu i pole koła. Uczeń:
+			1) oblicza długość okręgu o danym promieniu lub danej średnicy;
+			2) oblicza promień lub średnicę okręgu o danej długości okręgu;
+			3) oblicza pole koła o danym promieniu lub danej średnicy;
+			4) oblicza promień lub średnicę koła o danym polu koła;
+			5) oblicza pole pierścienia kołowego o danych promieniach lub średnicach obu okręgów tworzących pierścień.
+		XV. Symetrie. Uczeń:
+			1) rozpoznaje symetralną odcinka i dwusieczną kąta;
+			2) zna i stosuje w zadaniach podstawowe własności symetralnej odcinka i dwusiecznej kąta jak w przykładowym zadaniu: Wierzchołek C rombu ABCD leży na symetralnych boków AB i AD. Oblicz kąty tego rombu;
+			3) rozpoznaje figury osiowosymetryczne i wskazuje ich osie symetrii oraz uzupełnia figurę do figury osiowosymetrycznej przy danych: osi symetrii figury i części figury;
+			4) rozpoznaje figury środkowosymetryczne i wskazuje ich środki symetrii.
+		XVI. Zaawansowane metody zliczania. Uczeń:
+			1) stosuje regułę mnożenia do zliczania par elementów o określonych własnościach;
+			2) stosuje regułę dodawania i mnożenia do zliczania par elementów w sytuacjach, wymagających rozważenia kilku przypadków, na przykład w zliczaniu liczb naturalnych trzycyfrowych podzielnych przez 5 i mających trzy różne cyfry albo jak w zadaniu: W klasie jest 14 dziewczynek i 11 chłopców. Na ile sposobów można z tej klasy wybrać dwuosobową delegację składającą się z jednej dziewczynki i jednego chłopca?
+		XVII. Rachunek prawdopodobieństwa. Uczeń:
+			1) oblicza prawdopodobieństwa zdarzeń w doświadczeniach, polegających na rzucie dwiema kostkami lub losowaniu dwóch elementów ze zwracaniem;
+			2) oblicza prawdopodobieństwa zdarzeń w doświadczeniach, polegających na losowaniu dwóch elementów bez zwracania jak w przykładzie: Z urny zawierającej kule ponumerowane liczbami od 1 do 7 losujemy bez zwracania dwie kule. Oblicz prawdopodobieństwo tego, że suma liczb na wylosowanych kulach będzie parzysta.

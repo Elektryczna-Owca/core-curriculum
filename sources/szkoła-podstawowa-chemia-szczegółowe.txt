@@ -1,0 +1,100 @@
+KLASY VII i VIII
+		I. Substancje i ich właściwości. Uczeń:
+			1) opisuje właściwości substancji będących głównymi składnikami stosowanych na co dzień produktów, np. soli kuchennej, cukru, mąki, wody, węgla, glinu, miedzi, cynku, żelaza; projektuje i przeprowadza doświadczenia, w których bada wybrane właściwości substancji;
+			2) rozpoznaje znaki ostrzegawcze (piktogramy) stosowane przy oznakowaniu substancji niebezpiecznych; wymienia podstawowe zasady bezpiecznej pracy z odczynnikami chemicznymi;
+			3) opisuje stany skupienia materii;
+			4) tłumaczy, na czym polegają zjawiska dyfuzji, rozpuszczania, zmiany stanu skupienia;
+			5) opisuje cechy mieszanin jednorodnych i niejednorodnych;
+			6) sporządza mieszaniny i dobiera metodę rozdzielania składników mieszanin (np. sączenie, destylacja, rozdzielanie cieczy w rozdzielaczu); wskazuje te różnice między właściwościami fizycznymi składników mieszaniny, które umożliwiają jej rozdzielenie;
+			7) opisuje różnice między mieszaniną a związkiem chemicznym lub pierwiastkiem;
+			8) klasyfikuje pierwiastki na metale i niemetale; odróżnia metale od niemetali na podstawie ich właściwości;
+			9) posługuje się symbolami pierwiastków i stosuje je do zapisywania wzorów chemicznych: H, C, N, O, Na, Mg, Al, Si, P, S, Cl, K, Ca, Fe, Cu, Zn, Br, Ag, Sn, I, Ba, Au, Hg, Pb;
+			10) przeprowadza obliczenia z wykorzystaniem pojęć: masa, gęstość i objętość.
+		II. Wewnętrzna budowa materii. Uczeń:
+			1) posługuje się pojęciem pierwiastka chemicznego jako zbioru atomów o danej liczbie atomowej Z;
+			2) opisuje skład atomu (jądro: protony i neutrony, elektrony); na podstawie położenia pierwiastka w układzie okresowym określa liczbę powłok elektronowych w atomie oraz liczbę elektronów zewnętrznej powłoki elektronowej dla pierwiastków grup 1.–2. i 13.–18.; określa położenie pierwiastka w układzie okresowym (numer grupy, numer okresu);
+			3) ustala liczbę protonów, elektronów i neutronów w atomie na podstawie liczby atomowej i masowej; stosuje zapis E;
+			4) definiuje pojęcie izotopu; opisuje różnice w budowie atomów izotopów, np. wodoru; wyszukuje informacje na temat zastosowań różnych izotopów;
+			5) stosuje pojęcie masy atomowej (średnia masa atomów danego pierwiastka, z uwzględnieniem jego składu izotopowego);
+			6) odczytuje z układu okresowego podstawowe informacje o pierwiastkach (symbol, nazwę, liczbę atomową, masę atomową, rodzaj pierwiastka – metal lub niemetal);
+			7) wyjaśnia związek między podobieństwem właściwości pierwiastków należących do tej samej grupy układu okresowego oraz stopniową zmianą właściwości pierwiastków leżących w tym samym okresie (metale – niemetale) a budową atomów;
+			8) opisuje, czym różni się atom od cząsteczki; interpretuje zapisy, np. H₂, 2H, 2H₂;
+			9) opisuje funkcję elektronów zewnętrznej powłoki w łączeniu się atomów; stosuje pojęcie elektroujemności do określania rodzaju wiązań (kowalencyjne, jonowe) w podanych substancjach;
+			10) na przykładzie cząsteczek H₂, Cl₂, N₂, CO₂, H₂O, HCl, NH₃, CH₄ opisuje powstawanie wiązań chemicznych; zapisuje wzory sumaryczne i strukturalne tych cząsteczek;
+			11) stosuje pojęcie jonu (kation i anion) i opisuje, jak powstają jony; określa ładunek jonów metali (np. Na, Mg, Al) oraz niemetali (np. O, Cl, S); opisuje powstawanie wiązań jonowych (np. NaCl, MgO);
+			12) porównuje właściwości związków kowalencyjnych i jonowych (stan skupienia, rozpuszczalność w wodzie, temperatura topnienia i temperatura wrzenia, przewodnictwo ciepła i elektryczności);
+			13) określa na podstawie układu okresowego wartościowość (względem wodoru i maksymalną względem tlenu) dla pierwiastków grup: 1., 2., 13., 14., 15., 16. i 17.;
+			14) rysuje wzór strukturalny cząsteczki związku dwupierwiastkowego (o wiązaniach kowalencyjnych) o znanych wartościowościach pierwiastków;
+			15) ustala dla związków dwupierwiastkowych (np. tlenków): nazwę na podstawie wzoru sumarycznego, wzór sumaryczny na podstawie nazwy, wzór sumaryczny na podstawie wartościowości, wartościowość na podstawie wzoru sumarycznego.
+		III. Reakcje chemiczne. Uczeń:
+			1) opisuje i porównuje zjawisko fizyczne i reakcję chemiczną; podaje przykłady zjawisk fizycznych i reakcji chemicznych zachodzących w otoczeniu człowieka; projektuje i przeprowadza doświadczenia ilustrujące zjawisko fizyczne i reakcję chemiczną; na podstawie obserwacji klasyfikuje przemiany do reakcji chemicznych i zjawisk fizycznych;
+			2) podaje przykłady różnych typów reakcji (reakcja syntezy, reakcja analizy, reakcja wymiany); wskazuje substraty i produkty;
+			3) zapisuje równania reakcji chemicznych w formie cząsteczkowej i jonowej; dobiera współczynniki stechiometryczne, stosując prawo zachowania masy i prawo zachowania ładunku;
+			4) definiuje pojęcia: reakcje egzotermiczne i reakcje endotermiczne; podaje przykłady takich reakcji;
+			5) wskazuje wpływ katalizatora na przebieg reakcji chemicznej; na podstawie równania reakcji lub opisu jej przebiegu odróżnia reagenty (substraty i produkty) od katalizatora;
+			6) oblicza masy cząsteczkowe pierwiastków występujących w formie cząsteczek i związków chemicznych;
+			7) stosuje do obliczeń prawo stałości składu i prawo zachowania masy (wykonuje obliczenia związane ze stechiometrią wzoru chemicznego i równania reakcji chemicznej).
+		IV. Tlen, wodór i ich związki chemiczne. Powietrze. Uczeń:
+			1) projektuje i przeprowadza doświadczenie polegające na otrzymaniu tlenu oraz bada wybrane właściwości fizyczne i chemiczne tlenu; odczytuje z różnych źródeł (np. układu okresowego pierwiastków, wykresu rozpuszczalności) informacje dotyczące tego pierwiastka; wymienia jego zastosowania; pisze równania reakcji otrzymywania tlenu oraz równania reakcji tlenu z metalami i niemetalami;
+			2) opisuje właściwości fizyczne oraz zastosowania wybranych tlenków (np. tlenku wapnia, tlenku glinu, tlenków żelaza, tlenków węgla, tlenku krzemu(IV), tlenków siarki);
+			3) wskazuje przyczyny i skutki spadku stężenia ozonu w stratosferze ziemskiej; proponuje sposoby zapobiegania powiększaniu się „dziury ozonowej”;
+			4) wymienia czynniki środowiska, które powodują korozję; proponuje sposoby zabezpieczania produktów zawierających żelazo przed rdzewieniem;
+			5) opisuje właściwości fizyczne i chemiczne tlenku węgla(IV) oraz funkcję tego gazu w przyrodzie; projektuje i przeprowadza doświadczenie pozwala- jące otrzymać oraz wykryć tlenek węgla(IV) (np. w powietrzu wydychanym z płuc); pisze równania reakcji otrzymywania tlenku węgla(IV) (np. reakcja spalania węgla w tlenie, rozkład węglanów, reakcja węglanu wapnia z kwasem solnym);
+			6) opisuje obieg tlenu i węgla w przyrodzie;
+			7) projektuje i przeprowadza doświadczenie polegające na otrzymaniu wodoru oraz bada wybrane jego właściwości fizyczne i chemiczne; odczytuje z różnych źródeł (np. układu okresowego pierwiastków, wykresu rozpuszczalności) informacje dotyczące tego pierwiastka; wymienia jego zastosowania; pisze równania reakcji otrzymywania wodoru oraz równania reakcji wodoru z niemetalami; opisuje właściwości fizyczne oraz zastosowania wybranych wodorków niemetali (amoniaku, chlorowodoru, siarkowodoru);
+			8) projektuje i przeprowadza doświadczenie potwierdzające, że powietrze jest mieszaniną; opisuje skład i właściwości powietrza;
+			9) opisuje właściwości fizyczne gazów szlachetnych; wyjaśnia, dlaczego są one bardzo mało aktywne chemicznie; wymienia ich zastosowania;
+			10) wymienia źródła, rodzaje i skutki zanieczyszczeń powietrza; wymienia sposoby postępowania pozwalające chronić powietrze przed zanieczy- szczeniami.
+		V. Woda i roztwory wodne. Uczeń:
+			1) opisuje budowę cząsteczki wody oraz przewiduje zdolność do rozpuszczania się różnych substancji w wodzie;
+			2) podaje przykłady substancji, które nie rozpuszczają się w wodzie, oraz przykłady substancji, które rozpuszczają się w wodzie, tworząc roztwory właściwe; podaje przykłady substancji, które z wodą tworzą koloidy i zawiesiny;
+			3) projektuje i przeprowadza doświadczenia dotyczące rozpuszczalności różnych substancji w wodzie;
+			4) projektuje i przeprowadza doświadczenia wykazujące wpływ różnych czynników na szybkość rozpuszczania substancji stałych w wodzie;
+			5) definiuje pojęcie rozpuszczalność; podaje różnice między roztworem nasyconym i nienasyconym;
+			6) odczytuje rozpuszczalność substancji z tabeli rozpuszczalności lub z wykresu rozpuszczalności; oblicza masę substancji, którą można rozpuścić w określonej ilości wody w podanej temperaturze;
+			7) wykonuje obliczenia z zastosowaniem pojęć: rozpuszczalność, stężenie procentowe (procent masowy), masa substancji, masa rozpuszczalnika, masa roztworu, gęstość roztworu (z wykorzystaniem tabeli rozpuszczalności lub wykresu rozpuszczalności).
+		VI. Wodorotlenki i kwasy. Uczeń:
+			1) rozpoznaje wzory wodorotlenków i kwasów; zapisuje wzory sumaryczne wodorotlenków: NaOH, KOH, Ca(OH)₂, Al(OH)₃, Cu(OH)₂ i kwasów: HCl, H₂S, HNO₃, H₂SO₃, H₂SO₄, H₂CO₃, H₃PO₄ oraz podaje ich nazwy;
+			2) projektuje i przeprowadza doświadczenia, w wyniku których można otrzymać wodorotlenek (rozpuszczalny i trudno rozpuszczalny w wodzie), kwas beztlenowy i tlenowy (np. NaOH, Ca(OH)₂, Cu(OH)₂, HCl, H₃PO₄); zapisuje odpowiednie równania reakcji w formie cząsteczkowej;
+			3) opisuje właściwości i wynikające z nich zastosowania niektórych wodorotlenków i kwasów (np. NaOH, Ca(OH)₂, HCl, H₂SO₄);
+			4) wyjaśnia, na czym polega dysocjacja elektrolityczna zasad i kwasów; definiuje pojęcia: elektrolit i nieelektrolit; zapisuje równania dysocjacji elektrolitycznej zasad i kwasów (w formie stopniowej dla H₂S, H₂CO₃); definiuje kwasy i zasady (zgodnie z teorią Arrheniusa); rozróżnia pojęcia: wodoro- tlenek i zasada;
+			5) wskazuje na zastosowania wskaźników, np. fenoloftaleiny, oranżu metylowego, uniwersalnego papierka wskaźnikowego; rozróżnia doświadczalnie roztwory kwasów i wodorotlenków za pomocą wskaźników;
+			6) wymienia rodzaje odczynu roztworu; określa i uzasadnia odczyn roztworu (kwasowy, zasadowy, obojętny);
+			7) posługuje się skalą pH; interpretuje wartość pH w ujęciu jakościowym (odczyn kwasowy, zasadowy, obojętny); przeprowadza doświadczenie, które pozwoli zbadać pH produktów występujących w życiu codziennym czło- wieka (np. żywności, środków czystości);
+			8) analizuje proces powstawania i skutki kwaśnych opadów; proponuje sposoby ograniczające ich powstawanie.
+		VII. Sole. Uczeń:
+			1) projektuje i przeprowadza doświadczenie oraz wyjaśnia przebieg reakcji zobojętniania (HCl + NaOH); pisze równania reakcji zobojętniania w formie cząsteczkowej i jonowej;
+			2) tworzy i zapisuje wzory sumaryczne soli: chlorków, siarczków, azotanów(V), siarczanów(IV), siarczanów(VI), węglanów, fosforanów(V) (ortofosforanów(V)); tworzy nazwy soli na podstawie wzorów; tworzy i zapisuje wzory suma- ryczne soli na podstawie nazw;
+			3) pisze równania reakcji otrzymywania soli (kwas + wodorotlenek (np. Ca(OH)₂), kwas + tlenek metalu, kwas + metal (1. i 2. grupy układu okresowego), wodorotlenek (NaOH, KOH, Ca(OH)₂) + tlenek niemetalu, tlenek metalu + tlenek niemetalu, metal + niemetal) w formie cząsteczkowej;
+			4) pisze równania dysocjacji elektrolitycznej soli rozpuszczalnych w wodzie;
+			5) wyjaśnia przebieg reakcji strąceniowej; projektuje i przeprowadza doświadczenie pozwalające otrzymywać substancje trudno rozpuszczalne (sole i wodorotlenki) w reakcjach strąceniowych, pisze odpowiednie równania reakcji w formie cząsteczkowej i jonowej; na podstawie tablicy rozpuszczalności soli i wodorotlenków przewiduje wynik reakcji strąceniowej;
+			6) wymienia zastosowania najważniejszych soli: chlorków, węglanów, azotanów(V), siarczanów(VI) i fosforanów(V) (ortofosforanów(V)).
+		VIII. Związki węgla z wodorem – węglowodory. Uczeń:
+			1) definiuje pojęcia: węglowodory nasycone (alkany) i nienasycone (alkeny, alkiny);
+			2) tworzy wzór ogólny szeregu homologicznego alkanów (na podstawie wzorów kolejnych alkanów) i zapisuje wzór sumaryczny alkanu o podanej liczbie atomów węgla; rysuje wzory strukturalne i półstrukturalne (grupowe) alkanów o łańcuchach prostych do pięciu atomów węgla w cząsteczce; podaje ich nazwy systematyczne;
+			3) obserwuje i opisuje właściwości fizyczne alkanów; wskazuje związek między długością łańcucha węglowego a właściwościami fizycznymi w szeregu alkanów (gęstość, temperatura topnienia i temperatura wrzenia);
+			4) obserwuje i opisuje właściwości chemiczne (reakcje spalania) alkanów; pisze równania reakcji spalania alkanów przy dużym i małym dostępie tlenu; wyszukuje informacje na temat zastosowań alkanów i je wymienia;
+			5) tworzy wzory ogólne szeregów homologicznych alkenów i alkinów (na podstawie wzorów kolejnych alkenów i alkinów); zapisuje wzór sumaryczny alkenu i alkinu o podanej liczbie atomów węgla; tworzy nazwy alkenów i alkinów na podstawie nazw odpowiednich alkanów; rysuje wzory strukturalne i półstrukturalne (grupowe) alkenów i alkinów o łańcuchach prostych do pięciu atomów węgla w cząsteczce;
+			6) na podstawie obserwacji opisuje właściwości fizyczne i chemiczne (spalanie, przyłączanie bromu) etenu i etynu; wyszukuje informacje na temat ich zastosowań i je wymienia;
+			7) zapisuje równanie reakcji polimeryzacji etenu; opisuje właściwości i zastosowania polietylenu;
+			8) projektuje i przeprowadza doświadczenie pozwalające odróżnić węglowodory nasycone od nienasyconych;
+			9) wymienia naturalne źródła węglowodorów;
+			10) wymienia nazwy produktów destylacji ropy naftowej, wskazuje ich zastosowania.
+		IX. Pochodne węglowodorów. Uczeń:
+			1) pisze wzory sumaryczne, rysuje wzory półstrukturalne (grupowe) i strukturalne alkoholi monohydroksylowych o łańcuchach prostych zawierających do pięciu atomów węgla w cząsteczce; tworzy ich nazwy systematyczne; dzieli alkohole na mono- i polihydroksylowe;
+			2) bada wybrane właściwości fizyczne i chemiczne etanolu; opisuje właściwości i zastosowania metanolu i etanolu; zapisuje równania reakcji spalania metanolu i etanolu; opisuje negatywne skutki działania metanolu i etanolu na organizm ludzki;
+			3) zapisuje wzór sumaryczny i półstrukturalny (grupowy) propano-1,2,3-triolu (glicerolu); bada jego właściwości fizyczne; wymienia jego zastosowania;
+			4) podaje przykłady kwasów organicznych występujących w przyrodzie (np. kwas mrówkowy, szczawiowy, cytrynowy) i wymienia ich zastosowania; rysuje wzory półstrukturalne (grupowe) i strukturalne kwasów monokarboksylowych o łańcuchach prostych zawierających do pięciu atomów węgla w cząsteczce oraz podaje ich nazwy zwyczajowe i systematyczne;
+			5) bada i opisuje wybrane właściwości fizyczne i chemiczne kwasu etanowego (octowego); pisze w formie cząsteczkowej równania reakcji tego kwasu z wodorotlenkami, tlenkami metali, metalami; bada odczyn wodnego roztworu kwasu etanowego (octowego); pisze równanie dysocjacji tego kwasu;
+			6) wyjaśnia, na czym polega reakcja estryfikacji; zapisuje równania reakcji między kwasami karboksylowymi (metanowym, etanowym) i alkoholami (metanolem, etanolem); tworzy nazwy systematyczne i zwyczajowe estrów na podstawie nazw odpowiednich kwasów karboksylowych (metanowego, etanowego) i alkoholi (metanolu, etanolu); planuje i przeprowadza doświadczenie pozwalające otrzymać ester o podanej nazwie; opisuje właściwości estrów w aspekcie ich zastosowań.
+		X. Substancje chemiczne o znaczeniu biologicznym. Uczeń:
+			1) podaje nazwy i rysuje wzory półstrukturalne (grupowe) długołańcuchowych kwasów monokarboksylowych (kwasów tłuszczowych) nasyconych (palmitynowego, stearynowego) i nienasyconego (oleinowego);
+			2) opisuje wybrane właściwości fizyczne i chemiczne długołańcuchowych kwasów monokarboksylowych; projektuje i przeprowadza doświadczenie, które pozwoli odróżnić kwas oleinowy od palmitynowego lub stearynowego;
+			3) opisuje budowę cząsteczki tłuszczu jako estru glicerolu i kwasów tłuszczowych; klasyfikuje tłuszcze pod względem pochodzenia, stanu skupienia i charakteru chemicznego; opisuje wybrane właściwości fizyczne tłuszczów; projektuje i przeprowadza doświadczenie pozwalające odróżnić tłuszcz nienasycony od nasyconego;
+			4) opisuje budowę i wybrane właściwości fizyczne i chemiczne aminokwasów na przykładzie kwasu aminooctowego (glicyny); pisze równanie reakcji kondensacji dwóch cząsteczek glicyny;
+			5) wymienia pierwiastki, których atomy wchodzą w skład cząsteczek białek; definiuje białka jako związki powstające w wyniku kondensacji amino- kwasów;
+			6) bada zachowanie się białka pod wpływem ogrzewania, etanolu, kwasów i zasad, soli metali ciężkich (np. CuSO₄) i chlorku sodu; opisuje różnice w przebiegu denaturacji i koagulacji białek; wymienia czynniki, które wywołują te procesy; projektuje i przeprowadza doświadczenia pozwalające wykryć obecność białka za pomocą stężonego roztworu kwasu azotowego(V) w różnych produktach spożywczych;
+			7) wymienia pierwiastki, których atomy wchodzą w skład cząsteczek cukrów (węglowodanów); klasyfikuje cukry na proste (glukoza, fruktoza) i złożone (sacharoza, skrobia, celuloza);
+			8) podaje wzór sumaryczny glukozy i fruktozy; bada i opisuje wybrane właściwości fizyczne glukozy i fruktozy; wymienia i opisuje ich zastosowania;
+			9) podaje wzór sumaryczny sacharozy; bada i opisuje wybrane właściwości fizyczne sacharozy; wskazuje na jej zastosowania;
+			10) podaje przykłady występowania skrobi i celulozy w przyrodzie; podaje wzory sumaryczne tych związków; wymienia różnice w ich właściwościach fizycznych; opisuje znaczenie i zastosowania tych cukrów; projektuje i przeprowadza doświadczenia pozwalające wykryć obecność skrobi za pomocą roztworu jodu w różnych produktach spożywczych.
