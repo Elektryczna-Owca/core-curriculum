@@ -1,0 +1,32 @@
+V. Genetyka. Uczeń:
+	1) przedstawia strukturę i rolę DNA;
+	2) wskazuje znaczenie struktury podwójnej helisy w procesie replikacji DNA; podaje znaczenie procesu replikacji DNA;
+	3) opisuje budowę chromosomu (chromatydy, centromer) i podaje liczbę chromosomów komórek człowieka oraz rozróżnia autosomy i chromosomy płci;
+	4) przedstawia znaczenie biologiczne mitozy i mejozy, rozróżnia komórki haploidalne i diploidalne;
+	5) przedstawia nowotwory jako skutek niekontrolowanych podziałów komórkowych oraz przedstawia czynniki sprzyjające ich rozwojowi (np. niewłaściwa dieta, niektóre używki, niewłaściwy tryb życia, promieniowanie UV, zanieczyszczenia środowiska);
+	6) przedstawia dziedziczenie jednogenowe, posługując się podstawowymi pojęciami genetyki (fenotyp, genotyp, gen, allel, homozygota, heterozygota, dominacja, recesywność);
+	7) przedstawia dziedziczenie płci u człowieka;
+	8) podaje przykłady chorób sprzężonych z płcią (hemofilia, daltonizm) i przedstawia ich dziedziczenie;
+	9) wyjaśnia dziedziczenie grup krwi człowieka (układ AB0, czynnik Rh);
+	10) określa, czym jest mutacja oraz wymienia możliwe przyczyny ich występowania (mutacje spontaniczne i wywołane przez czynniki mutagenne) i podaje przykłady czynników mutagennych (promieniowanie UV, promieniowanie X, składniki dymu tytoniowego, toksyny grzybów pleśniowych, wirus HPV);
+	11) podaje przykłady chorób genetycznych człowieka warunkowanych mutacjami (mukowiscydoza, fenyloketonuria, zespół Downa).
+VI. Ewolucja życia. Uczeń:
+	1) wyjaśnia istotę procesu ewolucji organizmów i przedstawia źródła wiedzy o jej przebiegu;
+	2) wyjaśnia na przykładach, na czym polega dobór naturalny i sztuczny oraz przedstawia różnice między nimi;
+	3) przedstawia podobieństwa i różnice między człowiekiem a małpami człekokształtnymi jako wynik procesów ewolucyjnych.
+VII. Ekologia i ochrona środowiska. Uczeń:
+	1) wskazuje żywe i nieożywione elementy ekosystemu oraz wykazuje, że są one powiązane różnorodnymi zależnościami;
+	2) opisuje cechy populacji (liczebność, zagęszczenie, rozrodczość, śmiertelność, struktura przestrzenna, wiekowa i płciowa) oraz dokonuje obserwacji liczebności, rozmieszczenia i zagęszczenia wybranego gatunku rośliny zielnej w terenie;
+	3) analizuje oddziaływania antagonistyczne: konkurencję wewnątrzgatunkową i międzygatunkową, pasożytnictwo, drapieżnictwo i roślinożerność;
+	4) analizuje oddziaływania nieantagonistyczne: mutualizm obligatoryjny (symbioza), mutualizm fakultatywny (protokooperacja) i komensalizm;
+	5) przedstawia strukturę troficzną ekosystemu, rozróżnia producentów, konsumentów (I-go i dalszych rzędów) i destruentów oraz przedstawia ich rolę w obiegu materii i przepływie energii przez ekosystem;
+	6) analizuje zależności pokarmowe (łańcuchy pokarmowe i sieci troficzne), konstruuje proste łańcuchy pokarmowe (łańcuchy spasania) oraz analizuje przedstawione (w postaci schematu) sieci i łańcuchy pokarmowe;
+	7) analizuje zakresy tolerancji organizmu na wybrane czynniki środowiska (temperatura, wilgotność, stężenie dwutlenku siarki w powietrzu);
+	8) przedstawia porosty jako organizmy wskaźnikowe (skala porostowa), ocenia stopień zanieczyszczenia powietrza tlenkami siarki, wykorzystując skalę porostową;
+	9) przedstawia odnawialne i nieodnawialne zasoby przyrody oraz propozycje racjonalnego gospodarowania tymi zasobami zgodnie z zasadą zrównoważonego rozwoju.
+VIII. Zagrożenia różnorodności biologicznej. Uczeń:
+	1) przedstawia istotę różnorodności biologicznej;
+	2) podaje przykłady gospodarczego użytkowania ekosystemów;
+	3) analizuje wpływ człowieka na różnorodność biologiczną;
+	4) uzasadnia konieczność ochrony różnorodności biologicznej;
+	5) przedstawia formy ochrony przyrody w Polsce oraz uzasadnia konieczność ich stosowania dla zachowania gatunków i ekosystemów.
