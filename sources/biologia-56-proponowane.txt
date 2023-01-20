@@ -1,237 +1,119 @@
-Klasy V-VIII
-	Klasy V-VI (proponowane)
-		I. Organizacja i chemizm życia. Uczeń:
-			1) przedstawia hierarchiczną organizację budowy organizmów;
-			2) wymienia najważniejsze pierwiastki budujące ciała organizmów;
-			3) wymienia podstawowe grupy związków chemicznych występujących w organizmach (białka, cukry, tłuszcze, kwasy nukleinowe, woda, sole mineralne) i podaje ich funkcje;
-			4) dokonuje obserwacji mikroskopowych komórki (podstawowej jednostki życia), rozpoznaje (pod mikroskopem, na schemacie, na zdjęciu lub na podstawie opisu) podstawowe elementy budowy komórki (błona komórkowa, cytoplazma, jądro komórkowe, chloroplast, mitochondrium, wakuola, ściana komórkowa) i przedstawia ich funkcje;
-			5) porównuje budowę komórki bakterii, roślin i zwierząt, wskazując cechy umożliwiające ich rozróżnienie;
-			6) przedstawia istotę fotosyntezy jako jednego ze sposobów odżywiania się organizmów (substraty, produkty i warunki przebiegu procesu) oraz planuje i przeprowadza doświadczenie wykazujące wpływ wybranych czynników na intensywność procesu fotosyntezy;
-			7) przedstawia oddychanie tlenowe i fermentację jako sposoby wytwarzania energii potrzebnej do życia (substraty, produkty i warunki przebiegu procesów) oraz planuje i przeprowadza doświadczenie wykazujące, że podczas fermentacji drożdże wydzielają dwutlenek węgla;
-			8) przedstawia czynności życiowe organizmów.
-		II. Różnorodność życia.
-			1. Klasyfikacja organizmów. Uczeń:
-				1) uzasadnia potrzebę klasyfikowania organizmów i przedstawia zasady systemu klasyfikacji biologicznej;
-				2) przedstawia charakterystyczne cechy organizmów pozwalające przyporządkować je do jednego z odpowiedniego królestwa;
-				3) rozpoznaje organizmy z najbliższego otoczenia, posługując się prostym kluczem do ich oznaczania.
-			2. Wirusy – bezkomórkowe formy materii. Uczeń:
-				1) uzasadnia, dlaczego wirusy nie są organizmami;
-				2) przedstawia drogi rozprzestrzeniania się i zasady profilaktyki chorób wywoływanych przez wirusy (grypa, ospa, różyczka, świnka, odra, AIDS).
-			3. Bakterie – organizmy jednokomórkowe. Uczeń:
-				1) podaje miejsca występowania bakterii;
-				2) wymienia podstawowe formy morfologiczne bakterii;
-				3) przedstawia czynności życiowe bakterii;
-				4) przedstawia drogi rozprzestrzeniania się i zasady profilaktyki chorób wywoływanych przez bakterie (gruźlica, borelioza, tężec, salmonelloza);
-				5) wyjaśnia znaczenie bakterii w przyrodzie i dla człowieka.
-			4. Protisty – organizmy o różnorodnej budowie komórkowej. Uczeń:
-				1) wykazuje różnorodność budowy protistów (jednokomórkowe, wielokomórkowe) na wybranych przykładach;
-				2) przedstawia wybrane czynności życiowe protistów (oddychanie, odżywianie, rozmnażanie);
-				3) zakłada hodowlę protistów oraz dokonuje obserwacji mikroskopowej protistów;
-				4) przedstawia drogi zakażenia i zasady profilaktyki chorób wywoływanych przez protisty (toksoplazmoza, malaria).
-			5. Różnorodność i jedność roślin:
-				1) tkanki roślinne – uczeń dokonuje obserwacji i rozpoznaje (pod mikroskopem, na schemacie, na zdjęciu lub na podstawie opisu) tkanki roślinne oraz wskazuje ich cechy adaptacyjne do pełnienia określonych funkcji (tkanka twórcza, okrywająca, miękiszowa, wzmacniająca, przewodząca);
-				2) mchy – uczeń:
-					a) dokonuje obserwacji przedstawicieli mchów (zdjęcia, ryciny, okazy żywe) i przedstawia cechy ich budowy zewnętrznej,
-					b) na podstawie obecności charakterystycznych cech identyfikuje nieznany organizm jako przedstawiciela mchów,
-					c) wyjaśnia znaczenie mchów w przyrodzie; planuje i przeprowadza doświadczenie wykazujące zdolność mchów do chłonięcia wody;
-				3) paprociowe, widłakowe, skrzypowe – uczeń:
-					a) dokonuje obserwacji przedstawicieli paprociowych, widłakowych i skrzypowych (zdjęcia, ryciny, okazy żywe) oraz przedstawia cechy ich budowy zewnętrznej,
-					b) na podstawie obecności charakterystycznych cech identyfikuje nieznany organizm jako przedstawiciela paprociowych, widłakowych lub skrzypowych,
-					c) wyjaśnia znaczenie paprociowych, widłakowych i skrzypowych w przyrodzie;
-				4) rośliny nagonasienne – uczeń:
-					a) przedstawia cechy budowy zewnętrznej rośliny nagonasiennej na przykładzie sosny,
-					b) rozpoznaje przedstawicieli rodzimych drzew nagonasiennych,
-					c) wyjaśnia znaczenie roślin nagonasiennych w przyrodzie i dla człowieka;
-				5) rośliny okrytonasienne – uczeń:
-					a) rozróżnia formy morfologiczne roślin okrytonasiennych (rośliny zielne, krzewinki, krzewy, drzewa),
-					b) dokonuje obserwacji rośliny okrytonasiennej (zdjęcia, ryciny, okazy żywe); rozpoznaje jej organy i określa ich funkcje (korzeń, łodyga, liść, kwiat),
-					c) opisuje modyfikacje korzeni, łodyg i liści jako adaptacje roślin okrytonasiennych do życia w określonych środowiskach,
-					d) przedstawia sposoby rozmnażania wegetatywnego roślin oraz dokonuje obserwacji wybranych sposobów rozmnażania wegetatywnego,
-					e) rozróżnia elementy budowy kwiatu i określa ich funkcje w rozmnażaniu płciowym,
-					f) przedstawia budowę nasiona rośliny (łupina nasienna, bielmo, zarodek),
-					g) planuje i przeprowadza doświadczenie wykazujące wpływ wybranego czynnika środowiska (temperatura, dostęp tlenu, światła lub wody) na proces kiełkowania nasion,
-					h) przedstawia sposoby rozprzestrzeniania się nasion, wskazując odpowiednie adaptacje w budowie owoców do tego procesu,i) rozpoznaje przedstawicieli rodzimych drzew liściastych,j) przedstawia znaczenie roślin okrytonasiennych w przyrodzie i dla  człowieka.
-				6) różnorodność roślin; uczeń identyfikuje nieznany organizm jako przedstawiciela jednej z grup wymienionych w pkt 2–5 na podstawie jego cech morfologicznych.
-			6. Grzyby – organizmy cudzożywne. Uczeń:
-				1) przedstawia środowiska życia grzybów (w tym grzybów porostowych);
-				2) wymienia cechy umożliwiające zaklasyfikowanie organizmu do grzybów;
-				3) wykazuje różnorodność budowy grzybów (jednokomórkowe, wielokomórkowe);
-				4) przedstawia wybrane czynności życiowe grzybów (odżywianie, oddychanie);
-				5) przedstawia znaczenie grzybów w przyrodzie i dla człowieka.
-			7. Różnorodność i jedność świata zwierząt:
-				1) tkanki zwierzęce – uczeń dokonuje obserwacji i rozpoznaje (pod mikroskopem, na schemacie, na zdjęciu lub na podstawie opisu) tkanki zwierzęce (tkanka nabłonkowa, mięśniowa, łączna, nerwowa) i wskazuje ich cechy adaptacyjne do pełnienia określonych funkcji;
-				2) parzydełkowce – uczeń:
-					a) przedstawia środowisko życia, cechy morfologiczne i tryb życia parzydełkowców,
-					b) obserwuje przedstawicieli parzydełkowców (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
-					c) wyjaśnia znaczenie parzydełkowców w przyrodzie;
-				3) płazińce – uczeń:
-					a) przedstawia środowiska i tryb życia płazińców,
-					b) obserwuje przedstawicieli płazińców (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
-					c) wykazuje związek budowy morfologicznej tasiemców z pasożytniczym trybem życia,
-					d) przedstawia drogi inwazji płazińców pasożytniczych i omawia sposoby profilaktyki chorób wywoływanych przez wybrane pasożyty (tasiemiec uzbrojony i tasiemiec nieuzbrojony),
-					e) wyjaśnia znaczenie płazińców w przyrodzie i dla człowieka;
-				4) nicienie – uczeń:
-					a) przedstawia środowisko i tryb życia nicieni,
-					b) dokonuje obserwacji przedstawicieli nicieni (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
-					c) przedstawia drogi inwazji nicieni pasożytniczych (włosień, glista i owsik) i omawia sposoby profilaktyki chorób człowieka wywoływanych przez te pasożyty,
-					d) przedstawia znaczenie nicieni w przyrodzie i dla człowieka;
-				5) pierścienice – uczeń:
-					a) przedstawia środowisko życia, cechy morfologiczne oraz przystosowania pierścienic do trybu życia,
-					b) dokonuje obserwacji poznanych przedstawicieli pierścienic (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
-					c) wyjaśnia znaczenie pierścienic w przyrodzie i dla człowieka;
-				6) stawonogi – uczeń:
-					a) przedstawia środowisko życia, cechy morfologiczne oraz tryb życia skorupiaków, owadów i pajęczaków oraz wskazuje cechy adaptacyjne umożliwiające im opanowanie różnych środowisk,
-					b) dokonuje obserwacji przedstawicieli stawonogów (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
-					c) wyjaśnia znaczenie stawonogów (w tym form pasożytniczych i szkodników) w przyrodzie i dla człowieka;
-				7) mięczaki – uczeń:
-					a) przedstawia środowisko życia, cechy morfologiczne oraz tryb życia ślimaków, małży i głowonogów,
-					b) dokonuje obserwacji przedstawicieli mięczaków (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
-					c) wyjaśnia znaczenie mięczaków w przyrodzie i dla człowieka;
-				8) różnorodność zwierząt bezkręgowych – uczeń identyfikuje nieznany organizm jako przedstawiciela jednej z grup wymienionych w pkt 2–7 na podstawie jego cech morfologicznych;
-				9) ryby – uczeń:
-					a) dokonuje obserwacji przedstawicieli ryb (zdjęcia, filmy, schematy, hodowle akwariowe itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania ryb do życia w wodzie,
-					b) określa ryby jako zwierzęta zmiennocieplne,
-					c) przedstawia sposób rozmnażania i rozwój ryb,
-					d) wyjaśnia znaczenie ryb w przyrodzie i dla człowieka;
-				10) płazy – uczeń:
-					a) dokonuje obserwacji przedstawicieli płazów (zdjęcia, filmy, schematy, okazy naturalne w terenie itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania płazów do życia w wodzie i na lądzie,
-					b) określa płazy jako zwierzęta zmiennocieplne,
-					c) przedstawia sposób rozmnażania i rozwój płazów,
-					d) wyjaśnia znaczenie płazów w przyrodzie i dla człowieka;
-				11) gady – uczeń:
-					a) dokonuje obserwacji przedstawicieli gadów (zdjęcia, filmy, schematy, okazy naturalne w terenie itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania gadów do życia na lądzie,
-					b) określa gady jako zwierzęta zmiennocieplne,
-					c) przedstawia sposób rozmnażania i rozwój gadów,
-					d) wyjaśnia znaczenie gadów w przyrodzie i dla człowieka;
-				12) ptaki – uczeń:
-					a) przedstawia różnorodność środowisk życia i cech morfologicznych ptaków,
-					b) dokonuje obserwacji przedstawicieli ptaków (zdjęcia, filmy, schematy, okazy naturalne w terenie itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania ptaków do lotu,
-					c) określa ptaki jako zwierzęta stałocieplne,
-					d) przedstawia sposób rozmnażania i rozwój ptaków,
-					e) wyjaśnia znaczenie ptaków w przyrodzie i dla człowieka;
-				13) ssaki – uczeń:
-					a) przedstawia różnorodność środowisk życia i cech morfologicznych  ssaków,
-					b) dokonuje obserwacji przedstawicieli ssaków (zdjęcia, filmy, schematy, okazy naturalne w terenie, itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania ssaków do życia w różnych środowiskach,
-					c) określa ssaki jako zwierzęta stałocieplne,
-					d) przedstawia sposób rozmnażania i rozwój ssaków,
-					e) wyjaśnia znaczenie ssaków w przyrodzie i dla człowieka;
-				14) różnorodność zwierząt kręgowych – uczeń:
-					a) identyfikuje nieznany organizm jako przedstawiciela jednej z gromad kręgowców wymienionych w pkt 9–13 na podstawie jego cech morfologicznych;
-					b) porównuje grupy kręgowców pod względem cech morfologicznych, rozmnażania i rozwoju oraz wykazuje związek tych cech z opanowaniem środowisk ich życia;
-					c) przedstawia przykłady działań człowieka wpływających na różnorodność ryb, płazów, gadów, ptaków i ssaków.
-	Klasa VII (proponowane)
-		III. Organizm człowieka.
-			1. Hierarchiczna budowa organizmu człowieka. Uczeń przedstawia hierarchizację budowy organizmu człowieka (komórki, tkanki, narządy, układy narządów, organizm).
-			2. Skóra. Uczeń:
-				1) przedstawia funkcje skóry;
-				2) rozpoznaje elementy budowy skóry (na modelu, rysunku, według opisu itd.) oraz określa związek budowy tych elementów z funkcjami pełnionymi przez skórę;
-				3) uzasadnia konieczność konsultacji lekarskiej w przypadku rozpoznania niepokojących zmian na skórze;
-				4) podaje przykłady chorób skóry (grzybice skóry, czerniak) oraz zasady ich profilaktyki;
-				5) określa związek nadmiernej ekspozycji na promieniowanie UV ze zwiększonym ryzykiem występowania i rozwoju choroby nowotworowej który.
-			3. Układ ruchu. Uczeń:
-				1) rozpoznaje (na schemacie, rysunku, modelu, według opisu itd.) elementy szkieletu osiowego, obręczy i kończyn; 
-				2) przedstawia funkcje kości; określa cechy budowy fizycznej i chemicznej kości oraz planuje i przeprowadza doświadczenie wykazujące rolę składników chemicznych kości; 
-				3) przedstawia rolę i współdziałanie mięśni, ścięgien, kości i stawów w wykonywaniu ruchów;
-				4) uzasadnia konieczność aktywności fizycznej dla prawidłowej budowy i funkcjonowania układu ruchu;
-				5) podaje przykłady schorzeń układu ruchu (skrzywienia kręgosłupa, płaskostopie, krzywica, osteoporoza) oraz zasady ich profilaktyki.
-			4. Układ pokarmowy i odżywianie się. Uczeń:
-				1) rozpoznaje (na schemacie, rysunku, modelu, według opisu itd.) elementy układu pokarmowego; przedstawia ich funkcje oraz określa związek budowy tych elementów z pełnioną funkcją;
-				2) rozpoznaje (na schemacie, rysunku, modelu, według opisu itd.) rodzaje zębów oraz określa ich znaczenie w mechanicznej obróbce pokarmu; przedstawia przyczyny próchnicy i zasady jej profilaktyki;
-				3) przedstawia źródła i wyjaśnia znaczenie składników pokarmowych (białka, cukry, tłuszcze, witaminy, sole mineralne i woda) dla prawidłowego funkcjonowania organizmu oraz planuje i przeprowadza doświadczenie wykrywające obecność wybranych składników pokarmowych w produktach spożywczych;
-				4) przedstawia miejsca trawienia białek, tłuszczów i cukrów; określa produkty tych procesów oraz podaje miejsce ich wchłaniania; planuje i przeprowadza doświadczenie badające wpływ substancji zawartych w ślinie na trawienie skrobi;
-				5) analizuje skutki niedoboru niektórych witamin (A, D, K, C, B6, B12) i składników mineralnych (Mg, Fe, Ca) w organizmie oraz skutki niewłaściwej suplementacji witamin i składników mineralnych;
-				6) wyjaśnia rolę błonnika w funkcjonowaniu układu pokarmowego oraz uzasadnia konieczność systematycznego spożywania owoców i warzyw;
-				7) uzasadnia konieczność stosowania diety zróżnicowanej i dostosowanej do potrzeb organizmu (wiek, płeć, stan zdrowia, aktywność fizyczna itp.), oblicza indeks masy ciała oraz przedstawia i analizuje konsekwencje zdrowotne niewłaściwego odżywiania (otyłość, nadwaga, anoreksja, bulimia, cukrzyca);
-				8) podaje przykłady chorób układu pokarmowego (WZW A, WZW B, WZW C, choroba wrzodowa żołądka i dwunastnicy, zatrucia pokarmowe, rak jelita grubego) oraz zasady ich profilaktyki.
-			5. Układ krążenia. Uczeń:
-				1) rozpoznaje elementy budowy układu krążenia (na schemacie, rysunku, według opisu itd.) i przedstawia ich funkcje;
-				2) analizuje krążenie krwi w obiegu małym i dużym;
-				3) przedstawia rolę głównych składników krwi (krwinki czerwone i białe, płytki krwi, osocze);
-				4) wymienia grupy krwi układu AB0 i Rh oraz przedstawia społeczne znaczenie krwiodawstwa;
-				5) planuje i przeprowadza obserwację wpływu wysiłku fizycznego na zmiany tętna i ciśnienia tętniczego krwi;
-				6) analizuje wpływ aktywności fizycznej i prawidłowej diety na funkcjonowanie układu krążenia;
-				7) podaje przykłady chorób krwi (anemia, białaczki), układu krążenia (miażdżyca, nadciśnienie tętnicze, zawał serca) oraz zasady ich profilaktyki;
-				8) uzasadnia konieczność okresowego wykonywania badań kontrolnych krwi, pomiaru tętna i ciśnienia tętniczego.
-			6. Układ odpornościowy. Uczeń:
-				1) wskazuje lokalizację (na schemacie, rysunku, według opisu itd.) wybranych narządów układu odpornościowego: śledziony, grasicy i węzłów chłonnych oraz określa ich funkcje;
-				2) rozróżnia odporność wrodzoną i nabytą oraz opisuje sposoby nabywania odporności (czynna, bierna, naturalna, sztuczna);
-				3) porównuje istotę działania szczepionek i surowicy; podaje wskazania do ich zastosowania oraz uzasadnia konieczność stosowania obowiązkowych szczepień;
-				4) określa, w jakiej sytuacji dochodzi do konfliktu serologicznego i przewiduje jego skutki;
-				5) przedstawia znaczenie przeszczepów oraz zgody na transplantację na- rządów;
-				6) określa alergię jako nadwrażliwość układu odpornościowego na określony czynnik;
-				7) określa AIDS jako zaburzenie mechanizmów odporności.
-			7. Układ oddechowy. Uczeń:
-				1) rozpoznaje elementy budowy układu oddechowego (na schemacie, modelu, rysunku, według opisu itd.) i przedstawia ich funkcje oraz określa związek budowy tych elementów z pełnioną funkcją;
-				2) przedstawia mechanizm wentylacji płuc (wdech i wydech);
-				3) planuje i przeprowadza obserwację wpływu wysiłku fizycznego na zmiany częstości oddechu;
-				4) analizuje przebieg wymiany gazowej w tkankach i w płucach; planuje i przeprowadza doświadczenie wykrywające obecność dwutlenku węgla oraz pary wodnej w powietrzu wydychanym;
-				5) analizuje wpływ palenia tytoniu (bierne i czynne), zanieczyszczeń pyłowych powietrza na stan i funkcjonowanie układu oddechowego;
-				6) podaje przykłady chorób układu oddechowego (angina, gruźlica, rak płuca) oraz zasady ich profilaktyki
-			8. Układ moczowy i wydalanie. Uczeń:
-				1) przedstawia istotę procesu wydalania i podaje przykłady substancji, które są wydalane z organizmu człowieka (mocznik, dwutlenek węgla) oraz wymienia narządy biorące udział w ich wydalaniu;
-				2) rozpoznaje elementy układu moczowego (na modelu, rysunku, według opisu itd.) oraz przedstawia ich funkcje;
-				3) podaje przykłady chorób układu moczowego (zakażenia dróg moczowych, kamica nerkowa) oraz zasady ich profilaktyki;
-				4) uzasadnia konieczność okresowego wykonywania badań kontrolnych  moczu.
-			9. Układ nerwowy. Uczeń:
-				1) rozpoznaje elementy ośrodkowego i obwodowego układu nerwowego (na modelu, rysunku, według opisu itd.) oraz określa ich funkcje;
-				2) porównuje rolę współczulnego i przywspółczulnego układu nerwowego;
-				3) opisuje łuk odruchowy i wymienia rodzaje odruchów; dokonuje obserwacji odruchu kolanowego;
-				4) przedstawia sposoby radzenia sobie ze stresem;
-				5) uzasadnia znaczenie snu w prawidłowym funkcjonowaniu układu nerwowego;
-				6) przedstawia negatywny wpływ na funkcjonowanie układu nerwowego niektórych substancji psychoaktywnych: alkoholu, narkotyków, środków dopingujących, dopalaczy, nikotyny (w tym w e-papierosach) oraz nadużywania kofeiny i niektórych leków.
-			10. Narządy zmysłów. Uczeń:
-				1) rozpoznaje elementy budowy oka (na modelu, rysunku, według opisu itd.) oraz przedstawia ich funkcje w powstawaniu obrazu, dokonuje obserwacji wykazującej obecność tarczy nerwu wzrokowego;
-				2) przedstawia przyczyny powstawania oraz sposoby korygowania wad wzroku (krótkowzroczność, dalekowzroczność, astygmatyzm);
-				3) rozpoznaje elementy budowy ucha (na modelu, rysunku, według opisu itd.) oraz przedstawia ich funkcje;
-				4) opisuje wpływ hałasu na zdrowie człowieka;
-				5) przedstawia rolę zmysłu równowagi, smaku, węchu i dotyku; wskazuje umiejscowienie receptorów właściwych tym zmysłom oraz planuje i przeprowadza doświadczenie sprawdzające gęstość rozmieszczenia receptorów w skórze różnych części ciała.
-			11. Układ dokrewny. Uczeń:
-				1) wymienia gruczoły dokrewne (przysadka, tarczyca, trzustka, nadnercza, jądra i jajniki); wskazuje ich lokalizację i podaje hormony wydzielane przez nie (hormon wzrostu, tyroksyna, insulina, glukagon, adrenalina, testosteron, estrogeny i progesteron) oraz przedstawia ich rolę;
-				2) przedstawia antagonistyczne działanie insuliny i glukagonu;
-				3) wyjaśnia, dlaczego nie należy bez konsultacji z lekarzem przyjmować preparatów i leków hormonalnych.
-			12. Rozmnażanie i rozwój. Uczeń:
-				1) rozpoznaje elementy budowy układu rozrodczego męskiego i żeńskiego (na schemacie, według opisu itd.) oraz podaje ich funkcje;
-				2) opisuje fazy cyklu miesiączkowego kobiety;
-				3) określa rolę gamet w procesie zapłodnienia;
-				4) wymienia etapy rozwoju przedurodzeniowego człowieka (zygota, zarodek, płód) i wyjaśnia wpływ różnych czynników na rozwój zarodka i płodu;
-				5) przedstawia cechy fizycznego, psychicznego i społecznego dojrzewania człowieka;
-				6) przedstawia zasady profilaktyki chorób przenoszonych drogą płciową;
-				7) uzasadnia konieczność wykonywania badań kontrolnych jako sposobu wczesnego wykrywania raka piersi, raka szyjki macicy i raka prostaty.
-		IV. Homeostaza. Uczeń:
-			1) analizuje współdziałanie poszczególnych układów narządów w utrzymaniu niektórych parametrów środowiska wewnętrznego na określonym poziomie (temperatura, poziom glukozy we krwi, ilość wody w organizmie);
-			2) przedstawia zdrowie jako stan równowagi środowiska wewnętrznego organizmu oraz choroby jako zaburzenia homeostazy;
-			3) analizuje informacje dołączane do leków oraz wyjaśnia, dlaczego nie należy bez wyraźnej potrzeby przyjmować leków ogólnodostępnych i suplementów;
-			4) uzasadnia, że antybiotyki i inne leki należy stosować zgodnie z zaleceniem lekarza (dawka, godziny przyjmowania leku i długość kuracji).
-	Klasa VIII (proponowane)
-		V. Genetyka. Uczeń:
-			1) przedstawia strukturę i rolę DNA;
-			2) wskazuje znaczenie struktury podwójnej helisy w procesie replikacji DNA; podaje znaczenie procesu replikacji DNA;
-			3) opisuje budowę chromosomu (chromatydy, centromer) i podaje liczbę chromosomów komórek człowieka oraz rozróżnia autosomy i chromosomy płci;
-			4) przedstawia znaczenie biologiczne mitozy i mejozy, rozróżnia komórki haploidalne i diploidalne;
-			5) przedstawia nowotwory jako skutek niekontrolowanych podziałów komórkowych oraz przedstawia czynniki sprzyjające ich rozwojowi (np. niewłaściwa dieta, niektóre używki, niewłaściwy tryb życia, promieniowanie UV, zanieczyszczenia środowiska);
-			6) przedstawia dziedziczenie jednogenowe, posługując się podstawowymi pojęciami genetyki (fenotyp, genotyp, gen, allel, homozygota, heterozygota, dominacja, recesywność);
-			7) przedstawia dziedziczenie płci u człowieka;
-			8) podaje przykłady chorób sprzężonych z płcią (hemofilia, daltonizm) i przedstawia ich dziedziczenie;
-			9) wyjaśnia dziedziczenie grup krwi człowieka (układ AB0, czynnik Rh);
-			10) określa, czym jest mutacja oraz wymienia możliwe przyczyny ich występowania (mutacje spontaniczne i wywołane przez czynniki mutagenne) i podaje przykłady czynników mutagennych (promieniowanie UV, promieniowanie X, składniki dymu tytoniowego, toksyny grzybów pleśniowych, wirus HPV);
-			11) podaje przykłady chorób genetycznych człowieka warunkowanych mutacjami (mukowiscydoza, fenyloketonuria, zespół Downa).
-		VI. Ewolucja życia. Uczeń:
-			1) wyjaśnia istotę procesu ewolucji organizmów i przedstawia źródła wiedzy o jej przebiegu;
-			2) wyjaśnia na przykładach, na czym polega dobór naturalny i sztuczny oraz przedstawia różnice między nimi;
-			3) przedstawia podobieństwa i różnice między człowiekiem a małpami człekokształtnymi jako wynik procesów ewolucyjnych.
-		VII. Ekologia i ochrona środowiska. Uczeń:
-			1) wskazuje żywe i nieożywione elementy ekosystemu oraz wykazuje, że są one powiązane różnorodnymi zależnościami;
-			2) opisuje cechy populacji (liczebność, zagęszczenie, rozrodczość, śmiertelność, struktura przestrzenna, wiekowa i płciowa) oraz dokonuje obserwacji liczebności, rozmieszczenia i zagęszczenia wybranego gatunku rośliny zielnej w terenie;
-			3) analizuje oddziaływania antagonistyczne: konkurencję wewnątrzgatunkową i międzygatunkową, pasożytnictwo, drapieżnictwo i roślinożerność;
-			4) analizuje oddziaływania nieantagonistyczne: mutualizm obligatoryjny (symbioza), mutualizm fakultatywny (protokooperacja) i komensalizm;
-			5) przedstawia strukturę troficzną ekosystemu, rozróżnia producentów, konsumentów (I-go i dalszych rzędów) i destruentów oraz przedstawia ich rolę w obiegu materii i przepływie energii przez ekosystem;
-			6) analizuje zależności pokarmowe (łańcuchy pokarmowe i sieci troficzne), konstruuje proste łańcuchy pokarmowe (łańcuchy spasania) oraz analizuje przedstawione (w postaci schematu) sieci i łańcuchy pokarmowe;
-			7) analizuje zakresy tolerancji organizmu na wybrane czynniki środowiska (temperatura, wilgotność, stężenie dwutlenku siarki w powietrzu);
-			8) przedstawia porosty jako organizmy wskaźnikowe (skala porostowa), ocenia stopień zanieczyszczenia powietrza tlenkami siarki, wykorzystując skalę porostową;
-			9) przedstawia odnawialne i nieodnawialne zasoby przyrody oraz propozycje racjonalnego gospodarowania tymi zasobami zgodnie z zasadą zrównoważonego rozwoju.
-		VIII. Zagrożenia różnorodności biologicznej. Uczeń:
-			1) przedstawia istotę różnorodności biologicznej;
-			2) podaje przykłady gospodarczego użytkowania ekosystemów;
-			3) analizuje wpływ człowieka na różnorodność biologiczną;
-			4) uzasadnia konieczność ochrony różnorodności biologicznej;
-			5) przedstawia formy ochrony przyrody w Polsce oraz uzasadnia konieczność ich stosowania dla zachowania gatunków i ekosystemów.
+I. Organizacja i chemizm życia. Uczeń:
+	1) przedstawia hierarchiczną organizację budowy organizmów;
+	2) wymienia najważniejsze pierwiastki budujące ciała organizmów;
+	3) wymienia podstawowe grupy związków chemicznych występujących w organizmach (białka, cukry, tłuszcze, kwasy nukleinowe, woda, sole mineralne) i podaje ich funkcje;
+	4) dokonuje obserwacji mikroskopowych komórki (podstawowej jednostki życia), rozpoznaje (pod mikroskopem, na schemacie, na zdjęciu lub na podstawie opisu) podstawowe elementy budowy komórki (błona komórkowa, cytoplazma, jądro komórkowe, chloroplast, mitochondrium, wakuola, ściana komórkowa) i przedstawia ich funkcje;
+	5) porównuje budowę komórki bakterii, roślin i zwierząt, wskazując cechy umożliwiające ich rozróżnienie;
+	6) przedstawia istotę fotosyntezy jako jednego ze sposobów odżywiania się organizmów (substraty, produkty i warunki przebiegu procesu) oraz planuje i przeprowadza doświadczenie wykazujące wpływ wybranych czynników na intensywność procesu fotosyntezy;
+	7) przedstawia oddychanie tlenowe i fermentację jako sposoby wytwarzania energii potrzebnej do życia (substraty, produkty i warunki przebiegu procesów) oraz planuje i przeprowadza doświadczenie wykazujące, że podczas fermentacji drożdże wydzielają dwutlenek węgla;
+	8) przedstawia czynności życiowe organizmów.
+II. Różnorodność życia.
+	1. Klasyfikacja organizmów. Uczeń:
+		1) uzasadnia potrzebę klasyfikowania organizmów i przedstawia zasady systemu klasyfikacji biologicznej;
+		2) przedstawia charakterystyczne cechy organizmów pozwalające przyporządkować je do jednego z odpowiedniego królestwa;
+		3) rozpoznaje organizmy z najbliższego otoczenia, posługując się prostym kluczem do ich oznaczania.
+	2. Wirusy – bezkomórkowe formy materii. Uczeń:
+		1) uzasadnia, dlaczego wirusy nie są organizmami;
+		2) przedstawia drogi rozprzestrzeniania się i zasady profilaktyki chorób wywoływanych przez wirusy (grypa, ospa, różyczka, świnka, odra, AIDS).
+	3. Bakterie – organizmy jednokomórkowe. Uczeń:
+		1) podaje miejsca występowania bakterii;
+		2) wymienia podstawowe formy morfologiczne bakterii;
+		3) przedstawia czynności życiowe bakterii;
+		4) przedstawia drogi rozprzestrzeniania się i zasady profilaktyki chorób wywoływanych przez bakterie (gruźlica, borelioza, tężec, salmonelloza);
+		5) wyjaśnia znaczenie bakterii w przyrodzie i dla człowieka.
+	4. Protisty – organizmy o różnorodnej budowie komórkowej. Uczeń:
+		1) wykazuje różnorodność budowy protistów (jednokomórkowe, wielokomórkowe) na wybranych przykładach;
+		2) przedstawia wybrane czynności życiowe protistów (oddychanie, odżywianie, rozmnażanie);
+		3) zakłada hodowlę protistów oraz dokonuje obserwacji mikroskopowej protistów;
+		4) przedstawia drogi zakażenia i zasady profilaktyki chorób wywoływanych przez protisty (toksoplazmoza, malaria).
+	5. Różnorodność i jedność roślin:
+		1) tkanki roślinne – uczeń dokonuje obserwacji i rozpoznaje (pod mikroskopem, na schemacie, na zdjęciu lub na podstawie opisu) tkanki roślinne oraz wskazuje ich cechy adaptacyjne do pełnienia określonych funkcji (tkanka twórcza, okrywająca, miękiszowa, wzmacniająca, przewodząca);
+		2) mchy – uczeń:
+			a) dokonuje obserwacji przedstawicieli mchów (zdjęcia, ryciny, okazy żywe) i przedstawia cechy ich budowy zewnętrznej,
+			b) na podstawie obecności charakterystycznych cech identyfikuje nieznany organizm jako przedstawiciela mchów,
+			c) wyjaśnia znaczenie mchów w przyrodzie; planuje i przeprowadza doświadczenie wykazujące zdolność mchów do chłonięcia wody;
+		3) paprociowe, widłakowe, skrzypowe – uczeń:
+			a) dokonuje obserwacji przedstawicieli paprociowych, widłakowych i skrzypowych (zdjęcia, ryciny, okazy żywe) oraz przedstawia cechy ich budowy zewnętrznej,
+			b) na podstawie obecności charakterystycznych cech identyfikuje nieznany organizm jako przedstawiciela paprociowych, widłakowych lub skrzypowych,
+			c) wyjaśnia znaczenie paprociowych, widłakowych i skrzypowych w przyrodzie;
+		4) rośliny nagonasienne – uczeń:
+			a) przedstawia cechy budowy zewnętrznej rośliny nagonasiennej na przykładzie sosny,
+			b) rozpoznaje przedstawicieli rodzimych drzew nagonasiennych,
+			c) wyjaśnia znaczenie roślin nagonasiennych w przyrodzie i dla człowieka;
+		5) rośliny okrytonasienne – uczeń:
+			a) rozróżnia formy morfologiczne roślin okrytonasiennych (rośliny zielne, krzewinki, krzewy, drzewa),
+			b) dokonuje obserwacji rośliny okrytonasiennej (zdjęcia, ryciny, okazy żywe); rozpoznaje jej organy i określa ich funkcje (korzeń, łodyga, liść, kwiat),
+			c) opisuje modyfikacje korzeni, łodyg i liści jako adaptacje roślin okrytonasiennych do życia w określonych środowiskach,
+			d) przedstawia sposoby rozmnażania wegetatywnego roślin oraz dokonuje obserwacji wybranych sposobów rozmnażania wegetatywnego,
+			e) rozróżnia elementy budowy kwiatu i określa ich funkcje w rozmnażaniu płciowym,
+			f) przedstawia budowę nasiona rośliny (łupina nasienna, bielmo, zarodek),
+			g) planuje i przeprowadza doświadczenie wykazujące wpływ wybranego czynnika środowiska (temperatura, dostęp tlenu, światła lub wody) na proces kiełkowania nasion,
+			h) przedstawia sposoby rozprzestrzeniania się nasion, wskazując odpowiednie adaptacje w budowie owoców do tego procesu,i) rozpoznaje przedstawicieli rodzimych drzew liściastych,j) przedstawia znaczenie roślin okrytonasiennych w przyrodzie i dla  człowieka.
+		6) różnorodność roślin; uczeń identyfikuje nieznany organizm jako przedstawiciela jednej z grup wymienionych w pkt 2–5 na podstawie jego cech morfologicznych.
+	6. Grzyby – organizmy cudzożywne. Uczeń:
+		1) przedstawia środowiska życia grzybów (w tym grzybów porostowych);
+		2) wymienia cechy umożliwiające zaklasyfikowanie organizmu do grzybów;
+		3) wykazuje różnorodność budowy grzybów (jednokomórkowe, wielokomórkowe);
+		4) przedstawia wybrane czynności życiowe grzybów (odżywianie, oddychanie);
+		5) przedstawia znaczenie grzybów w przyrodzie i dla człowieka.
+	7. Różnorodność i jedność świata zwierząt:
+		1) tkanki zwierzęce – uczeń dokonuje obserwacji i rozpoznaje (pod mikroskopem, na schemacie, na zdjęciu lub na podstawie opisu) tkanki zwierzęce (tkanka nabłonkowa, mięśniowa, łączna, nerwowa) i wskazuje ich cechy adaptacyjne do pełnienia określonych funkcji;
+		2) parzydełkowce – uczeń:
+			a) przedstawia środowisko życia, cechy morfologiczne i tryb życia parzydełkowców,
+			b) obserwuje przedstawicieli parzydełkowców (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
+			c) wyjaśnia znaczenie parzydełkowców w przyrodzie;
+		3) płazińce – uczeń:
+			a) przedstawia środowiska i tryb życia płazińców,
+			b) obserwuje przedstawicieli płazińców (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
+			c) wykazuje związek budowy morfologicznej tasiemców z pasożytniczym trybem życia,
+			d) przedstawia drogi inwazji płazińców pasożytniczych i omawia sposoby profilaktyki chorób wywoływanych przez wybrane pasożyty (tasiemiec uzbrojony i tasiemiec nieuzbrojony),
+			e) wyjaśnia znaczenie płazińców w przyrodzie i dla człowieka;
+		4) nicienie – uczeń:
+			a) przedstawia środowisko i tryb życia nicieni,
+			b) dokonuje obserwacji przedstawicieli nicieni (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
+			c) przedstawia drogi inwazji nicieni pasożytniczych (włosień, glista i owsik) i omawia sposoby profilaktyki chorób człowieka wywoływanych przez te pasożyty,
+			d) przedstawia znaczenie nicieni w przyrodzie i dla człowieka;
+		5) pierścienice – uczeń:
+			a) przedstawia środowisko życia, cechy morfologiczne oraz przystosowania pierścienic do trybu życia,
+			b) dokonuje obserwacji poznanych przedstawicieli pierścienic (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
+			c) wyjaśnia znaczenie pierścienic w przyrodzie i dla człowieka;
+		6) stawonogi – uczeń:
+			a) przedstawia środowisko życia, cechy morfologiczne oraz tryb życia skorupiaków, owadów i pajęczaków oraz wskazuje cechy adaptacyjne umożliwiające im opanowanie różnych środowisk,
+			b) dokonuje obserwacji przedstawicieli stawonogów (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
+			c) wyjaśnia znaczenie stawonogów (w tym form pasożytniczych i szkodników) w przyrodzie i dla człowieka;
+		7) mięczaki – uczeń:
+			a) przedstawia środowisko życia, cechy morfologiczne oraz tryb życia ślimaków, małży i głowonogów,
+			b) dokonuje obserwacji przedstawicieli mięczaków (zdjęcia, filmy, schematy itd.) i przedstawia cechy wspólne tej grupy zwierząt,
+			c) wyjaśnia znaczenie mięczaków w przyrodzie i dla człowieka;
+		8) różnorodność zwierząt bezkręgowych – uczeń identyfikuje nieznany organizm jako przedstawiciela jednej z grup wymienionych w pkt 2–7 na podstawie jego cech morfologicznych;
+		9) ryby – uczeń:
+			a) dokonuje obserwacji przedstawicieli ryb (zdjęcia, filmy, schematy, hodowle akwariowe itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania ryb do życia w wodzie,
+			b) określa ryby jako zwierzęta zmiennocieplne,
+			c) przedstawia sposób rozmnażania i rozwój ryb,
+			d) wyjaśnia znaczenie ryb w przyrodzie i dla człowieka;
+		10) płazy – uczeń:
+			a) dokonuje obserwacji przedstawicieli płazów (zdjęcia, filmy, schematy, okazy naturalne w terenie itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania płazów do życia w wodzie i na lądzie,
+			b) określa płazy jako zwierzęta zmiennocieplne,
+			c) przedstawia sposób rozmnażania i rozwój płazów,
+			d) wyjaśnia znaczenie płazów w przyrodzie i dla człowieka;
+		11) gady – uczeń:
+			a) dokonuje obserwacji przedstawicieli gadów (zdjęcia, filmy, schematy, okazy naturalne w terenie itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania gadów do życia na lądzie,
+			b) określa gady jako zwierzęta zmiennocieplne,
+			c) przedstawia sposób rozmnażania i rozwój gadów,
+			d) wyjaśnia znaczenie gadów w przyrodzie i dla człowieka;
+		12) ptaki – uczeń:
+			a) przedstawia różnorodność środowisk życia i cech morfologicznych ptaków,
+			b) dokonuje obserwacji przedstawicieli ptaków (zdjęcia, filmy, schematy, okazy naturalne w terenie itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania ptaków do lotu,
+			c) określa ptaki jako zwierzęta stałocieplne,
+			d) przedstawia sposób rozmnażania i rozwój ptaków,
+			e) wyjaśnia znaczenie ptaków w przyrodzie i dla człowieka;
+		13) ssaki – uczeń:
+			a) przedstawia różnorodność środowisk życia i cech morfologicznych  ssaków,
+			b) dokonuje obserwacji przedstawicieli ssaków (zdjęcia, filmy, schematy, okazy naturalne w terenie, itd.) i przedstawia ich cechy wspólne oraz opisuje przystosowania ssaków do życia w różnych środowiskach,
+			c) określa ssaki jako zwierzęta stałocieplne,
+			d) przedstawia sposób rozmnażania i rozwój ssaków,
+			e) wyjaśnia znaczenie ssaków w przyrodzie i dla człowieka;
+		14) różnorodność zwierząt kręgowych – uczeń:
+			a) identyfikuje nieznany organizm jako przedstawiciela jednej z gromad kręgowców wymienionych w pkt 9–13 na podstawie jego cech morfologicznych;
+			b) porównuje grupy kręgowców pod względem cech morfologicznych, rozmnażania i rozwoju oraz wykazuje związek tych cech z opanowaniem środowisk ich życia;
+			c) przedstawia przykłady działań człowieka wpływających na różnorodność ryb, płazów, gadów, ptaków i ssaków.
