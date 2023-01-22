@@ -1,6 +1,6 @@
 <?php
 try {
-    $dbh = new PDO('mysql:host=localhost;dbname=mydb', 'root', 'a');
+    $dbh = new PDO('mysql:host=localhost;dbname=curriculum', 'root', 'a');
 } catch (PDOException $e) {
     print "Error!: " . $e->getMessage() . "<br/>";
     die();
@@ -8,11 +8,11 @@ try {
 
 $subjects = ['biologia'];
 $defaultSqlParams = ['subject' => null, 'symbol' => null,
-    'grade1' => 0, 'grade2' => 0, 'grade3' => 0, 'grade4' => 0, 'grade5' => 0, 'grade6' => 0, 'grade7' => 0, 'grade8' => 0,
+    'grade0' => 0, 'grade1' => 0, 'grade2' => 0, 'grade3' => 0, 'grade4' => 0, 'grade5' => 0, 'grade6' => 0, 'grade7' => 0, 'grade8' => 0,
     'text_level1' => null, 'text_level2' => null, 'text_level3' => null, 'text_level4' => null,
     'obligatory' => null];
 $sqlTemplate = "INSERT INTO curriculum SET subject = :subject, symbol = :symbol,
-                           grade1 = :grade1, grade2 = :grade2, grade3 = :grade3, grade4 = :grade4, grade5 = :grade5, grade6 = :grade6, grade7 = :grade7,  grade8 = :grade8,
+                           grade0 = :grade0, grade1 = :grade1, grade2 = :grade2, grade3 = :grade3, grade4 = :grade4, grade5 = :grade5, grade6 = :grade6, grade7 = :grade7,  grade8 = :grade8,
                            text_level1 = :text_level1, text_level2 = :text_level2, text_level3 = :text_level3, text_level4 = :text_level4,
                            obligatory = :obligatory";
 $preparedStatement = $dbh->prepare($sqlTemplate);
@@ -35,7 +35,7 @@ foreach ($subjects as $subject) {
         echo "Processing $file\n";
         echo "Subject: $subject\n";
         echo "Grades:\n";
-        print_r($grades);
+//        print_r($grades);
         echo "Obligatory: $obligatory\n";
 
         $fileContent = file($file);
@@ -68,7 +68,7 @@ foreach ($subjects as $subject) {
                 $sqlParams['text_level3'] = $textLevel[3];
                 $sqlParams['text_level4'] = $textLevel[4];
                 $preparedStatement->execute($sqlParams);
-//                var_dump($textLevel);
+//                var_dump($sqlParams);
                 $textLevel[$currentLevel] = trim($line);
             }
 
@@ -83,9 +83,36 @@ function extractSymbol($textLevel)
     $symbol = '';
     $matches = null;
     if (!preg_match('/([IXV]+)\./', $textLevel[1], $matches)) {
-        throw new Exception("Didn't find level number.");
+        throw new Exception("Didn't find 1st level number.");
     }
-    $symbol .= $matches[1];
+    $symbol .= $matches[1] . '.';
+    if (!$textLevel[2]) {
+        return $symbol;
+    }
+
+    $matches = null;
+    if (!preg_match('/(\d+)[.)]/', $textLevel[2], $matches)) {
+        throw new Exception("Didn't find 2nd level number in string: '{$textLevel[2]}'");
+    }
+    $symbol .= $matches[1] . '.';
+
+    if (!$textLevel[3]) {
+        return $symbol;
+    }
+    $matches = null;
+    if (!preg_match('/(\d+)\)/', $textLevel[3], $matches)) {
+        throw new Exception("Didn't find 3rd level number in string: '{$textLevel[3]}'");
+    }
+    $symbol .= $matches[1] . '.';
+
+    if (!$textLevel[4]) {
+        return $symbol;
+    }
+    $matches = null;
+    if (!preg_match('/([a-z])\)/', $textLevel[4], $matches)) {
+        throw new Exception("Didn't find 4th level number in string: '{$textLevel[4]}'");
+    }
+    $symbol .= $matches[1] . '.' ;
 
     return $symbol;
 }
