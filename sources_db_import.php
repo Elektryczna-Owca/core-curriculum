@@ -30,7 +30,7 @@ foreach ($subjects as $subject) {
         $grades = str_split($matches[1]);
         $obligatory = null;
         if (isset($matches[2]) && $matches[2] == '-proponowane') {
-            $defaultSqlParams['obligatory'] = 1;
+            $defaultSqlParams['obligatory'] = 0;
         }
         echo "Processing $file\n";
         echo "Subject: $subject\n";
