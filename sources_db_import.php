@@ -63,10 +63,10 @@ foreach ($subjects as $subject) {
             if ($previousLevel >= $currentLevel) {
                 $sqlParams = $defaultSqlParams;
                 $sqlParams['symbol'] = extractSymbol($textLevel);
-                $sqlParams['text_level1'] = $textLevel[1];
-                $sqlParams['text_level2'] = $textLevel[2];
-                $sqlParams['text_level3'] = $textLevel[3];
-                $sqlParams['text_level4'] = $textLevel[4];
+                $sqlParams['text_level1'] = removeNumbering($textLevel[1]);
+                $sqlParams['text_level2'] = removeNumbering($textLevel[2]);
+                $sqlParams['text_level3'] = removeNumbering($textLevel[3]);
+                $sqlParams['text_level4'] = removeNumbering($textLevel[4]);
                 $preparedStatement->execute($sqlParams);
 //                var_dump($sqlParams);
                 $textLevel[$currentLevel] = trim($line);
@@ -115,4 +115,9 @@ function extractSymbol($textLevel)
     $symbol .= $matches[1] . '.' ;
 
     return $symbol;
+}
+
+function removeNumbering($text): string
+{
+    return preg_replace('/[IXVa-z0-9]+(\)|\.) /', '', $text, 1);
 }
