@@ -28,6 +28,10 @@ foreach ($subjects as $subject) {
             continue;
         }
         $grades = str_split($matches[1]);
+        foreach ($grades as $grade) {
+            $defaultSqlParams["grade$grade"] = 1;
+        }
+
         $obligatory = null;
         if (isset($matches[2]) && $matches[2] == '-proponowane') {
             $defaultSqlParams['obligatory'] = 0;
