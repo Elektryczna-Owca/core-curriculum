@@ -1,0 +1,39 @@
+I. Rozumienie, analizowanie i rozwiązywanie problemów. Uczeń:
+	1) tworzy i porządkuje w postaci sekwencji (liniowo) lub drzewa (nieliniowo) informacje, takie jak:
+		a) obrazki i teksty ilustrujące wybrane sytuacje,
+		b) obiekty z uwzględnieniem ich cech charakterystycznych;
+	2) formułuje i zapisuje w postaci algorytmów polecenia składające się na:
+		a) rozwiązanie problemów z życia codziennego i z różnych przedmiotów, np. liczenie średniej, pisemne wykonanie działań arytmetycznych, takich jak dodawanie i odejmowanie,
+		b) osiągnięcie postawionego celu, w tym znalezienie elementu w zbiorze nieuporządkowanym lub uporządkowanym, znalezienie elementu najmniejszego i największego,
+		c) sterowanie robotem lub obiektem na ekranie;
+	3) w algorytmicznym rozwiązywaniu problemu wyróżnia podstawowe kroki: określenie problemu i celu do osiągnięcia, analiza sytuacji problemowej, opracowanie rozwiązania, sprawdzenie rozwiązania problemu dla przykładowych danych, zapisanie rozwiązania w postaci schematu lub programu.
+II. Programowanie i rozwiązywanie problemów z wykorzystaniem komputera i innych urządzeń cyfrowych. Uczeń:
+	1) projektuje, tworzy i zapisuje w wizualnym języku programowania:
+		a) pomysły historyjek i rozwiązania problemów, w tym proste algorytmy z wykorzystaniem poleceń sekwencyjnych, warunkowych i iteracyjnych oraz zdarzeń,
+		b) prosty program sterujący robotem lub innym obiektem na ekranie komputera;
+	2) testuje na komputerze swoje programy pod względem zgodności z przyjętymi założeniami i ewentualnie je poprawia, objaśnia przebieg działania programów;
+	3) przygotowuje i prezentuje rozwiązania problemów, posługując się podstawowymi aplikacjami (edytor tekstu oraz grafiki, arkusz kalkulacyjny, program do tworzenia prezentacji multimedialnej) na swoim komputerze lub w chmurze, wykazując się przy tym umiejętnościami:
+		a) tworzenia ilustracji w edytorze grafiki: rysuje za pomocą wybranych narzędzi, przekształca obrazy, uzupełnia grafikę tekstem,
+		b) tworzenia dokumentów tekstowych: dobiera czcionkę, formatuje akapity, wstawia do tekstu ilustracje, napisy i kształty, tworzy tabele oraz listy numerowane i punktowane,
+		c) korzystania z arkusza kalkulacyjnego w trakcie rozwiązywania zadań związanych z prostymi obliczeniami: wprowadza dane do arkusza, formatuje komórki, definiuje proste formuły i dobiera wykresy do danych i celów obliczeń,
+		d) tworzenia krótkich prezentacji multimedialnych łączących tekst z grafiką, korzysta przy tym z gotowych szablonów lub projektuje według własnych pomysłów;
+	4) gromadzi, porządkuje i selekcjonuje efekty swojej pracy oraz potrzebne zasoby w komputerze lub w innych urządzeniach, a także w środowiskach wirtualnych (w chmurze).
+III. Posługiwanie się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi. Uczeń:
+	1) opisuje funkcje podstawowych elementów komputera i urządzeń zewnętrznych oraz:
+		a) korzysta z urządzeń do nagrywania obrazów, dźwięków i filmów, w tym urządzeń mobilnych,
+		b) wykorzystuje komputer lub inne urządzenie cyfrowe do gromadzenia, porządkowania i selekcjonowania własnych zasobów;
+	2) wykorzystuje sieć komputerową (szkolną, sieć internet):
+		a) do wyszukiwania potrzebnych informacji i zasobów edukacyjnych, nawigując między stronami,
+		b) jako medium komunikacyjne,
+		c) do pracy w wirtualnym środowisku (na platformie, w chmurze), stosując się do sposobów i zasad pracy w takim środowisku,
+		d) organizuje swoje pliki w folderach umieszczonych lokalnie lub w sieci.
+IV. Rozwijanie kompetencji społecznych. Uczeń:
+	1) uczestniczy w zespołowym rozwiązaniu problemu posługując się technologią taką jak: poczta elektroniczna, forum, wirtualne środowisko kształcenia, dedykowany portal edukacyjny;
+	2) identyfikuje i docenia korzyści płynące ze współpracy nad wspólnym rozwiązywaniem problemów;
+	3) respektuje zasadę równości w dostępie do technologii i do informacji, w tym w dostępie do komputerów w społeczności szkolnej;
+	4) określa zawody i wymienia przykłady z życia codziennego, w których są wykorzystywane kompetencje informatyczne.
+V. Przestrzeganie prawa i zasad bezpieczeństwa. Uczeń:
+	1) posługuje się technologią zgodnie z przyjętymi zasadami i prawem; przestrzega zasad bezpieczeństwa i higieny pracy;
+	2) uznaje i respektuje prawo do prywatności danych i informacji oraz prawo do własności intelektualnej;
+	3) wymienia zagrożenia związane z powszechnym dostępem do technologii oraz do informacji i opisuje metody wystrzegania się ich;
+	4) stosuje profilaktykę antywirusową i potrafi zabezpieczyć przed zagrożeniem komputer wraz z zawartymi w nim informacjami.

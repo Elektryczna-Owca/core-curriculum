@@ -1,0 +1,88 @@
+I. Potęgi o podstawach wymiernych. Uczeń:
+	1) zapisuje iloczyn jednakowych czynników w postaci potęgi o wykładniku całkowitym dodatnim;
+	2) mnoży i dzieli potęgi o wykładnikach całkowitych dodatnich;
+	3) mnoży potęgi o różnych podstawach i jednakowych wykładnikach;
+	4) podnosi potęgę do potęgi;
+	5) odczytuje i zapisuje liczby w notacji wykładniczej <math>a \cdot 10^k</math>, gdy <math> 1 \leq a < 10 </math>, k jest liczbą całkowitą.
+II. Pierwiastki. Uczeń:
+	1) oblicza wartości pierwiastków kwadratowych i sześciennych z liczb, które są odpowiednio kwadratami lub sześcianami liczb wymiernych;
+	2) szacuje wielkość danego pierwiastka kwadratowego lub sześciennego oraz wyrażenia arytmetycznego zawierającego pierwiastki;
+	3) porównuje wartość wyrażenia arytmetycznego zawierającego pierwiastki z daną liczbą wymierną oraz znajduje liczby wymierne większe lub mniejsze od takiej wartości, na przykład znajduje liczbę całkowitą a taką, że: <math>a \leq \sqrt{137} < a + 1</math>;
+	4) oblicza pierwiastek z iloczynu i ilorazu dwóch liczb, wyłącza liczbę przed znak pierwiastka i włącza liczbę pod znak pierwiastka;
+	5) mnoży i dzieli pierwiastki tego samego stopnia.
+III. Tworzenie wyrażeń algebraicznych z jedną i z wieloma zmiennymi. Uczeń:
+	1) zapisuje wyniki podanych działań w postaci wyrażeń algebraicznych jednej lub kilku zmiennych;
+	2) oblicza wartości liczbowe wyrażeń algebraicznych;
+	3) zapisuje zależności przedstawione w zadaniach w postaci wyrażeń algebraicznych jednej lub kilku zmiennych;
+	4) zapisuje rozwiązania zadań w postaci wyrażeń algebraicznych jak w przykładzie: Bartek i Grześ zbierali kasztany. Bartek zebrał n kasztanów, Grześ zebrał 7 razy więcej. Następnie Grześ w drodze do domu zgubił 10 kasztanów, a połowę pozostałych oddał Bartkowi. Ile kasztanów ma teraz Bartek, a ile ma Grześ?
+IV. Przekształcanie wyrażeń algebraicznych. Sumy algebraiczne i działania na nich. Uczeń:
+	1) porządkuje jednomiany i dodaje jednomiany podobne (tzn. różniące się jedynie współczynnikiem liczbowym);
+	2) dodaje i odejmuje sumy algebraiczne, dokonując przy tym redukcji wyrazów podobnych;
+	3) mnoży sumy algebraiczne przez jednomian i dodaje wyrażenia powstałe z mnożenia sum algebraicznych przez jednomiany;
+	4) mnoży dwumian przez dwumian, dokonując redukcji wyrazów podobnych.
+V. Obliczenia procentowe. Uczeń:
+	1) przedstawia część wielkości jako procent tej wielkości;
+	2) oblicza liczbę a równą p procent danej liczby b;
+	3) oblicza, jaki procent danej liczby b stanowi liczba a;
+	4) oblicza liczbę b, której p procent jest równe a;
+	5) stosuje obliczenia procentowe do rozwiązywania problemów w kontekście praktycznym, również w przypadkach wielokrotnych podwyżek lub obniżek danej wielkości.
+VI. Równania z jedną niewiadomą. Uczeń:
+	1) sprawdza, czy dana liczba jest rozwiązaniem równania (stopnia pierwszego, drugiego lub trzeciego) z jedną niewiadomą, na przykład sprawdza, które liczby całkowite niedodatnie i większe od –8 są rozwiązaniami równania<math> \frac{x^3}{8} + \frac{x^2}{2} = 0 </math>;
+	2) rozwiązuje równania pierwszego stopnia z jedną niewiadomą metodą równań równoważnych;
+	3) rozwiązuje równania, które po prostych przekształceniach wyrażeń algebraicznych sprowadzają się do równań pierwszego stopnia z jedną niewiadomą;
+	4) rozwiązuje zadania tekstowe za pomocą równań pierwszego stopnia z jedną niewiadomą, w tym także z obliczeniami procentowymi;
+	5) przekształca proste wzory, aby wyznaczyć zadaną wielkość we wzorach geometrycznych (np. pól figur) i fizycznych (np. dotyczących prędkości, drogi i czasu).
+VII. Proporcjonalność prosta. Uczeń:
+	1) podaje przykłady wielkości wprost proporcjonalnych;
+	2) wyznacza wartość przyjmowaną przez wielkość wprost proporcjonalną w przypadku konkretnej zależności proporcjonalnej, na przykład wartość zakupionego towaru w zależności od liczby sztuk towaru, ilość zużytego paliwa w zależności od liczby przejechanych kilometrów, liczby przeczytanych stron książki w zależności od czasu jej czytania;
+	3) stosuje podział proporcjonalny.
+VIII. Własności figur geometrycznych na płaszczyźnie. Uczeń:
+	1) zna i stosuje twierdzenie o równości kątów wierzchołkowych (z wykorzystaniem zależności między kątami przyległymi);
+	2) przedstawia na płaszczyźnie dwie proste w różnych położeniach względem siebie, w szczególności proste prostopadłe i proste równoległe;
+	3) korzysta z własności prostych równoległych, w szczególności stosuje równość kątów odpowiadających i naprzemianległych;
+	4) zna i stosuje cechy przystawania trójkątów;
+	5) zna i stosuje własności trójkątów równoramiennych (równość kątów przy podstawie);
+	6) zna nierówność trójkąta AB + BC ≥ AC i wie, kiedy zachodzi równość;
+	7) wykonuje proste obliczenia geometryczne wykorzystując sumę kątów wewnętrznych trójkąta i własności trójkątów równoramiennych;
+	8) zna i stosuje w sytuacjach praktycznych twierdzenie Pitagorasa (bez twierdzenia odwrotnego);
+	9) przeprowadza dowody geometryczne o poziomie trudności nie większym niż w przykładach:a) dany jest ostrokątny trójkąt równoramienny ABC, w którym AC = BC. W tym trójkącie poprowadzono wysokość AD. Udowodnij, że kąt ABC jest dwa razy większy od kąta BAD,b) na bokach BC i CD prostokąta ABCD zbudowano, na zewnątrz prostokąta, dwa trójkąty równoboczne BCE i CDF. Udowodnij, że AE = AF.
+IX. Wielokąty. Uczeń:
+	1) zna pojęcie wielokąta foremnego;
+	2) stosuje wzory na pole trójkąta, prostokąta, kwadratu, równoległoboku, rombu, trapezu, a także do wyznaczania długości odcinków o poziomie trudności nie większym niż w przykładach:
+		a) oblicz najkrótszą wysokość trójkąta prostokątnego o bokach długości: 5 cm, 12 cm i 13 cm,
+		b) przekątne rombu ABCD mają długości AC = 8 dm i BD = 10 dm. Przekątną BD rombu przedłużono do punktu E w taki sposób, że odcinek BE jest dwa razy dłuższy od tej przekątnej. Oblicz pole trójkąta CDE. (zadanie ma dwie odpowiedzi).
+X. Oś liczbowa. Układ współrzędnych na płaszczyźnie. Uczeń:
+	1) zaznacza na osi liczbowej zbiory liczb spełniających warunek taki jak  x ≥ 1, 5 lub taki jak <math> x< -\frac{4}{7} </math>;
+	2) znajduje współrzędne danych (na rysunku) punktów kratowych w układzie współrzędnych na płaszczyźnie;
+	3) rysuje w układzie współrzędnych na płaszczyźnie punkty kratowe o danych współrzędnych całkowitych (dowolnego znaku);
+	4) znajduje środek odcinka, którego końce mają dane współrzędne (całkowite lub wymierne) oraz znajduje współrzędne drugiego końca odcinka, gdy dany jest jeden koniec i środek;
+	5) oblicza długość odcinka, którego końce są danymi punktami kratowymi w układzie współrzędnych;
+	6) dla danych punktów kratowych A i B znajduje inne punkty kratowe należące do prostej AB.
+XI. Geometria przestrzenna. Uczeń:
+	1) rozpoznaje graniastosłupy i ostrosłupy – w tym proste i prawidłowe;
+	2) oblicza objętości i pola powierzchni graniastosłupów prostych, prawidłowych i takich, które nie są prawidłowe o poziomie trudności nie większym niż w przykładowym zadaniu: Podstawą graniastosłupa prostego jest trójkąt równoramienny, którego dwa równe kąty mają po 45° , a najdłuższy bok ma długość 6 √2 dm. Jeden z boków prostokąta, który jest w tym graniastosłupie ścianą boczną o największej powierzchni, ma długość 4 dm. Oblicz objętość i pole powierzchni całkowitej tego graniastosłupa;
+	3) oblicza objętości i pola powierzchni ostrosłupów prawidłowych i takich, które nie są prawidłowe o poziomie trudności nie większym niż w przykładzie: Prostokąt ABCD jest podstawą ostrosłupa ABCDS, punkt M jest środkiem krawędzi AD, odcinek MS jest wysokością ostrosłupa. Dane są następujące długości krawędzi: AD = 10 cm, AS = 13 cm oraz AB = 20 cm. Oblicz objętość ostrosłupa. <file>szkoła-podstawowa-matematyka-20-9.png</file>
+XII. Wprowadzenie do kombinatoryki i rachunku prawdopodobieństwa. Uczeń:
+	1) wyznacza zbiory obiektów, analizuje i oblicza, ile jest obiektów, mających daną własność, w przypadkach niewymagających stosowania reguł mnożenia i dodawania;
+	2) przeprowadza proste doświadczenia losowe, polegające na rzucie monetą, rzucie sześcienną kostką do gry, rzucie kostką wielościenną lub losowaniu kuli spośród zestawu kul, analizuje je i oblicza prawdopodobieństwa zdarzeń w doświadczeniach losowych.
+XIII. Odczytywanie danych i elementy statystyki opisowej. Uczeń:
+	1) interpretuje dane przedstawione za pomocą tabel, diagramów słupkowych i kołowych, wykresów, w tym także wykresów w układzie współrzędnych;
+	2) tworzy diagramy słupkowe i kołowe oraz wykresy liniowe na podstawie zebranych przez siebie danych lub danych pochodzących z różnych źródeł;
+	3) oblicza średnią arytmetyczną kilku liczb.
+XIV. Długość okręgu i pole koła. Uczeń:
+	1) oblicza długość okręgu o danym promieniu lub danej średnicy;
+	2) oblicza promień lub średnicę okręgu o danej długości okręgu;
+	3) oblicza pole koła o danym promieniu lub danej średnicy;
+	4) oblicza promień lub średnicę koła o danym polu koła;
+	5) oblicza pole pierścienia kołowego o danych promieniach lub średnicach obu okręgów tworzących pierścień.
+XV. Symetrie. Uczeń:
+	1) rozpoznaje symetralną odcinka i dwusieczną kąta;
+	2) zna i stosuje w zadaniach podstawowe własności symetralnej odcinka i dwusiecznej kąta jak w przykładowym zadaniu: Wierzchołek C rombu ABCD leży na symetralnych boków AB i AD. Oblicz kąty tego rombu;
+	3) rozpoznaje figury osiowosymetryczne i wskazuje ich osie symetrii oraz uzupełnia figurę do figury osiowosymetrycznej przy danych: osi symetrii figury i części figury;
+	4) rozpoznaje figury środkowosymetryczne i wskazuje ich środki symetrii.
+XVI. Zaawansowane metody zliczania. Uczeń:
+	1) stosuje regułę mnożenia do zliczania par elementów o określonych własnościach;
+	2) stosuje regułę dodawania i mnożenia do zliczania par elementów w sytuacjach, wymagających rozważenia kilku przypadków, na przykład w zliczaniu liczb naturalnych trzycyfrowych podzielnych przez 5 i mających trzy różne cyfry albo jak w zadaniu: W klasie jest 14 dziewczynek i 11 chłopców. Na ile sposobów można z tej klasy wybrać dwuosobową delegację składającą się z jednej dziewczynki i jednego chłopca?
+XVII. Rachunek prawdopodobieństwa. Uczeń:
+	1) oblicza prawdopodobieństwa zdarzeń w doświadczeniach, polegających na rzucie dwiema kostkami lub losowaniu dwóch elementów ze zwracaniem;
+	2) oblicza prawdopodobieństwa zdarzeń w doświadczeniach, polegających na losowaniu dwóch elementów bez zwracania jak w przykładzie: Z urny zawierającej kule ponumerowane liczbami od 1 do 7 losujemy bez zwracania dwie kule. Oblicz prawdopodobieństwo tego, że suma liczb na wylosowanych kulach będzie parzysta.
