@@ -6,7 +6,8 @@ try {
     die();
 }
 
-$subjects = ['biologia'];
+$subjects = ['biologia', 'chemia', 'edb', 'fizyka', 'geografia', 'historia', 'informatyka', 'j.obcy', 'j.polski', 'matematyka' , 'przyroda', 'wos'];
+//$subjects = ['j.polski'];
 $defaultSqlParams = ['subject' => null, 'symbol' => null,
     'grade0' => 0, 'grade1' => 0, 'grade2' => 0, 'grade3' => 0, 'grade4' => 0, 'grade5' => 0, 'grade6' => 0, 'grade7' => 0, 'grade8' => 0,
     'text_level1' => null, 'text_level2' => null, 'text_level3' => null, 'text_level4' => null,
@@ -23,7 +24,8 @@ foreach ($subjects as $subject) {
     foreach ($files as $file) {
         $fileName = basename($file);
         $matches = null;
-        if (!preg_match("/$subject-(\d+)(-\w+)?/", $fileName, $matches)) {
+        $subjectEscaped = preg_quote($subject);
+        if (!preg_match("/$subjectEscaped-(\d+)(-\w+)?/", $fileName, $matches)) {
             echo "Couldn't parse '$fileName', skipping the file\n";
             continue;
         }
@@ -39,7 +41,7 @@ foreach ($subjects as $subject) {
         echo "Processing $file\n";
         echo "Subject: $subject\n";
         echo "Grades:\n";
-//        print_r($grades);
+        print_r($grades);
         echo "Obligatory: $obligatory\n";
 
         $fileContent = file($file);
@@ -71,8 +73,8 @@ foreach ($subjects as $subject) {
                 $sqlParams['text_level2'] = removeNumbering($textLevel[2]);
                 $sqlParams['text_level3'] = removeNumbering($textLevel[3]);
                 $sqlParams['text_level4'] = removeNumbering($textLevel[4]);
-                $preparedStatement->execute($sqlParams);
 //                var_dump($sqlParams);
+                $preparedStatement->execute($sqlParams);
                 $textLevel[$currentLevel] = trim($line);
             }
 
@@ -86,8 +88,8 @@ function extractSymbol($textLevel)
 {
     $symbol = '';
     $matches = null;
-    if (!preg_match('/([IXV]+)\./', $textLevel[1], $matches)) {
-        throw new Exception("Didn't find 1st level number.");
+    if (!preg_match('/([IXVL]+)\./', $textLevel[1], $matches)) {
+        throw new Exception("Didn't find 1st level number.\n" . var_export($textLevel, true));
     }
     $symbol .= $matches[1] . '.';
     if (!$textLevel[2]) {
@@ -104,7 +106,7 @@ function extractSymbol($textLevel)
         return $symbol;
     }
     $matches = null;
-    if (!preg_match('/(\d+)\)/', $textLevel[3], $matches)) {
+    if (!preg_match('/(\d+|[a-z])\)/', $textLevel[3], $matches)) {
         throw new Exception("Didn't find 3rd level number in string: '{$textLevel[3]}'");
     }
     $symbol .= $matches[1] . '.';
@@ -116,7 +118,7 @@ function extractSymbol($textLevel)
     if (!preg_match('/([a-z])\)/', $textLevel[4], $matches)) {
         throw new Exception("Didn't find 4th level number in string: '{$textLevel[4]}'");
     }
-    $symbol .= $matches[1] . '.' ;
+    $symbol .= $matches[1] . '.';
 
     return $symbol;
 }
