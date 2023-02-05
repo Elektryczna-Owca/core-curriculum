@@ -6,7 +6,7 @@ try {
     die();
 }
 
-$subjects = ['biologia', 'chemia', 'edb', 'fizyka', 'geografia', 'historia', 'informatyka', 'j.obcy', 'j.polski', 'matematyka' , 'przyroda', 'wos'];
+$subjects = ['biologia', 'chemia', 'edb', 'fizyka', 'geografia', 'historia', 'informatyka', 'j.obcy', 'j.polski', 'matematyka', 'przyroda', 'wos'];
 //$subjects = ['j.polski'];
 $defaultSqlParams = ['subject' => null, 'symbol' => null,
     'grade0' => 0, 'grade1' => 0, 'grade2' => 0, 'grade3' => 0, 'grade4' => 0, 'grade5' => 0, 'grade6' => 0, 'grade7' => 0, 'grade8' => 0,
@@ -22,6 +22,15 @@ foreach ($subjects as $subject) {
     $defaultSqlParams['subject'] = $subject;
     $files = glob("sources/$subject-*.txt");
     foreach ($files as $file) {
+        $defaultSqlParams['grade0'] = 0;
+        $defaultSqlParams['grade1'] = 0;
+        $defaultSqlParams['grade2'] = 0;
+        $defaultSqlParams['grade3'] = 0;
+        $defaultSqlParams['grade4'] = 0;
+        $defaultSqlParams['grade5'] = 0;
+        $defaultSqlParams['grade6'] = 0;
+        $defaultSqlParams['grade7'] = 0;
+        $defaultSqlParams['grade8'] = 0;
         $fileName = basename($file);
         $matches = null;
         $subjectEscaped = preg_quote($subject);
@@ -78,6 +87,10 @@ foreach ($subjects as $subject) {
                 $textLevel[$currentLevel] = trim($line);
             }
 
+            // If previous level is higher than the current, then clear the previous sub-points.
+            for ($level = $currentLevel; $level <= $previousLevel; $level++) {
+                $textLevel[$level] = null;
+            }
             $textLevel[$currentLevel] = trim($line);
             $previousLevel = $currentLevel;
         }
