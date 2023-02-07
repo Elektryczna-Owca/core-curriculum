@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Feb 07, 2023 at 06:49 PM
+-- Generation Time: Feb 07, 2023 at 06:51 PM
 -- Server version: 8.0.32-0ubuntu0.22.04.2
 -- PHP Version: 8.1.2-1ubuntu2.10
 
@@ -1389,6 +1389,29 @@ INSERT INTO `curriculum` (`id`, `grade0`, `grade1`, `grade2`, `grade3`, `grade4`
 (1328, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 'Sprawy międzynarodowe. Uczeń:', 'przedstawia podstawowe korzyści związane z obecnością Polski w Unii Europejskiej dla pracowników i osób podróżujących; znajduje informacje o wykorzystaniu funduszy unijnych w swojej gminie lub swoim regionie;', '', '', 'XII.3.', 'wos'),
 (1329, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 'Sprawy międzynarodowe. Uczeń:', 'przedstawia działalność Polski w Organizacji Narodów Zjednoczonych, Unii Europejskiej i Organizacja Paktu Północnoatlantyckiego;', '', '', 'XII.4.', 'wos');
 
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `curriculum_has_resource`
+--
+
+CREATE TABLE `curriculum_has_resource` (
+  `curriculum_id` int NOT NULL,
+  `resource_id` int NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_polish_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `resource`
+--
+
+CREATE TABLE `resource` (
+  `id` int NOT NULL,
+  `url` varchar(1024) COLLATE utf8mb4_polish_ci DEFAULT NULL,
+  `comment` text COLLATE utf8mb4_polish_ci
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_polish_ci;
+
 --
 -- Indexes for dumped tables
 --
@@ -1400,6 +1423,20 @@ ALTER TABLE `curriculum`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `curriculum_has_resource`
+--
+ALTER TABLE `curriculum_has_resource`
+  ADD PRIMARY KEY (`curriculum_id`,`resource_id`),
+  ADD KEY `fk_curriculum_has_resource_resource1_idx` (`resource_id`),
+  ADD KEY `fk_curriculum_has_resource_curriculum_idx` (`curriculum_id`);
+
+--
+-- Indexes for table `resource`
+--
+ALTER TABLE `resource`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- AUTO_INCREMENT for dumped tables
 --
 
@@ -1408,6 +1445,23 @@ ALTER TABLE `curriculum`
 --
 ALTER TABLE `curriculum`
   MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1330;
+
+--
+-- AUTO_INCREMENT for table `resource`
+--
+ALTER TABLE `resource`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT;
+
+--
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `curriculum_has_resource`
+--
+ALTER TABLE `curriculum_has_resource`
+  ADD CONSTRAINT `fk_curriculum_has_resource_curriculum` FOREIGN KEY (`curriculum_id`) REFERENCES `curriculum` (`id`),
+  ADD CONSTRAINT `fk_curriculum_has_resource_resource1` FOREIGN KEY (`resource_id`) REFERENCES `resource` (`id`);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
