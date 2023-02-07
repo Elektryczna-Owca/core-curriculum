@@ -3,9 +3,9 @@
 $endPoint = "https://edukacja-domowa.info/api.php";
 $lgname = 'Tomek@ed';
 $lgpassword = "";
-//$login_Token = getLoginToken(); // Step 1
-//loginRequest($login_Token); // Step 2
-$csrfToken = getCSRFToken(); // Step 3
+//$login_Token = getLoginToken();
+//loginRequest($login_Token);
+$csrfToken = getCSRFToken();
 
 try {
     $dbh = new PDO('mysql:host=localhost;dbname=curriculum', 'root', 'a');
@@ -18,16 +18,38 @@ try {
 class Subject
 {
     public readonly string $wikiTitle;
+    public readonly string $wikiName;
 
     public function __construct(public readonly string $name, public readonly array $grades)
     {
-        $this->wikiTitle = "Podstawa_programowa_$name";
+        if ($name == 'edb') {
+            $this->wikiName = "edukacja_dla_bezpieczeństwa";
+        } else if ($name == 'j.obcy') {
+            $this->wikiName = "język_obcy";
+        } else if ($name == 'j.polski') {
+            $this->wikiName = "język_polski";
+        } else if ($name == 'wos') {
+            $this->wikiName = "wiedza_o_społeczeństwie";
+        } else {
+            $this->wikiName = $name;
+        }
+        $this->wikiTitle = "Podstawa_programowa_" . $this->wikiName;
     }
 }
 
-$subject = new Subject('matematyka', [4, 5, 6, 7, 8]);
 $subjects = [];
-$subjects[] = $subject;
+$subjects[] = new Subject('matematyka', [4, 5, 6, 7, 8]);
+$subjects[] = new Subject('fizyka', [7, 8]);
+$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
+$subjects[] = new Subject('chemia', [7, 8]);
+$subjects[] = new Subject('edb', [8]);
+$subjects[] = new Subject('historia', [4, 5, 6, 7, 8]);
+$subjects[] = new Subject('geografia', [5, 6, 7, 8]);
+$subjects[] = new Subject('informatyka', [4, 5, 6, 7, 8]);
+$subjects[] = new Subject('j.obcy', [4, 5, 6, 7, 8]);
+$subjects[] = new Subject('j.polski', [4, 5, 6, 7, 8]);
+$subjects[] = new Subject('przyroda', [4]);
+$subjects[] = new Subject('wos', [8]);
 
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
@@ -46,6 +68,11 @@ foreach ($subjects as $subject) {
 
             $pageText .= $row['symbol'] . ' ' . $row['text_level1'] . ' ' . $row['text_level2'] . ' ' . $row['text_level3'] . ' ' . $row['text_level4'] . "\n\n";
         }
+        // Add images
+        $pageText = preg_replace('|<file>([^<>]+)</file>|','[[File:$1]]', $pageText);
+        // <file>szkoła-podstawowa-matematyka-16-23.png</file>
+        echo $pageText;
+        continue;
         editRequest($pageTitle, $pageText);
     }
 }
