@@ -1,0 +1,65 @@
+Wstęp
+	Chemia jest przedmiotem eksperymentalnym, duży nacisk położony jest na umiejętności związane z projektowaniem i przeprowadzaniem doświadczeń chemicznych. Interpretacja wyników doświadczenia i formułowanie wniosków na podstawie przeprowadzonych obserwacji ma służyć wykorzystaniu zdobytej wiedzy do identyfikowania i rozwiązywania problemów. Opanowanie przez uczniów zawartych w podstawie programowej kształcenia ogólnego dla szkoły podstawowej wymagań szczegółowych zapewni im zdobycie wszystkich potrzebnych kompetencji kluczowych, które wykorzystają w dalszej edukacji.
+
+Cele kształcenia – wymagania ogólne	
+	I. Pozyskiwanie, przetwarzanie i tworzenie informacji. Uczeń:
+		1) pozyskuje i przetwarza informacje z różnorodnych źródeł z wykorzystaniem technologii informacyjno-komunikacyjnych;
+		2) ocenia wiarygodność uzyskanych danych;
+		3) konstruuje wykresy, tabele i schematy na podstawie dostępnych informacji.
+	II. Rozumowanie i zastosowanie nabytej wiedzy do rozwiązywania problemów. Uczeń:
+		1) opisuje właściwości substancji i wyjaśnia przebieg prostych procesów chemicznych;
+		2) wskazuje na związek właściwości różnorodnych substancji z ich zastosowaniami i ich wpływem na środowisko naturalne;
+		3) respektuje podstawowe zasady ochrony środowiska;
+		4) wskazuje na związek między właściwościami substancji a ich budową chemiczną;
+		5) wykorzystuje wiedzę do rozwiązywania prostych problemów chemicznych;
+		6) stosuje poprawną terminologię;
+		7) wykonuje obliczenia dotyczące praw chemicznych.
+	III. Opanowanie czynności praktycznych. Uczeń:
+		1) bezpiecznie posługuje się prostym sprzętem laboratoryjnym i podstawowymi odczynnikami chemicznymi;
+		2) projektuje i przeprowadza proste doświadczenia chemiczne;
+		3) rejestruje ich wyniki w różnej formie, formułuje obserwacje, wnioski oraz wyjaśnienia;
+		4) przestrzega zasad bezpieczeństwa i higieny pracy.
+
+Warunki i sposób realizacji
+	Istotną funkcję w nauczaniu chemii jako przedmiotu przyrodniczego pełni eksperyment chemiczny. Umożliwia on rozwijanie aktywności uczniów i kształtowanie samodzielności w działaniu. Dzięki samodzielnemu wykonywaniu doświadczeń lub ich aktywnej obserwacji, uczniowie poznają metody badawcze oraz sposoby opisu i prezentacji wyników.
+	
+	W nauczaniu chemii w szkole podstawowej istotne jest, aby wygospodarować czas na przeprowadzanie doświadczeń chemicznych.
+	
+	Aby edukacja w zakresie chemii była możliwie najbardziej skuteczna, zajęcia powinny być prowadzone w niezbyt licznych grupach (podział na grupy) w salach wyposażonych w niezbędne sprzęty i odczynniki chemiczne. Nauczyciele mogą w doświadczeniach wykorzystywać substancje znane uczniom z życia codziennego (np. naturalne wskaźniki kwasowo-zasadowe, ocet, mąkę, cukier), pokazując w ten sposób obecność chemii w ich otoczeniu.
+	
+	Dobór wiadomości i umiejętności wskazuje na konieczność łączenia wiedzy teoretycznej z doświadczalną. Treści nauczania opracowano tak, aby uczniowie mogli sami obserwować i badać właściwości substancji i zjawiska oraz projektować i przeprowadzać doświadczenia chemiczne, interpretować ich wyniki i formułować uogólnienia. Istotne jest również samodzielne wykorzystywanie i przetwarzanie informacji oraz kształtowanie nawyków ich krytycznej oceny.
+	
+	Zakres treści nauczania stwarza wiele możliwości pracy metodą projektu edukacyjnego (szczególnie o charakterze badawczym), metodą eksperymentu chemicznego lub innymi metodami pobudzającymi aktywność poznawczą uczniów, co pozwoli im na pozyskiwanie i przetwarzanie informacji na różne sposoby i z różnych źródeł. Obserwowanie, wyciąganie wniosków, stawianie hipotez i ich weryfikacja mogą nauczyć uczniów twórczego i krytycznego myślenia. Może to pomóc w kształtowaniu postawy odkrywcy i badacza z umiejętnością weryfikacji poprawności nowych informacji.
+	
+	W pozyskiwaniu niezbędnych informacji, wykonywaniu obliczeń, interpretowaniu wyników i wreszcie rozwiązywaniu bardziej złożonych problemów metodą projektu edukacyjnego, bardzo pomocnym narzędziem może okazać się komputer z celowo dobranym oprogramowaniem oraz dostępnymi w internecie zasobami cyfrowymi.
+	
+	Proponuje się następujący zestaw doświadczeń do wykonania samodzielnie przez uczniów lub w formie pokazu nauczycielskiego:
+		1) badanie właściwości fizycznych (np. stanu skupienia, barwy, rozpuszczalności w wodzie i benzynie, oddziaływania z magnesem, kruchości, plastyczności, gęstości) oraz chemicznych (np. odczynu wodnego roztworu, pH, palności) wybranych produktów (np. soli kuchennej, cukru, mąki, octu, oleju jadalnego, wody, węgla, glinu, miedzi, żelaza);
+		2) sporządzanie mieszanin jednorodnych i niejednorodnych, rozdzielanie tych mieszanin: rozdzielanie dwóch cieczy mieszających i niemieszających się ze sobą; rozdzielanie zawiesiny na składniki;
+		3) ilustracja zjawiska fizycznego i reakcji chemicznej;
+		4) reakcja otrzymywania, np. siarczku żelaza(II) jako ilustracja reakcji syntezy, termicznego rozkładu węglanu wapnia jako ilustracja reakcji analizy i reakcja np. magnezu z kwasem solnym jako ilustracja reakcji wymiany;
+		5) badanie efektu termicznego reakcji chemicznych (np. magnezu z kwasem solnym) i zjawisk fizycznych (np. tworzenie mieszaniny oziębiającej, rozpuszczanie wodorotlenku sodu);
+		6) badanie, czy powietrze jest mieszaniną;
+		7) otrzymywanie tlenu, wodoru, tlenku węgla(IV), badanie wybranych właściwości fizycznych i chemicznych tych gazów;
+		8) badanie wpływu różnych czynników (np. obecności: tlenu, wody, chlorku sodu) na powstawanie rdzy. Badanie sposobów ochrony produktów stalowych przed korozją;
+		9) badanie zdolności rozpuszczania się w wodzie różnych produktów (np. cukru, soli kuchennej, oleju jadalnego, benzyny);
+		10) badanie wpływu różnych czynników (temperatury, mieszania, stopnia rozdrobnienia) na szybkość rozpuszczania się ciał stałych w wodzie;
+		11) otrzymywanie wodnego roztworu wodorotlenku sodu w reakcji sodu z wodą oraz wodnego roztworu wodorotlenku wapnia w reakcji tlenku wapnia z wodą w obecności fenoloftaleiny lub uniwersalnego papierka wskaźnikowego. Otrzymywanie wodorotlenku miedzi(II) w reakcji strąceniowej zachodzącej po zmieszaniu np. wodnego roztworu siarczanu(VI) miedzi(II) z wodnym roztworem wodorotlenku sodu;
+		12) otrzymywanie kwasów tlenowych na przykładzie kwasu fosforowego(V) (ortofosforowego(V)) w obecności oranżu metylowego;
+		13) badanie przewodnictwa elektrycznego wody destylowanej oraz wodnych roztworów wybranych substancji (np. sacharozy, wodorotlenku sodu, chlorku sodu, chlorowodoru, kwasu etanowego (octowego));
+		14) badanie odczynu oraz pH wody destylowanej, a także kwasu solnego i wodnego roztworu wodorotlenku sodu za pomocą wskaźników (np. fenoloftaleiny, oranżu metylowego, uniwersalnego papierka wskaźnikowego);
+		15) badanie odczynu oraz pH żywności (np. napoju typu cola, mleka, soku z cytryny, wodnego roztworu soli kuchennej) oraz środków czystości (np. płynu do prania, płynu do mycia naczyń);
+		16) badanie zmiany barwy wskaźników (np. oranżu metylowego) w trakcie mieszania kwasu solnego i wodnego roztworu wodorotlenku sodu;
+		17) otrzymywanie trudno rozpuszczalnych soli i wodorotlenków;
+		18) obserwacja reakcji spalania alkanów (metanu lub propanu), identyfikacja produktów spalania;
+		19) odróżnianie węglowodorów nasyconych od nienasyconych (np. wodą bromową);
+		20) badanie właściwości fizycznych (stanu skupienia, barwy, rozpuszczalności w wodzie) i chemicznych (odczynu, spalania) etanolu;
+		21) badanie właściwości fizycznych (stanu skupienia, barwy, rozpuszczalności w wodzie) propano-1,2,3-triolu (glicerolu);
+		22) badanie właściwości fizycznych (stanu skupienia, barwy, rozpuszczalności w wodzie) oraz chemicznych (odczynu, działania na zasady, tlenki metali, metale, spalania) kwasu etanowego (octowego);
+		23) badanie właściwości fizycznych (stanu skupienia, barwy, rozpuszczalności w wodzie) i chemicznych (odczynu, działania na zasady, tlenki metali, metale, spalania) długołańcuchowych kwasów karboksylowych;
+		24) działanie kwasu karboksylowego (np. metanowego) na alkohol (np. etanol) w obecności stężonego kwasu siarkowego(VI);
+		25) odróżnianie tłuszczu nasyconego od nienasyconego (np. wodą bromową);
+		26) badanie właściwości białek (podczas: ogrzewania, rozpuszczania w wodzie i rozpuszczalnikach organicznych, w kontakcie z solami metali lekkich i ciężkich oraz zasadami i kwasami);
+		27) wykrywanie za pomocą stężonego kwasu azotowego(V) obecności białka w produktach spożywczych;
+		28) badanie właściwości fizycznych (stanu skupienia, barwy, rozpuszczalności w wodzie, przewodnictwa elektrycznego) i chemicznych (odczynu) węglowodanów prostych i złożonych;
+		29) wykrywanie za pomocą roztworu jodu obecności skrobi w produktach spożywczych.
