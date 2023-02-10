@@ -2,9 +2,9 @@
 
 $endPoint = "https://edukacja-domowa.info/api.php";
 $lgname = 'Tomek@ed';
-$lgpassword = "";
-//$login_Token = getLoginToken();
-//loginRequest($login_Token);
+$lgpassword = "ske3frmsh3g26mu1v0579uifkqfj0b7p";
+$login_Token = getLoginToken();
+loginRequest($login_Token);
 $csrfToken = getCSRFToken();
 
 try {
@@ -39,17 +39,17 @@ class Subject
 
 $subjects = [];
 $subjects[] = new Subject('matematyka', [4, 5, 6, 7, 8]);
-$subjects[] = new Subject('fizyka', [7, 8]);
-$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
-$subjects[] = new Subject('chemia', [7, 8]);
-$subjects[] = new Subject('edb', [8]);
-$subjects[] = new Subject('historia', [4, 5, 6, 7, 8]);
-$subjects[] = new Subject('geografia', [5, 6, 7, 8]);
-$subjects[] = new Subject('informatyka', [4, 5, 6, 7, 8]);
-$subjects[] = new Subject('j.obcy', [4, 5, 6, 7, 8]);
-$subjects[] = new Subject('j.polski', [4, 5, 6, 7, 8]);
-$subjects[] = new Subject('przyroda', [4]);
-$subjects[] = new Subject('wos', [8]);
+//$subjects[] = new Subject('fizyka', [7, 8]);
+//$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
+//$subjects[] = new Subject('chemia', [7, 8]);
+//$subjects[] = new Subject('edb', [8]);
+//$subjects[] = new Subject('historia', [4, 5, 6, 7, 8]);
+//$subjects[] = new Subject('geografia', [5, 6, 7, 8]);
+//$subjects[] = new Subject('informatyka', [4, 5, 6, 7, 8]);
+//$subjects[] = new Subject('j.obcy', [4, 5, 6, 7, 8]);
+//$subjects[] = new Subject('j.polski', [4, 5, 6, 7, 8]);
+//$subjects[] = new Subject('przyroda', [4]);
+//$subjects[] = new Subject('wos', [8]);
 
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
@@ -71,8 +71,7 @@ foreach ($subjects as $subject) {
         // Add images
         $pageText = preg_replace('|<file>([^<>]+)</file>|','[[File:$1]]', $pageText);
         // <file>szkoła-podstawowa-matematyka-16-23.png</file>
-        echo $pageText;
-        continue;
+
         editRequest($pageTitle, $pageText);
     }
 }

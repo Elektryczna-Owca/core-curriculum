@@ -7,7 +7,7 @@ try {
 }
 
 $subjects = ['biologia', 'chemia', 'edb', 'fizyka', 'geografia', 'historia', 'informatyka', 'j.obcy', 'j.polski', 'matematyka', 'przyroda', 'wos'];
-//$subjects = ['j.polski'];
+//$subjects = ['przyroda'];
 $defaultSqlParams = ['subject' => null, 'symbol' => null,
     'grade0' => 0, 'grade1' => 0, 'grade2' => 0, 'grade3' => 0, 'grade4' => 0, 'grade5' => 0, 'grade6' => 0, 'grade7' => 0, 'grade8' => 0,
     'text_level1' => null, 'text_level2' => null, 'text_level3' => null, 'text_level4' => null,
@@ -82,7 +82,6 @@ foreach ($subjects as $subject) {
                 $sqlParams['text_level2'] = removeNumbering($textLevel[2]);
                 $sqlParams['text_level3'] = removeNumbering($textLevel[3]);
                 $sqlParams['text_level4'] = removeNumbering($textLevel[4]);
-//                var_dump($sqlParams);
                 $preparedStatement->execute($sqlParams);
                 $textLevel[$currentLevel] = trim($line);
             }
@@ -94,6 +93,15 @@ foreach ($subjects as $subject) {
             $textLevel[$currentLevel] = trim($line);
             $previousLevel = $currentLevel;
         }
+        // Add the last line
+        $sqlParams = $defaultSqlParams;
+        $sqlParams['symbol'] = extractSymbol($textLevel);
+        $sqlParams['text_level1'] = removeNumbering($textLevel[1]);
+        $sqlParams['text_level2'] = removeNumbering($textLevel[2]);
+        $sqlParams['text_level3'] = removeNumbering($textLevel[3]);
+        $sqlParams['text_level4'] = removeNumbering($textLevel[4]);
+        $preparedStatement->execute($sqlParams);
+
     }
 }
 
