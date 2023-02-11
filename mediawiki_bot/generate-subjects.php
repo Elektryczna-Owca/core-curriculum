@@ -52,44 +52,103 @@ $subjects = [];
 //$subjects[] = new Subject('wos', [8]);
 //$subjects[] = new Subject('etyka', [1, 2, 3]);
 //$subjects[] = new Subject('edukacja_społeczna', [1, 2, 3]);
-$subjects[] = new Subject('informatyka', [1, 2, 3]);
-$subjects[] = new Subject('j.obcy', [1, 2, 3]);
-$subjects[] = new Subject('j.polski', [1, 2, 3]);
-$subjects[] = new Subject('matematyka', [1, 2, 3]);
-$subjects[] = new Subject('muzyka', [1, 2, 3]);
-$subjects[] = new Subject('plastyka', [1, 2, 3]);
-$subjects[] = new Subject('przyroda', [1, 2, 3]);
-$subjects[] = new Subject('technika', [1, 2, 3]);
-$subjects[] = new Subject('wf', [1, 2, 3]);
+//$subjects[] = new Subject('informatyka', [1, 2, 3]);
+//$subjects[] = new Subject('j.obcy', [1, 2, 3]);
+//$subjects[] = new Subject('j.polski', [1, 2, 3]);
+//$subjects[] = new Subject('matematyka', [1, 2, 3]);
+//$subjects[] = new Subject('muzyka', [1, 2, 3]);
+//$subjects[] = new Subject('plastyka', [1, 2, 3]);
+//$subjects[] = new Subject('przyroda', [1, 2, 3]);
+//$subjects[] = new Subject('technika', [1, 2, 3]);
+//$subjects[] = new Subject('wf', [1, 2, 3]);
+$subjects[] = new Subject('j.polski', [7]);
 
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
     foreach ($subject->grades as $grade) {
         $pageText = '';
         $pageTitle = $subject->wikiTitle . "_klasa_$grade";
+        $pageTitle .= '_2';
         $gradeCondition = "grade" . $grade . " = 1";
         $stmt = $dbh->query("SELECT id, symbol, text_level1, text_level2, text_level3, text_level4 FROM curriculum WHERE $gradeCondition AND subject = '{$subject->name}'");
         $pageText .= "= " . $pageTitle . " =\n";
-        $textLevel1 = '';
-        while ($row = $stmt->fetch()) {
-            $id = $row['id'];
-            $symbol = $row['symbol'];
-            if ($row['text_level1'] != $textLevel1) {
-                $pageText .= '== ' . $symbol . ' ' . str_replace(' Uczeń:', '', $row['text_level1']) . " ==\n";
-                $textLevel1 = $row['text_level1'];
-            }
-
-            $pageText .= $row['symbol'] . ' ' . $row['text_level1'] . ' ' . $row['text_level2'] . ' ' . $row['text_level3'] . ' ' . $row['text_level4'] . "\n\n";
-            $pageText .= "* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
-        }
+        $rows = $stmt->fetchAll();
+        $pageText .= generateNonIndentPage($rows);
         // Add images
-        $pageText = preg_replace('|<file>([^<>]+)</file>|','[[File:$1]]', $pageText);
+        $pageText = preg_replace('|<file>([^<>]+)</file>|', '[[File:$1]]', $pageText);
         // <file>szkoła-podstawowa-matematyka-16-23.png</file>
 
         editRequest($pageTitle, $pageText);
     }
 }
 
+function generateNonIndentPage($rows)
+{
+    $pageText = '';
+
+    foreach ($rows as $row) {
+        // Detect which level is the last one. Levels above should have headings if not created already.
+        // The last level is an entry.
+
+        $id = $row['id'];
+        $pageText .= outputHeadings($row);
+        $pageText .= outputLastLevel($row);
+        $pageText .= "* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
+    }
+
+    return $pageText;
+}
+
+function outputHeadings($row)
+{
+    static $level1 = '';
+    static $level2 = '';
+
+    $depth = null;
+    if (!$row['text_level4']) {
+        $depth = 3;
+    }
+    if (!$row['text_level3']) {
+        $depth = 2;
+    }
+    if (!$row['text_level2']) {
+        die("text_level2 not set - I didn't expect it");
+    }
+
+    $heading = '';
+    $symbol = $row['symbol'];
+    $symbolParts = explode('.', $symbol);
+
+    if ($row['text_level1'] != $level1) {
+//        $heading .= '== ' . $symbol . ' ' . str_replace(' Uczeń:', '', $row['text_level1']) . " ==\n";
+        $heading .= '== ' . $symbolParts[0] . ' ' . $row['text_level1'] . " ==\n";
+        $level1 = $row['text_level1'];
+    }
+
+    if ($depth >= 3 && $row['text_level2'] != $level2) {
+//        $heading .= '=== ' . $symbol . ' ' . str_replace(' Uczeń:', '', $row['text_level2']) . " ===\n";
+        $heading .= '=== ' . $symbolParts[0] . '.' . $symbolParts[1] . ' ' . $row['text_level2'] . " ===\n";
+        $level2 = $row['text_level2'];
+    }
+
+    return $heading;
+}
+
+function outputLastLevel($row)
+{
+    $depth = null;
+    if (!$row['text_level4']) {
+        $depth = 3;
+    }
+    if (!$row['text_level3']) {
+        $depth = 2;
+    }
+    if (!$row['text_level2']) {
+        die("text_level2 not set - I didn't expect it");
+    }
+
+    return $row['symbol'] . ' ' . $row['text_level' . $depth] . "\n\n";
+}
 
 // Step 1: GET Request to fetch login token
 function getLoginToken()
