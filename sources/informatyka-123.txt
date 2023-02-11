@@ -1,0 +1,19 @@
+1. Osiągnięcia w zakresie rozumienia, analizowania i rozwiązywania problemów. Uczeń:
+	1) układa w logicznym porządku: obrazki, teksty, polecenia (instrukcje) składające się m.in. na codzienne czynności;
+	2) tworzy polecenie lub sekwencje poleceń dla określonego planu działania prowadzące do osiągnięcia celu;
+	3) rozwiązuje zadania, zagadki i łamigłówki prowadzące do odkrywania algorytmów.
+2. Osiągnięcia w zakresie programowania i rozwiązywania problemów z wykorzystaniem komputera i innych urządzeń cyfrowych. Uczeń:
+	1) programuje wizualnie: proste sytuacje lub historyjki według pomysłów własnych i pomysłów opracowanych wspólnie z innymi uczniami, pojedyncze polecenia, a także ich sekwencje sterujące obiektem na ekranie komputera bądź innego urządzenia cyfrowego;
+	2) tworzy proste rysunki, dokumenty tekstowe, łącząc tekst z grafiką, np. zaproszenia, dyplomy, ulotki, ogłoszenia; powiększa, zmniejsza, kopiuje, wkleja i usuwa elementy graficzne i tekstowe – doskonali przy tym umiejętności pisania, czytania, rachowania i prezentowania swoich pomysłów;
+	3) zapisuje efekty swojej pracy we wskazanym miejscu.
+3. Osiągnięcia w zakresie posługiwania się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi. Uczeń:
+	1) posługuje się komputerem lub innym urządzeniem cyfrowym oraz urządzeniami zewnętrznymi przy wykonywaniu zadania;
+	2) kojarzy działanie komputera lub innego urządzenia cyfrowego z efektami pracy z oprogramowaniem;
+	3) korzysta z udostępnionych mu stron i zasobów internetowych.
+4. Osiągnięcia w zakresie rozwijania kompetencji społecznych. Uczeń:
+	1) współpracuje z uczniami, wymienia się z nimi pomysłami i doświadczeniami, wykorzystując technologię;
+	2) wykorzystuje możliwości technologii do komunikowania się w procesie uczenia się.
+5. Osiągnięcia w zakresie przestrzegania prawa i zasad bezpieczeństwa. Uczeń:
+	1) posługuje się udostępnioną mu technologią zgodnie z ustalonymi zasadami;
+	2) rozróżnia pożądane i niepożądane zachowania innych osób (również uczniów) korzystających z technologii, zwłaszcza w sieci internet;
+	3) przestrzega zasad dotyczących korzystania z efektów pracy innych osób i związanych z bezpieczeństwem w internecie.
