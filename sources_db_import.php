@@ -7,7 +7,7 @@ try {
 }
 
 $subjects = ['biologia', 'chemia', 'edb', 'fizyka', 'geografia', 'historia', 'informatyka', 'j.obcy', 'j.polski', 'matematyka', 'przyroda', 'wos'];
-//$subjects = ['przyroda'];
+$subjects = ['j.obcy', 'j.polski', 'matematyka','muzyka','plastyka','przyroda','technika','wf'];
 $defaultSqlParams = ['subject' => null, 'symbol' => null,
     'grade0' => 0, 'grade1' => 0, 'grade2' => 0, 'grade3' => 0, 'grade4' => 0, 'grade5' => 0, 'grade6' => 0, 'grade7' => 0, 'grade8' => 0,
     'text_level1' => null, 'text_level2' => null, 'text_level3' => null, 'text_level4' => null,
@@ -109,7 +109,7 @@ function extractSymbol($textLevel)
 {
     $symbol = '';
     $matches = null;
-    if (!preg_match('/([IXVL]+)\./', $textLevel[1], $matches)) {
+    if (!preg_match('/([IXVL\d]+)\./', $textLevel[1], $matches)) {
         throw new Exception("Didn't find 1st level number.\n" . var_export($textLevel, true));
     }
     $symbol .= $matches[1] . '.';
