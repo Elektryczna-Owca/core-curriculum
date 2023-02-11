@@ -3,8 +3,8 @@
 $endPoint = "https://edukacja-domowa.info/api.php";
 $lgname = 'Tomek@ed';
 $lgpassword = "ske3frmsh3g26mu1v0579uifkqfj0b7p";
-$login_Token = getLoginToken();
-loginRequest($login_Token);
+//$login_Token = getLoginToken();
+//loginRequest($login_Token);
 $csrfToken = getCSRFToken();
 
 try {
@@ -38,7 +38,7 @@ class Subject
 }
 
 $subjects = [];
-$subjects[] = new Subject('matematyka', [4, 5, 6, 7, 8]);
+//$subjects[] = new Subject('matematyka', [4, 5, 6, 7, 8]);
 //$subjects[] = new Subject('fizyka', [7, 8]);
 //$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
 //$subjects[] = new Subject('chemia', [7, 8]);
@@ -50,6 +50,17 @@ $subjects[] = new Subject('matematyka', [4, 5, 6, 7, 8]);
 //$subjects[] = new Subject('j.polski', [4, 5, 6, 7, 8]);
 //$subjects[] = new Subject('przyroda', [4]);
 //$subjects[] = new Subject('wos', [8]);
+//$subjects[] = new Subject('etyka', [1, 2, 3]);
+//$subjects[] = new Subject('edukacja_społeczna', [1, 2, 3]);
+$subjects[] = new Subject('informatyka', [1, 2, 3]);
+$subjects[] = new Subject('j.obcy', [1, 2, 3]);
+$subjects[] = new Subject('j.polski', [1, 2, 3]);
+$subjects[] = new Subject('matematyka', [1, 2, 3]);
+$subjects[] = new Subject('muzyka', [1, 2, 3]);
+$subjects[] = new Subject('plastyka', [1, 2, 3]);
+$subjects[] = new Subject('przyroda', [1, 2, 3]);
+$subjects[] = new Subject('technika', [1, 2, 3]);
+$subjects[] = new Subject('wf', [1, 2, 3]);
 
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
@@ -57,16 +68,19 @@ foreach ($subjects as $subject) {
         $pageText = '';
         $pageTitle = $subject->wikiTitle . "_klasa_$grade";
         $gradeCondition = "grade" . $grade . " = 1";
-        $stmt = $dbh->query("SELECT symbol, text_level1, text_level2, text_level3, text_level4 FROM curriculum WHERE $gradeCondition AND subject = '{$subject->name}'");
+        $stmt = $dbh->query("SELECT id, symbol, text_level1, text_level2, text_level3, text_level4 FROM curriculum WHERE $gradeCondition AND subject = '{$subject->name}'");
         $pageText .= "= " . $pageTitle . " =\n";
         $textLevel1 = '';
         while ($row = $stmt->fetch()) {
+            $id = $row['id'];
+            $symbol = $row['symbol'];
             if ($row['text_level1'] != $textLevel1) {
-                $pageText .= '== ' . str_replace(' Uczeń:', '', $row['text_level1']) . " ==\n";
+                $pageText .= '== ' . $symbol . ' ' . str_replace(' Uczeń:', '', $row['text_level1']) . " ==\n";
                 $textLevel1 = $row['text_level1'];
             }
 
             $pageText .= $row['symbol'] . ' ' . $row['text_level1'] . ' ' . $row['text_level2'] . ' ' . $row['text_level3'] . ' ' . $row['text_level4'] . "\n\n";
+            $pageText .= "* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
         }
         // Add images
         $pageText = preg_replace('|<file>([^<>]+)</file>|','[[File:$1]]', $pageText);
