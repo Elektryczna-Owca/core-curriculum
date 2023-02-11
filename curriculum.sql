@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.0
+-- version 5.1.1
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Feb 10, 2023 at 11:01 PM
--- Server version: 8.0.32-0ubuntu0.22.04.2
--- PHP Version: 8.1.2-1ubuntu2.10
+-- Generation Time: Feb 11, 2023 at 07:50 AM
+-- Server version: 8.0.27-0ubuntu0.21.04.1
+-- PHP Version: 7.4.16
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -40,11 +40,11 @@ CREATE TABLE `curriculum` (
   `grade8` tinyint(1) NOT NULL DEFAULT '0',
   `obligatory` tinyint(1) DEFAULT NULL,
   `text_level1` varchar(1024) CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci DEFAULT NULL,
-  `text_level2` text COLLATE utf8mb4_polish_ci,
-  `text_level3` text COLLATE utf8mb4_polish_ci,
-  `text_level4` text COLLATE utf8mb4_polish_ci,
-  `symbol` varchar(45) COLLATE utf8mb4_polish_ci NOT NULL,
-  `subject` varchar(45) COLLATE utf8mb4_polish_ci NOT NULL
+  `text_level2` text CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci,
+  `text_level3` text CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci,
+  `text_level4` text CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci,
+  `symbol` varchar(45) CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci NOT NULL,
+  `subject` varchar(45) CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_polish_ci;
 
 --
@@ -1442,6 +1442,84 @@ INSERT INTO `curriculum` (`id`, `grade0`, `grade1`, `grade2`, `grade3`, `grade4`
 (1381, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 'Sprawy międzynarodowe. Uczeń:', 'przedstawia działalność Polski w Organizacji Narodów Zjednoczonych, Unii Europejskiej i Organizacja Paktu Północnoatlantyckiego;', '', '', 'XII.4.', 'wos'),
 (1382, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 'Sprawy międzynarodowe. Uczeń:', 'formułuje sądy w sprawach wybranych problemów społecznych współczesnego świata; rozważa propozycje działań w kierunku poprawy warunków życia innych ludzi na świecie.', '', '', 'XII.5.', 'wos');
 
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `curriculum_has_resource`
+--
+
+CREATE TABLE `curriculum_has_resource` (
+  `curriculum_id` int NOT NULL,
+  `resource_id` int NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_polish_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `resource`
+--
+
+CREATE TABLE `resource` (
+  `id` int NOT NULL,
+  `url` varchar(1024) CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci DEFAULT NULL,
+  `comment` text CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_polish_ci;
+
+--
+-- Dumping data for table `resource`
+--
+
+INSERT INTO `resource` (`id`, `url`, `comment`) VALUES
+(1, 'https://www.youtube.com/watch?v=teh3xY8qFXE', 'Jak zrobić drzewo genealogiczne do szkoły (wideo)'),
+(2, 'https://polki.pl/rodzina/dziecko,jak-zrobic-drzewo-genealogiczne-wzory-szablony-porady,10437168,artykul.html', 'Jak zrobić drzewo genealogiczne wzory (artykuł)'),
+(3, 'https://zpe.gov.pl/a/polskie-symbole-narodowe/D133YmYM0', 'Polskie symbole narodowe (prezentacja)'),
+(4, 'https://www.youtube.com/watch?v=5L8K6rtFEkg', 'Legenda o królu popielu (wideo)'),
+(5, 'https://www.youtube.com/watch?v=awiGDx2kxkk', 'Legenda Lech, Czech i Rus (wideo)'),
+(6, 'https://www.youtube.com/watch?v=5wN3GxF7aqk', 'Poznaj miasta Polski - wirtualna wycieczka po Polsce (wideo)'),
+(7, 'https://www.youtube.com/watch?v=ICqGsfchSpM', 'Jak wygląda praca historyka? (wideo)'),
+(8, 'https://www.youtube.com/watch?v=kHNNIASieYQ', 'Jak można zmierzyć czas? (wideo)'),
+(9, 'https://www.youtube.com/watch?v=nDDp7ySnVJY', 'Byli sobie wynalazcy - jak mierzono czas? (wideo)'),
+(10, 'https://lekcjehistorii.pl/index.php/2016/05/13/zrodla-historyczne/', 'Źródła historyczne (artykuł)'),
+(11, 'https://wordwall.net/pl/resource/391377/polski/legenda', 'Czym jest legenda? (quiz)'),
+(12, 'https://www.youtube.com/watch?v=X57AmwMXftY', 'Początki pańśtwa polskiego według księcia Mieszka I (wideo)'),
+(13, 'https://www.youtube.com/watch?v=C1-kXs5Y0x4', 'Bolesław Chrobry (wideo)'),
+(14, 'https://www.youtube.com/watch?v=nxS6P5DYkwg', 'Kazimierz Wielki (wideo)'),
+(15, 'https://www.polskieradio.pl/39/156/Artykul/242559,Grunwald-1410-Bitwa-krwawa-i-ryzykowna', 'Grunwald - bitwa ryzykowna i krwawa (artykuł)'),
+(16, 'https://histmag.org/Wladyslaw-Jagiello-135213621434-20227', 'Władysław Jagiełło (artykuł)'),
+(17, 'https://www.youtube.com/watch?v=vZooBISfsw0', 'Jak Jadwiga została królem Polski? (wideo)'),
+(18, 'https://www.youtube.com/watch?v=m_DTPXSRotw', 'Kim był Władysław Jagiełło? (wideo)'),
+(19, 'https://www.youtube.com/watch?v=-u1ASP-6_pg', 'Kim był Zawisza Czarny (wideo)'),
+(20, 'https://www.youtube.com/watch?v=NvLg84FP268', 'Mikołaj Kopernik - wybitni Polacy w historii (wideo)'),
+(21, 'https://www.youtube.com/watch?v=ihaUPD-HEjM', 'O Akademii Krakowskiej (wideo)'),
+(22, 'https://www.youtube.com/watch?v=CxUDtcH-MCU', 'Jan Zamoyski (wideo)'),
+(23, 'http://www.jasnagora.com/nastronach_opracowanie.php?ID=86&Strona=2', 'O. Augustyn Kordecki i obrona Jasnej Góry (artykuł)'),
+(24, 'https://historia.dorzeczy.pl/264286/stefan-czarniecki-hetman-z-hymnu-zycie-biografia.html', 'Stefan Czarniecki - hetman z hymnu (artykuł)'),
+(25, 'https://www.youtube.com/watch?v=Lsw5EwOIxL0', 'Jan Sobieski i jego husaria (audio)'),
+(26, 'https://www.youtube.com/watch?v=uSXeOPtdcIY', 'Tadeusz Kościuszko - naczelnik powstania (wideo)'),
+(27, 'https://www.youtube.com/watch?v=CKDh1pq0YCI', 'Historia zapisana w muzyce. O Pieśni Legionów Dąbrowskiego (wideo)\r\n'),
+(28, 'https://www.youtube.com/watch?v=AM-0yqcMTJQ', 'Romuald Traugutt i powstanie styczniowe (wideo)'),
+(29, 'https://www.youtube.com/watch?v=Fgpn4tnyNB8', 'Byli sobie wynalazcy - Maria Skłodowska-Curie (wideo)'),
+(30, 'https://www.youtube.com/watch?v=Zeu8nU2ksW0', 'Józef Piłsudski i niepodległa Polska (wideo)'),
+(31, 'https://historiaposzukaj.pl/wiedza,osoby,184,osoba_eugeniusz_kwiatkowski.html', 'Otworzę okno na świat! - Eugeniusz Kwiatkowski i budowa portu w Gdyni (artykuł)'),
+(32, 'https://www.youtube.com/watch?v=ZXYjK1xLfuA', 'Szare Szeregi i bitwa pod Arsenałem (wideo)'),
+(33, 'https://www.youtube.com/watch?v=P2dO95Vqrqk', 'Żołnierze niezłomni - Pilecki i \"Inka\" (wideo)'),
+(34, 'https://www.youtube.com/watch?v=MlUc4PBdP2I', 'Jan Paweł II - historia papieża Polaka'),
+(35, 'https://www.youtube.com/watch?v=SUBo7U2Tzqs', 'Solidarność i jej bohaterowie (wideo)');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `submission`
+--
+
+CREATE TABLE `submission` (
+  `id` int NOT NULL,
+  `curriculum_id` int NOT NULL,
+  `url` varchar(1000) CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci NOT NULL,
+  `extra` text CHARACTER SET utf8mb4 COLLATE utf8mb4_polish_ci NOT NULL,
+  `created` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_polish_ci;
+
 --
 -- Indexes for dumped tables
 --
@@ -1453,6 +1531,27 @@ ALTER TABLE `curriculum`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `curriculum_has_resource`
+--
+ALTER TABLE `curriculum_has_resource`
+  ADD PRIMARY KEY (`curriculum_id`,`resource_id`),
+  ADD KEY `fk_curriculum_has_resource_resource1_idx` (`resource_id`),
+  ADD KEY `fk_curriculum_has_resource_curriculum_idx` (`curriculum_id`);
+
+--
+-- Indexes for table `resource`
+--
+ALTER TABLE `resource`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `submission`
+--
+ALTER TABLE `submission`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `curriculum_fk` (`curriculum_id`);
+
+--
 -- AUTO_INCREMENT for dumped tables
 --
 
@@ -1461,6 +1560,35 @@ ALTER TABLE `curriculum`
 --
 ALTER TABLE `curriculum`
   MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1383;
+
+--
+-- AUTO_INCREMENT for table `resource`
+--
+ALTER TABLE `resource`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=36;
+
+--
+-- AUTO_INCREMENT for table `submission`
+--
+ALTER TABLE `submission`
+  MODIFY `id` int NOT NULL AUTO_INCREMENT;
+
+--
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `curriculum_has_resource`
+--
+ALTER TABLE `curriculum_has_resource`
+  ADD CONSTRAINT `fk_curriculum_has_resource_curriculum` FOREIGN KEY (`curriculum_id`) REFERENCES `curriculum` (`id`),
+  ADD CONSTRAINT `fk_curriculum_has_resource_resource1` FOREIGN KEY (`resource_id`) REFERENCES `resource` (`id`);
+
+--
+-- Constraints for table `submission`
+--
+ALTER TABLE `submission`
+  ADD CONSTRAINT `curriculum_fk` FOREIGN KEY (`curriculum_id`) REFERENCES `curriculum` (`id`);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
