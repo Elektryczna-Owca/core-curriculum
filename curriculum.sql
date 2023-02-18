@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Feb 11, 2023 at 06:37 PM
+-- Generation Time: Feb 18, 2023 at 08:52 AM
 -- Server version: 8.0.27-0ubuntu0.21.04.1
 -- PHP Version: 7.4.16
 
@@ -1762,7 +1762,11 @@ INSERT INTO `curriculum_has_resource` (`curriculum_id`, `resource_id`) VALUES
 (632, 45),
 (632, 46),
 (632, 47),
-(634, 48);
+(634, 48),
+(365, 49),
+(365, 50),
+(366, 51),
+(366, 52);
 
 -- --------------------------------------------------------
 
@@ -1828,7 +1832,11 @@ INSERT INTO `resource` (`id`, `url`, `comment`) VALUES
 (45, 'https://www.youtube.com/watch?v=0fivQUlC7-8', 'What did democracy really mean in Athens? (wideo)'),
 (46, 'https://www.eduelo.pl/quizy/poziom-v/historia/starozytny-rzym/ustroj-w-starozytnym-rzymie/', 'Ustrój w starożytnym Rzymie (quiz)'),
 (47, 'https://www.youtube.com/watch?v=hMV2JZzGsa8', 'Ancient Egypt - the Social Pyramid (wideo)'),
-(48, 'https://www.youtube.com/watch?v=mr-Q-FDiloY', 'Początki chrześcijaństwa (wideo)');
+(48, 'https://www.youtube.com/watch?v=mr-Q-FDiloY', 'Początki chrześcijaństwa (wideo)'),
+(49, 'https://www.youtube.com/watch?v=s-U6mpWxOng', 'Arabowie i początki islamu (wideo)'),
+(50, 'https://wiadomosci.onet.pl/kiosk/arabskie-wynalazki/sp130#:~:text=Wiele%20nowoczesnych%20narz%C4%99dzi%20chirurgicznych%20opiera,200%20innych%20narz%C4%99dzi%2C%20kt%C3%B3re%20wymy%C5%9Bli%C5%82.', 'Arabskie wynalazki (artykuł)'),
+(51, 'https://www.youtube.com/watch?v=RKpXPrLAnpE', 'Bizancjum w czasach świetności (wideo)'),
+(52, 'https://www.proprofs.com/quiz-school/story.php?title=byzantine-empire', 'Byzantine Empire History Quiz (quiz)');
 
 -- --------------------------------------------------------
 
@@ -1889,7 +1897,7 @@ ALTER TABLE `curriculum`
 -- AUTO_INCREMENT for table `resource`
 --
 ALTER TABLE `resource`
-  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=49;
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=53;
 
 --
 -- AUTO_INCREMENT for table `submission`
