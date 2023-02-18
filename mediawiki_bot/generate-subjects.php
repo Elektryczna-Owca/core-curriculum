@@ -40,7 +40,7 @@ class Subject
 $subjects = [];
 //$subjects[] = new Subject('matematyka', [4, 5, 6, 7, 8]);
 //$subjects[] = new Subject('fizyka', [7, 8]);
-//$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
+$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
 //$subjects[] = new Subject('chemia', [7, 8]);
 //$subjects[] = new Subject('edb', [8]);
 //$subjects[] = new Subject('historia', [4, 5, 6, 7, 8]);
@@ -61,7 +61,7 @@ $subjects = [];
 //$subjects[] = new Subject('przyroda', [1, 2, 3]);
 //$subjects[] = new Subject('technika', [1, 2, 3]);
 //$subjects[] = new Subject('wf', [1, 2, 3]);
-$subjects[] = new Subject('j.polski', [7]);
+//$subjects[] = new Subject('j.polski', [7]);
 
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
@@ -82,6 +82,17 @@ foreach ($subjects as $subject) {
     }
 }
 
+function getResources($id)
+{
+    global $dbh;
+
+    $sql = "SELECT r.* FROM curriculum_has_resource c JOIN resource r ON c.resource_id = r.id WHERE c.curriculum_id = $id";
+    $result = $dbh->query($sql);
+    $resources = $result->fetchAll();
+
+    return $resources;
+}
+
 function generateNonIndentPage($rows)
 {
     $pageText = '';
@@ -93,6 +104,12 @@ function generateNonIndentPage($rows)
         $id = $row['id'];
         $pageText .= outputHeadings($row);
         $pageText .= outputLastLevel($row);
+        // Add linked resources
+        $resources = getResources($id);
+//        var_dump($resources);
+        foreach ($resources as $resource) {
+            $pageText .= "* " . $resource['url'] . ' (' . $resource['comment'] . ")\n";
+        }
         $pageText .= "* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
     }
 
@@ -136,7 +153,7 @@ function outputHeadings($row)
 
 function outputLastLevel($row)
 {
-    $depth = null;
+    $depth = 4;
     if (!$row['text_level4']) {
         $depth = 3;
     }
