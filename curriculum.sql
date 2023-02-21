@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Feb 18, 2023 at 08:52 AM
+-- Generation Time: Feb 21, 2023 at 06:09 PM
 -- Server version: 8.0.27-0ubuntu0.21.04.1
 -- PHP Version: 7.4.16
 
@@ -1766,7 +1766,24 @@ INSERT INTO `curriculum_has_resource` (`curriculum_id`, `resource_id`) VALUES
 (365, 49),
 (365, 50),
 (366, 51),
-(366, 52);
+(366, 52),
+(637, 53),
+(637, 54),
+(638, 55),
+(638, 56),
+(639, 57),
+(640, 58),
+(640, 59),
+(641, 60),
+(643, 60),
+(641, 61),
+(641, 62),
+(642, 63),
+(642, 64),
+(643, 65),
+(643, 66),
+(643, 67),
+(644, 68);
 
 -- --------------------------------------------------------
 
@@ -1836,7 +1853,23 @@ INSERT INTO `resource` (`id`, `url`, `comment`) VALUES
 (49, 'https://www.youtube.com/watch?v=s-U6mpWxOng', 'Arabowie i początki islamu (wideo)'),
 (50, 'https://wiadomosci.onet.pl/kiosk/arabskie-wynalazki/sp130#:~:text=Wiele%20nowoczesnych%20narz%C4%99dzi%20chirurgicznych%20opiera,200%20innych%20narz%C4%99dzi%2C%20kt%C3%B3re%20wymy%C5%9Bli%C5%82.', 'Arabskie wynalazki (artykuł)'),
 (51, 'https://www.youtube.com/watch?v=RKpXPrLAnpE', 'Bizancjum w czasach świetności (wideo)'),
-(52, 'https://www.proprofs.com/quiz-school/story.php?title=byzantine-empire', 'Byzantine Empire History Quiz (quiz)');
+(52, 'https://www.proprofs.com/quiz-school/story.php?title=byzantine-empire', 'Byzantine Empire History Quiz (quiz)'),
+(53, 'https://www.ducksters.com/history/middle_ages/the_franks.php#:~:text=The%20Franks%20began%20as%20a,Dynasty%20and%20the%20Carolingian%20Dynasty.', 'Middle Ages for Kids: The Franks (artykuł + quiz)'),
+(54, 'https://www.youtube.com/watch?v=HcraPMW8tr0', 'Państwo Franków (wideo)'),
+(55, 'https://www.youtube.com/watch?v=OS0cbmHGOao', 'Nowe państwa w Europie (wideo)'),
+(56, 'https://flipbook.nowaera.pl/dokumenty/Flipbook/Wczoraj-i-dzis-klasa_5-semestr_1-Nowe-panstwa-w-Europie/', 'Nowe państwa w Europie (ćwiczenia)'),
+(57, 'https://www.youtube.com/watch?v=vXv211CcQww', 'Konflikt papiestwa z cesarstwem - wielka schizma wschodnia (wideo)'),
+(58, 'https://www.youtube.com/watch?v=eGqruKXwQgc', 'Wyprawy krzyżowe (wideo)'),
+(59, 'https://www.ducksters.com/history/middle_ages_crusades.php', 'Middle Agese for Kids: The Crusades (artykuł + quiz)'),
+(60, 'https://www.youtube.com/watch?v=-guNiFBY4vI', 'Rycerstwo i system lenny (wideo)'),
+(61, 'https://www.youtube.com/watch?v=uwQcfquKwKw', 'Społeczeństwo średniowiecza (wideo)'),
+(62, 'https://wordwall.net/pl/resource/2322264/historia/syatem-feudalny-cz%C4%99%C5%9B%C4%87-1-klasa-5', 'System feudalny (ćwiczenie)'),
+(63, 'https://www.youtube.com/watch?v=aGvMVtoFAeQ', 'Średniowieczne miasto i wieś (wideo)'),
+(64, 'https://www.bbc.co.uk/bitesize/topics/zbn7jsg/articles/zwyh6g8#:~:text=Life%20in%20medieval%20towns,-There%20were%20not&text=There%20were%20many%20skilled%20craftsmen,would%20trade%20with%20other%20countries.', 'What was life like in a medieval village? (artykuł + video + quiz)'),
+(65, 'https://zpe.gov.pl/b/kultura-miejska-i-dworska/PhsTwHZrS', 'Kultura miejska i kultura dworska (artykuł + film + ćwiczenia)'),
+(66, 'https://medievalheritage.eu/pl/strona-glowna/zabytki/polska/', 'Polska - architektura średniowiecza i starożytności (lista z artykułami)'),
+(67, 'https://www.youtube.com/watch?v=TehdTAU6Ggc', 'Sztuka średniowieczna - styl romański, styl gotycki'),
+(68, 'https://www.youtube.com/watch?v=gE00T2yMJTM', 'Kościół w średniowieczu (wideo)');
 
 -- --------------------------------------------------------
 
@@ -1897,7 +1930,7 @@ ALTER TABLE `curriculum`
 -- AUTO_INCREMENT for table `resource`
 --
 ALTER TABLE `resource`
-  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=53;
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=69;
 
 --
 -- AUTO_INCREMENT for table `submission`
