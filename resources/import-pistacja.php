@@ -7,6 +7,7 @@ try {
 }
 $subject = 'biologia';
 $file = 'BIO-SP46.txt';
+$file = 'BIO-SP78.txt';
 
 $sql = "SELECT id FROM curriculum WHERE subject = ? AND symbol = ?";
 

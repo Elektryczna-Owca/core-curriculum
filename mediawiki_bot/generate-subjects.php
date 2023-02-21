@@ -2,9 +2,9 @@
 
 $endPoint = "https://edukacja-domowa.info/api.php";
 $lgname = 'Tomek@ed';
-$lgpassword = "ske3frmsh3g26mu1v0579uifkqfj0b7p";
-//$login_Token = getLoginToken();
-//loginRequest($login_Token);
+$lgpassword = "";
+//    $login_Token = getLoginToken();
+//    loginRequest($login_Token);
 $csrfToken = getCSRFToken();
 
 try {
@@ -40,7 +40,8 @@ class Subject
 $subjects = [];
 //$subjects[] = new Subject('matematyka', [4, 5, 6, 7, 8]);
 //$subjects[] = new Subject('fizyka', [7, 8]);
-$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
+//$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
+$subjects[] = new Subject('biologia', [6]);
 //$subjects[] = new Subject('chemia', [7, 8]);
 //$subjects[] = new Subject('edb', [8]);
 //$subjects[] = new Subject('historia', [4, 5, 6, 7, 8]);
@@ -78,6 +79,7 @@ foreach ($subjects as $subject) {
         $pageText = preg_replace('|<file>([^<>]+)</file>|', '[[File:$1]]', $pageText);
         // <file>szkoła-podstawowa-matematyka-16-23.png</file>
 
+//        echo $pageText;
         editRequest($pageTitle, $pageText);
     }
 }
@@ -108,9 +110,9 @@ function generateNonIndentPage($rows)
         $resources = getResources($id);
 //        var_dump($resources);
         foreach ($resources as $resource) {
-            $pageText .= "* " . $resource['url'] . ' (' . $resource['comment'] . ")\n";
+            $pageText .= ":::* " . $resource['url'] . ' (' . $resource['comment'] . ")\n";
         }
-        $pageText .= "* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
+        $pageText .= ":::* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
     }
 
     return $pageText;
@@ -120,8 +122,9 @@ function outputHeadings($row)
 {
     static $level1 = '';
     static $level2 = '';
+    static $level3 = '';
 
-    $depth = null;
+    $depth = 4;
     if (!$row['text_level4']) {
         $depth = 3;
     }
@@ -137,18 +140,54 @@ function outputHeadings($row)
     $symbolParts = explode('.', $symbol);
 
     if ($row['text_level1'] != $level1) {
-//        $heading .= '== ' . $symbol . ' ' . str_replace(' Uczeń:', '', $row['text_level1']) . " ==\n";
-        $heading .= '== ' . $symbolParts[0] . ' ' . $row['text_level1'] . " ==\n";
+//        $heading .= '== ' . $symbol . ' ' .  . " ==\n";
+        $currentHeader = $row['text_level1'];
+        $replaced = studentTextReplace('==', $currentHeader);
+        if (!$replaced) {
+            $currentHeader .= " ==\n";
+        }
+
+        $heading .= '== ' . $symbolParts[0] . ' ' . $currentHeader;
         $level1 = $row['text_level1'];
     }
 
-    if ($depth >= 3 && $row['text_level2'] != $level2) {
-//        $heading .= '=== ' . $symbol . ' ' . str_replace(' Uczeń:', '', $row['text_level2']) . " ===\n";
-        $heading .= '=== ' . $symbolParts[0] . '.' . $symbolParts[1] . ' ' . $row['text_level2'] . " ===\n";
+    if ($depth == 3 && $row['text_level2'] != $level2) {
+        $currentHeader = $row['text_level2'];
+        $replaced = studentTextReplace('===', $currentHeader);
+        if (!$replaced) {
+            $currentHeader .= " ===\n";
+        }
+        $heading .= '=== ' . $symbolParts[0] . '.' . $symbolParts[1] . ' ' . $currentHeader;
         $level2 = $row['text_level2'];
     }
 
+    if ($depth == 4 && $row['text_level3'] != $level3) {
+        $currentHeader = $row['text_level3'];
+        $replaced = studentTextReplace('====', $currentHeader);
+        if (!$replaced) {
+            $currentHeader .= " ====\n";
+        }
+        $heading .= '==== ' . $symbolParts[0] . '.' . $symbolParts[1] . '.' . $symbolParts[2] . ' ' . $currentHeader;
+        $level3 = $row['text_level3'];
+    }
+
     return $heading;
+}
+
+function studentTextReplace($section, &$header): bool
+{
+    $count = null;
+    $replaced = false;
+    $header = str_replace(' Uczeń:', "$section\n'''Uczeń:'''\n\n", $header, $count);
+    if ($count) {
+        $replaced = true;
+    }
+    $header = str_replace(' – uczeń:', "$section\n'''uczeń:'''\n\n", $header, $count);
+    if ($count) {
+        $replaced = true;
+    }
+
+    return $replaced;
 }
 
 function outputLastLevel($row)
