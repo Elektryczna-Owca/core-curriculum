@@ -69,7 +69,6 @@ foreach ($subjects as $subject) {
     foreach ($subject->grades as $grade) {
         $pageText = '';
         $pageTitle = $subject->wikiTitle . "_klasa_$grade";
-        $pageTitle .= '_2';
         $gradeCondition = "grade" . $grade . " = 1";
         $stmt = $dbh->query("SELECT id, symbol, text_level1, text_level2, text_level3, text_level4 FROM curriculum WHERE $gradeCondition AND subject = '{$subject->name}'");
         $pageText .= "= " . $pageTitle . " =\n";
