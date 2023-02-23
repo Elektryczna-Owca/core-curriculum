@@ -5,6 +5,21 @@ try {
     print "Error!: " . $e->getMessage() . "<br/>";
     die();
 }
+/*
+@TODO
+Merge mathematics IX.2.a. and IX.2.b. into IX.2.
+IX. Wielokąty. Uczeń:
+1) zna pojęcie wielokąta foremnego;
+2) stosuje wzory na pole trójkąta, prostokąta, kwadratu, równoległoboku, rombu,
+trapezu, a także do wyznaczania długości odcinków o poziomie trudności nie
+większym niż w przykładach:
+a) oblicz najkrótszą wysokość trójkąta prostokątnego o bokach długości:
+5 cm, 12 cm i 13 cm,
+b) przekątne rombu ABCD mają długości 8AC = dm i 10BD = dm.
+Przekątną BD rombu przedłużono do punktu E w taki sposób, że odcinek
+BE jest dwa razy dłuższy od tej przekątnej. Oblicz pole trójkąta CDE.
+(zadanie ma dwie odpowiedzi).
+ */
 
 $subjects = ['biologia', 'chemia', 'edb', 'fizyka', 'geografia', 'historia', 'informatyka', 'j.obcy', 'j.polski', 'matematyka', 'przyroda', 'wos'];
 $subjects = ['j.obcy', 'j.polski', 'matematyka','muzyka','plastyka','przyroda','technika','wf'];
