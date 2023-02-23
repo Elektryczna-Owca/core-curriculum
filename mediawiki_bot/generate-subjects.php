@@ -41,20 +41,17 @@ $subjects = [];
 //$subjects[] = new Subject('matematyka', [4, 5, 6, 7, 8]);
 //$subjects[] = new Subject('fizyka', [7, 8]);
 //$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
-$subjects[] = new Subject('biologia', [6]);
 //$subjects[] = new Subject('chemia', [7, 8]);
 //$subjects[] = new Subject('edb', [8]);
 //$subjects[] = new Subject('historia', [4, 5, 6, 7, 8]);
 //$subjects[] = new Subject('geografia', [5, 6, 7, 8]);
 //$subjects[] = new Subject('informatyka', [4, 5, 6, 7, 8]);
-//$subjects[] = new Subject('j.obcy', [4, 5, 6, 7, 8]);
 //$subjects[] = new Subject('j.polski', [4, 5, 6, 7, 8]);
 //$subjects[] = new Subject('przyroda', [4]);
 //$subjects[] = new Subject('wos', [8]);
 //$subjects[] = new Subject('etyka', [1, 2, 3]);
 //$subjects[] = new Subject('edukacja_społeczna', [1, 2, 3]);
 //$subjects[] = new Subject('informatyka', [1, 2, 3]);
-//$subjects[] = new Subject('j.obcy', [1, 2, 3]);
 //$subjects[] = new Subject('j.polski', [1, 2, 3]);
 //$subjects[] = new Subject('matematyka', [1, 2, 3]);
 //$subjects[] = new Subject('muzyka', [1, 2, 3]);
@@ -64,9 +61,14 @@ $subjects[] = new Subject('biologia', [6]);
 //$subjects[] = new Subject('wf', [1, 2, 3]);
 //$subjects[] = new Subject('j.polski', [7]);
 
+// Currently broken
+$subjects[] = new Subject('j.obcy', [4, 5, 6, 7, 8]);
+$subjects[] = new Subject('j.obcy', [1, 2, 3]);
+
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
     foreach ($subject->grades as $grade) {
+        echo "$subject->name grade $grade\n";
         $pageText = '';
         $pageTitle = $subject->wikiTitle . "_klasa_$grade";
         $gradeCondition = "grade" . $grade . " = 1";
@@ -101,7 +103,7 @@ function generateNonIndentPage($rows)
     foreach ($rows as $row) {
         // Detect which level is the last one. Levels above should have headings if not created already.
         // The last level is an entry.
-
+//        print_r($row);
         $id = $row['id'];
         $pageText .= outputHeadings($row);
         $pageText .= outputLastLevel($row);
@@ -131,7 +133,7 @@ function outputHeadings($row)
         $depth = 2;
     }
     if (!$row['text_level2']) {
-        die("text_level2 not set - I didn't expect it");
+        $depth = 1;
     }
 
     $heading = '';
@@ -199,7 +201,7 @@ function outputLastLevel($row)
         $depth = 2;
     }
     if (!$row['text_level2']) {
-        die("text_level2 not set - I didn't expect it");
+        $depth = 1;
     }
 
     return $row['symbol'] . ' ' . $row['text_level' . $depth] . "\n\n";
