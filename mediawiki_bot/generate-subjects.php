@@ -3,8 +3,8 @@
 $endPoint = "https://edukacja-domowa.info/api.php";
 $lgname = 'Tomek@ed';
 $lgpassword = "";
-//    $login_Token = getLoginToken();
-//    loginRequest($login_Token);
+    $login_Token = getLoginToken();
+    loginRequest($login_Token);
 $csrfToken = getCSRFToken();
 
 try {
@@ -110,9 +110,9 @@ function generateNonIndentPage($rows)
         $resources = getResources($id);
 //        var_dump($resources);
         foreach ($resources as $resource) {
-            $pageText .= ":::* " . $resource['url'] . ' (' . $resource['comment'] . ")\n";
+            $pageText .= ":* " . $resource['url'] . ' (' . $resource['comment'] . ")\n";
         }
-        $pageText .= ":::* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
+        $pageText .= ":* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
     }
 
     return $pageText;
