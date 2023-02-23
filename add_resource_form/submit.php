@@ -7,6 +7,10 @@ $url = ($_POST['url']);
 if (strlen($url) > 1000) {
     exit;
 }
+$description = ($_POST['description']);
+if (strlen($description) > 1000) {
+    exit;
+}
 $extra = ($_POST['extra']);
 if (strlen($extra) > 10000) {
     exit;
@@ -19,8 +23,8 @@ try {
     die();
 }
 
-$sql = "INSERT INTO submission (curriculum_id, url, extra) VALUES (?,?,?)";
-$dbh->prepare($sql)->execute([$id, $url, $extra]);
+$sql = "INSERT INTO submission (curriculum_id, url, description, extra) VALUES (?,?,?,?)";
+$dbh->prepare($sql)->execute([$id, $url, $description, $extra]);
 ?>
 
 <!doctype html>
