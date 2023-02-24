@@ -85,6 +85,7 @@ VI. Elektryczność. Uczeń:
 		b) demonstruje wzajemne oddziaływanie ciał naelektryzowanych,
 		c) rozróżnia przewodniki od izolatorów oraz wskazuje ich przykłady,
 		d) łączy według podanego schematu obwód elektryczny składający się ze źródła (akumulatora, zasilacza), odbiornika (żarówki, brzęczyka, silnika, diody, grzejnika, opornika), wyłączników, woltomierzy, amperomierzy; odczytuje wskazania mierników,e) wyznacza opór przewodnika przez pomiary napięcia na jego końcach oraz natężenia prądu przez niego płynącego.
+		e) wyznacza opór przewodnika przez pomiary napięcia na jego końcach oraz natężenia prądu przez niego płynącego.
 VII. Magnetyzm. Uczeń:
 	1) nazywa bieguny magnesów stałych i opisuje oddziaływanie między nimi;
 	2) opisuje zachowanie się igły magnetycznej w obecności magnesu oraz zasadę działania kompasu; posługuje się pojęciem biegunów magnetycznych Ziemi;
