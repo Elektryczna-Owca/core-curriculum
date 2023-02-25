@@ -1,40 +1,23 @@
 <?php
-
-$endPoint = "https://edukacja-domowa.info/api.php";
+$dbHost = getenv('DB_HOST');
+$dbUser = getenv('DB_USER');
+$dbPassword = getenv('DB_PASS');
+$endPoint = "https://edukacja-domowa.wiki/api.php";
 $lgname = 'Tomek@ed';
-$lgpassword = "";
+$lgpassword = getenv('PWD');
+
+if (!file_exists('cookie.txt')) {
     $login_Token = getLoginToken();
     loginRequest($login_Token);
+}
 $csrfToken = getCSRFToken();
 
 try {
-    $dbh = new PDO('mysql:host=localhost;dbname=curriculum', 'root', 'a');
+    $dbh = new PDO("mysql:host=$dbHost;dbname=curriculum", $dbUser, $dbPassword);
 } catch (PDOException $e) {
-    print "Error!: " . $e->getMessage() . "<br/>";
+    print "Error!: " . $e->getMessage() ."\n";
+    print("$dbHost\n");
     die();
-}
-
-
-class Subject
-{
-    public readonly string $wikiTitle;
-    public readonly string $wikiName;
-
-    public function __construct(public readonly string $name, public readonly array $grades)
-    {
-        if ($name == 'edb') {
-            $this->wikiName = "edukacja_dla_bezpieczeństwa";
-        } else if ($name == 'j.obcy') {
-            $this->wikiName = "język_obcy";
-        } else if ($name == 'j.polski') {
-            $this->wikiName = "język_polski";
-        } else if ($name == 'wos') {
-            $this->wikiName = "wiedza_o_społeczeństwie";
-        } else {
-            $this->wikiName = $name;
-        }
-        $this->wikiTitle = "Podstawa_programowa_" . $this->wikiName;
-    }
 }
 
 $subjects = [];
@@ -62,8 +45,10 @@ $subjects = [];
 //$subjects[] = new Subject('j.polski', [7]);
 
 // Currently broken
-$subjects[] = new Subject('j.obcy', [4, 5, 6, 7, 8]);
-$subjects[] = new Subject('j.obcy', [1, 2, 3]);
+//$subjects[] = new Subject('j.obcy', [4, 5, 6, 7, 8]);
+//$subjects[] = new Subject('j.obcy', [1, 2, 3]);
+
+$subjects[] = new Subject('historia', [4]);
 
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
@@ -111,7 +96,7 @@ function generateNonIndentPage($rows)
         $resources = getResources($id);
 //        var_dump($resources);
         foreach ($resources as $resource) {
-            $pageText .= ":* " . $resource['url'] . ' (' . $resource['comment'] . ")\n";
+            $pageText .= ":* " . $resource['url'] . ' (' . trim($resource['comment']) . ")\n";
         }
         $pageText .= ":* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
     }
@@ -320,4 +305,26 @@ function editRequest($title, $text)
     curl_close($ch);
 
     echo($output);
+}
+
+class Subject
+{
+    public readonly string $wikiTitle;
+    public readonly string $wikiName;
+
+    public function __construct(public readonly string $name, public readonly array $grades)
+    {
+        if ($name == 'edb') {
+            $this->wikiName = "edukacja_dla_bezpieczeństwa";
+        } else if ($name == 'j.obcy') {
+            $this->wikiName = "język_obcy";
+        } else if ($name == 'j.polski') {
+            $this->wikiName = "język_polski";
+        } else if ($name == 'wos') {
+            $this->wikiName = "wiedza_o_społeczeństwie";
+        } else {
+            $this->wikiName = $name;
+        }
+        $this->wikiTitle = "Podstawa_programowa_" . $this->wikiName;
+    }
 }
