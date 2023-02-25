@@ -15,40 +15,191 @@ $csrfToken = getCSRFToken();
 try {
     $dbh = new PDO("mysql:host=$dbHost;dbname=curriculum", $dbUser, $dbPassword);
 } catch (PDOException $e) {
-    print "Error!: " . $e->getMessage() ."\n";
+    print "Error!: " . $e->getMessage() . "\n";
     print("$dbHost\n");
     die();
 }
 
 $subjects = [];
-//$subjects[] = new Subject('matematyka', [4, 5, 6, 7, 8]);
-//$subjects[] = new Subject('fizyka', [7, 8]);
-//$subjects[] = new Subject('biologia', [5, 6, 7, 8]);
-//$subjects[] = new Subject('chemia', [7, 8]);
-//$subjects[] = new Subject('edb', [8]);
-//$subjects[] = new Subject('historia', [4, 5, 6, 7, 8]);
-//$subjects[] = new Subject('geografia', [5, 6, 7, 8]);
-//$subjects[] = new Subject('informatyka', [4, 5, 6, 7, 8]);
-//$subjects[] = new Subject('j.polski', [4, 5, 6, 7, 8]);
-//$subjects[] = new Subject('przyroda', [4]);
-//$subjects[] = new Subject('wos', [8]);
-//$subjects[] = new Subject('etyka', [1, 2, 3]);
-//$subjects[] = new Subject('edukacja_społeczna', [1, 2, 3]);
-//$subjects[] = new Subject('informatyka', [1, 2, 3]);
-//$subjects[] = new Subject('j.polski', [1, 2, 3]);
-//$subjects[] = new Subject('matematyka', [1, 2, 3]);
-//$subjects[] = new Subject('muzyka', [1, 2, 3]);
-//$subjects[] = new Subject('plastyka', [1, 2, 3]);
-//$subjects[] = new Subject('przyroda', [1, 2, 3]);
-//$subjects[] = new Subject('technika', [1, 2, 3]);
-//$subjects[] = new Subject('wf', [1, 2, 3]);
-//$subjects[] = new Subject('j.polski', [7]);
+$physics78 = new Subject('fizyka', [7, 8]);
+$physics78->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 2 lat, w klasach 7 - 8.
 
-// Currently broken
-//$subjects[] = new Subject('j.obcy', [4, 5, 6, 7, 8]);
-//$subjects[] = new Subject('j.obcy', [1, 2, 3]);
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_fizyka_klasa_7|fizyka klasa 7]] oraz [[Podstawa_programowa_fizyka_klasa_8|fizyka klasa 8]].';
+$subjects[] = $physics78;
 
-$subjects[] = new Subject('historia', [4]);
+$biology56 = new Subject('biologia', [5, 6]);
+$biology56->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 2 lat, w klasach 5 - 6.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_biologia_klasa_5|biologia klasa 5]] oraz [[Podstawa_programowa_biologia_klasa_6|biologia klasa 6]].';
+$subjects[] = $biology56;
+$subjects[] = new Subject('biologia', [7]);
+$subjects[] = new Subject('biologia', [8]);
+
+$chemistry78 = new Subject('chemia', [7, 8]);
+$chemistry78->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 2 lat, w klasach 7 - 8.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_chemia_klasa_7|chemia klasa 7]] oraz [[Podstawa_programowa_chemia_klasa_8|chemia klasa 8]].';
+$subjects[] = $chemistry78;
+
+$subjects[] = new Subject('edb', [8]);
+$subjects[] = new Subject('historia', [4, 5, 6, 7, 8]);
+$subjects[] = new Subject('geografia', [5]);
+$subjects[] = new Subject('geografia', [6]);
+$subjects[] = new Subject('geografia', [7]);
+$subjects[] = new Subject('geografia', [8]);
+
+$subjects[] = new Subject('przyroda', [4]);
+$subjects[] = new Subject('wos', [8]);
+$es123 = new Subject('edukacja_społeczna', [1, 2, 3]);
+$es123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_edukacja_społeczna_klasa_1|edukacji społecznej klasa 1]],
+[[Podstawa_programowa_edukacja_społeczna_klasa_2|edukacji społecznej klasa 2]] oraz [[Podstawa_programowa_edukacja_społeczna_klasa_3|edukacji społecznej klasa 3]].';
+$subjects[] = $es123;
+
+$ethics123 = new Subject('etyka', [1, 2, 3]);
+$ethics123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_etyka_klasa_1|etyka klasa 1]],
+[[Podstawa_programowa_etyka_klasa_2|etyka klasa 2]] oraz [[Podstawa_programowa_etyka_klasa_3|etyka klasa 3]].';
+$subjects[] = $ethics123;
+
+$it123 = new Subject('informatyka', [1, 2, 3]);
+$it123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_informatyka_klasa_1|informatyka klasa 1]],
+[[Podstawa_programowa_informatyka_klasa_2|informatyka klasa 2]] oraz [[Podstawa_programowa_informatyka_klasa_3|informatyka klasa 3]].';
+$subjects[] = $it123;
+
+$it456 = new Subject('informatyka', [4, 5, 6]);
+$it456->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 4 - 6.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_informatyka_klasa_4|informatyka klasa 4]],
+[[Podstawa_programowa_informatyka_klasa_5|informatyka klasa 5]] oraz [[Podstawa_programowa_informatyka_klasa_6|informatyka klasa 6]].';
+$subjects[] = $it456;
+
+$it78 = new Subject('informatyka', [7, 8]);
+$it78->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 2 lat, w klasach 7 - 8.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_informatyka_klasa_7|informatyka klasa 7]],
+oraz [[Podstawa_programowa_informatyka_klasa_8|informatyka klasa 8]].';
+$subjects[] = $it78;
+
+$polish123 = new Subject('j.polski', [1, 2, 3]);
+$polish123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_język_polski_klasa_1|język polski klasa 1]],
+[[Podstawa_programowa_język_polski_klasa_2|język polski klasa 2]] oraz [[Podstawa_programowa_język_polski_klasa_3|język polski klasa 3]].';
+$subjects[] = $polish123;
+
+$polish456 = new Subject('j.polski', [4, 5, 6]);
+$polish456->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 4 - 6.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_język_polski_klasa_4|język polski klasa 4]],
+[[Podstawa_programowa_język_polski_klasa_5|język polski klasa 5]] oraz [[Podstawa_programowa_język_polski_klasa_6|język polski klasa 6]].';
+$subjects[] = $polish456;
+
+$polish78 = new Subject('j.polski', [7, 8]);
+$polish78->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 2 lat, w klasach 7 - 8.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_język_polski_klasa_7|język polski klasa 7]],
+oraz [[Podstawa_programowa_język_polski_klasa_8|język polski klasa 8]].';
+$subjects[] = $polish78;
+
+$math123 = new Subject('matematyka', [1, 2, 3]);
+$math123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_matematyka_klasa_1|matematyka klasa 1]],
+[[Podstawa_programowa_matematyka_klasa_2|matematyka klasa 2]] oraz [[Podstawa_programowa_matematyka_klasa_3|matematyka klasa 3]].';
+$subjects[] = $math123;
+
+$math456 = new Subject('matematyka', [4, 5, 6]);
+$math456->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 4 - 6.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_matematyka_klasa_4|matematyka klasa 4]],
+[[Podstawa_programowa_matematyka_klasa_5|matematyka klasa 5]] oraz [[Podstawa_programowa_matematyka_klasa_6|matematyka klasa 6]].';
+$subjects[] = $math456;
+
+$math78 = new Subject('matematyka', [7, 8]);
+$math78->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 2 lat, w klasach 7 - 8.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_matematyka_klasa_7|matematyka klasa 7]],
+oraz [[Podstawa_programowa_matematyka_klasa_8|matematyka klasa 8]].';
+$subjects[] = $math78;
+
+$music123 = new Subject('muzyka', [1, 2, 3]);
+$music123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_muzyka_klasa_1|muzyka klasa 1]],
+[[Podstawa_programowa_muzyka_klasa_2|muzyka klasa 2]] oraz [[Podstawa_programowa_muzyka_klasa_3|muzyka klasa 3]].';
+$subjects[] = $music123;
+
+$art123 = new Subject('plastyka', [1, 2, 3]);
+$art123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_plastyka_klasa_1|plastyka klasa 1]],
+[[Podstawa_programowa_plastyka_klasa_2|plastyka klasa 2]] oraz [[Podstawa_programowa_plastyka_klasa_3|plastyka klasa 3]].';
+$subjects[] = $art123;
+
+$nature123 = new Subject('przyroda', [1, 2, 3]);
+$nature123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_przyroda_klasa_1|przyroda klasa 1]],
+[[Podstawa_programowa_przyroda_klasa_2|przyroda klasa 2]] oraz [[Podstawa_programowa_przyroda_klasa_3|przyroda klasa 3]].';
+$subjects[] = $nature123;
+
+$technology123 = new Subject('technika', [1, 2, 3]);
+$technology123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_technika_klasa_1|technika klasa 1]],
+[[Podstawa_programowa_technika_klasa_2|technika klasa 2]] oraz [[Podstawa_programowa_technika_klasa_3|technika klasa 3]].';
+$subjects[] = $technology123;
+
+$pe123 = new Subject('wf', [1, 2, 3]);
+$pe123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_wf_klasa_1|wf klasa 1]],
+[[Podstawa_programowa_wf_klasa_2|wf klasa 2]] oraz [[Podstawa_programowa_wf_klasa_3|wf klasa 3]].';
+$subjects[] = $pe123;
+
+$foreignLang123 = new Subject('j.obcy', [1, 2, 3]);
+$foreignLang123->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 3 lat, w klasach 1 - 3.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_język_obcy_klasa_1|język obcy klasa 1]],
+[[Podstawa_programowa_język_obcy_klasa_2|język obcy klasa 2]] oraz [[Podstawa_programowa_język_obcy_klasa_3|język obcy klasa 3]].';
+$subjects[] = $foreignLang123;
+
+$foreignLang45678 = new Subject('j.obcy', [4, 5, 6, 7, 8]);
+$foreignLang45678->wikiIntroduction =
+    'Uwaga - wszystkie punkty zawarte na tej stronie muszą być spełnione w przeciągu 5 lat, w klasach 4 - 8.
+
+Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_język_obcy_klasa_4|język obcy klasa 4]],
+[[Podstawa_programowa_język_obcy_klasa_5|język obcy klasa 5]],
+[[Podstawa_programowa_język_obcy_klasa_6|język obcy klasa 6]],
+[[Podstawa_programowa_język_obcy_klasa_7|język obcy klasa 7]],
+oraz [[Podstawa_programowa_język_obcy_klasa_8|język obcy klasa 8]].';
+$subjects[] = $foreignLang45678;
+
 
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
@@ -58,7 +209,10 @@ foreach ($subjects as $subject) {
         $pageTitle = $subject->wikiTitle . "_klasa_$grade";
         $gradeCondition = "grade" . $grade . " = 1";
         $stmt = $dbh->query("SELECT id, symbol, text_level1, text_level2, text_level3, text_level4 FROM curriculum WHERE $gradeCondition AND subject = '{$subject->name}'");
-        $pageText .= "= " . $pageTitle . " =\n";
+        $pageText .= "= " . str_replace('_', ' ', $pageTitle) . " =\n";
+        if (isset($subject->wikiIntroduction)) {
+            $pageText .= $subject->wikiIntroduction . "\n";
+        }
         $rows = $stmt->fetchAll();
         $pageText .= generateNonIndentPage($rows);
         // Add images
@@ -311,6 +465,8 @@ class Subject
 {
     public readonly string $wikiTitle;
     public readonly string $wikiName;
+
+    public string $wikiIntroduction;
 
     public function __construct(public readonly string $name, public readonly array $grades)
     {
