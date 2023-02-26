@@ -200,6 +200,7 @@ Materiały zamieszczone tutaj są identyczne dla [[Podstawa_programowa_język_ob
 oraz [[Podstawa_programowa_język_obcy_klasa_8|język obcy klasa 8]].';
 $subjects[] = $foreignLang45678;
 
+//$subjects = [$math78];
 
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
@@ -208,7 +209,7 @@ foreach ($subjects as $subject) {
         $pageText = '';
         $pageTitle = $subject->wikiTitle . "_klasa_$grade";
         $gradeCondition = "grade" . $grade . " = 1";
-        $stmt = $dbh->query("SELECT id, symbol, text_level1, text_level2, text_level3, text_level4 FROM curriculum WHERE $gradeCondition AND subject = '{$subject->name}'");
+        $stmt = $dbh->query("SELECT id, symbol, text_level1, text_level2, text_level3, text_level4 FROM curriculum WHERE $gradeCondition AND subject = '{$subject->name}' ORDER BY symbol_normalized ASC");
         $pageText .= "= " . str_replace('_', ' ', $pageTitle) . " =\n";
         if (isset($subject->wikiIntroduction)) {
             $pageText .= $subject->wikiIntroduction . "\n";
@@ -289,6 +290,7 @@ function outputHeadings($row)
 
         $heading .= '== ' . $symbolParts[0] . ' ' . $currentHeader;
         $level1 = $row['text_level1'];
+        $level2 = '';
     }
 
     if ($depth == 3 && $row['text_level2'] != $level2) {
@@ -299,6 +301,7 @@ function outputHeadings($row)
         }
         $heading .= '=== ' . $symbolParts[0] . '.' . $symbolParts[1] . ' ' . $currentHeader;
         $level2 = $row['text_level2'];
+        $level3 = '';
     }
 
     if ($depth == 4 && $row['text_level3'] != $level3) {

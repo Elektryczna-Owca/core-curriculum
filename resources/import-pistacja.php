@@ -1,19 +1,36 @@
 <?php
+$dbHost = getenv('DB_HOST');
+$dbUser = getenv('DB_USER');
+$dbPassword = getenv('DB_PASS');
+
 try {
-    $dbh = new PDO('mysql:host=localhost;dbname=curriculum', 'root', 'a');
+    $dbh = new PDO("mysql:host=$dbHost;dbname=curriculum", $dbUser, $dbPassword);
 } catch (PDOException $e) {
-    print "Error!: " . $e->getMessage() . "<br/>";
+    print "Error!: " . $e->getMessage() . "\n";
+    print("$dbHost\n");
     die();
 }
+
 $subject = 'matematyka';
+//$file = 'MAT-SP46.txt';
+//$grade7 = 0;
+$file = 'MAT-SP78.txt';
+$grade7 = 1;
+
 //$subject = 'fizyka';
-//$file = 'BIO-SP46.txt';
-//$file = 'BIO-SP78.txt';
-//$file = 'CHM-SP78.txt';
 //$file = 'FIZ-SP78.txt';
-$file = 'MAT-SP46.txt';
-//$file = 'MAT-SP78.txt';
-$grade7 = 0;
+//$grade7 = 1;
+
+//$subject = 'biologia';
+//$file = 'BIO-SP46.txt';
+//$grade7 = 0;
+//$file = 'BIO-SP78.txt';
+//$grade8 = 1;
+
+//$subject = 'chemia';
+//$file = 'CHM-SP78.txt';
+//$grade7 = 1;
+
 
 $sql = "SELECT id FROM curriculum WHERE subject = ? AND symbol = ? AND grade7 = ?";
 $preparedStatement = $dbh->prepare($sql);
@@ -38,7 +55,7 @@ foreach ($resources as $resource) {
             die('Something wrong with symbol ' . $symbol);
         }
         $curriculumId = $id[0]['id'];
-        $dbh->exec("INSERT INTO curriculum_has_resource VALUES ($curriculumId, $resourceId)");
+        $dbh->exec("INSERT IGNORE INTO curriculum_has_resource VALUES ($curriculumId, $resourceId)");
 //        var_dump($result);
 //        var_dump($id);
     }
@@ -56,8 +73,8 @@ function insert($url, $comment) {
     $prepared->execute([$url]);
     $id = $prepared->fetchAll();
     if (count($id) > 0) {
-        echo "URL: $url already added to the DB, skipping\n";
-        return false;
+        echo "URL: $url already added to the DB, return id\n";
+        return $id[0]['id'];
     }
 
     $prepared = $dbh->prepare("INSERT INTO resource VALUES (NULL, ?, ?)");
