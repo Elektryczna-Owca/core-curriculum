@@ -3,8 +3,12 @@
 namespace App\Repository;
 
 use App\Entity\Curriculum;
+use App\Model\PageDto;
+use App\Model\CurriculumDto;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
+use Doctrine\ORM\Tools\Pagination\Paginator;
+USE Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * @extends ServiceEntityRepository<Curriculums>
@@ -37,6 +41,25 @@ class CurriculumRepository extends ServiceEntityRepository
         if ($flush) {
             $this->getEntityManager()->flush();
         }
+    }
+
+    public function findBySubject(string $s, int $offset = 0, int $limit = 20): PageDto
+    {
+        $query = $this->createQueryBuilder("c")
+            ->andWhere("c.subject like :s")
+            ->setParameter('s', "%" . $s . "%")
+            ->setMaxResults($limit)
+            ->setFirstResult($offset)
+            ->getQuery();
+
+        $paginator = new Paginator($query, $fetchJoinCollection = false);
+        $total = count($paginator);
+
+        $content = new ArrayCollection();
+        foreach ($paginator as $c) {
+            $content->add(CurriculumDto::of($c));
+        }
+        return PageDto::of ($content, $total, $offset, $limit);
     }
 
 //    /**

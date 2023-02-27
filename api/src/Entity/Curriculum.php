@@ -2,38 +2,14 @@
 
 namespace App\Entity;
 
-use ApiPlatform\Metadata\ApiResource;
-use ApiPlatform\Metadata\ApiFilter;
-use ApiPlatform\Metadata\Get;
-use ApiPlatform\Metadata\GetCollection;
-use ApiPlatform\Metadata\Post;
-use ApiPlatform\Metadata\Link;
-use ApiPlatform\Doctrine\Orm\Filter\SearchFilter;
 use App\Repository\CurriculumRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
-use Symfony\Component\Serializer\Annotation\Groups;
 
 #[ORM\Table(name: 'Curriculum')]
 #[ORM\Entity(repositoryClass: CurriculumRepository::class)]
-#[ApiResource(
-    normalizationContext: ['groups' => ['Curriculum:read']],
-    denormalizationContext: ['groups' => ['Curriculum:write']]
-)]
-#[ApiFilter(SearchFilter::class, properties: ['subject' => 'exact'])]
-#[ApiResource(
-    uriTemplate: '/resources/{id}/curriculums', 
-    uriVariables: [
-        'id' => new Link(
-            fromClass: Resource::class,
-            fromProperty: 'curriculum'
-        )
-    ], 
-    normalizationContext: ['groups' => ['Curriculum:read']],
-    operations: [new GetCollection()]
-)]
 class Curriculum
 {
     #[ORM\Id]
@@ -42,74 +18,57 @@ class Curriculum
     private ?int $id = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $grade0 = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $grade1 = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $grade2 = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $grade3 = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $grade4 = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $grade5 = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $grade6 = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $grade7 = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $grade8 = null;
 
     #[ORM\Column(type: Types::SMALLINT, nullable: true)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?int $obligatory = null;
 
     #[ORM\Column(length: 45)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?string $subject = null;
 
     #[ORM\Column(length: 45)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?string $symbol = null;
 
     #[ORM\Column(name: 'text_level1', length: 1024, nullable: true)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?string $textLevel1 = null;
 
     #[ORM\Column(name: 'text_level2', length: 65535, nullable: true)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?string $textLevel2 = null;
 
     #[ORM\Column(name: 'text_level3', length: 65535, nullable: true)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?string $textLevel3 = null;
 
     #[ORM\Column(name: 'text_level4', length: 65535, nullable: true)]
-    #[Groups(['Curriculum:read', 'Curriculum:write'])]
     private ?string $textLevel4 = null;
 
     #[ORM\ManyToMany(targetEntity: Resource::class)]
 	#[ORM\JoinTable(name: 'curriculum_has_resource')]
     #[ORM\JoinColumn(name: 'curriculum_id', referencedColumnName: 'id')]
     #[ORM\InverseJoinColumn(name: 'resource_id', referencedColumnName: 'id')]
-    #[Groups(['Curriculum:write'])]
     private Collection $resource;
 
     public function __construct()
@@ -182,7 +141,7 @@ class Curriculum
         return $this;
     }
 
-	public function getGrad5(): ?int
+	public function getGrade5(): ?int
     {
         return $this->grade5;
     }
@@ -194,7 +153,7 @@ class Curriculum
         return $this;
     }
 
-	public function getGrad6(): ?int
+	public function getGrade6(): ?int
     {
         return $this->grade6;
     }
@@ -206,7 +165,7 @@ class Curriculum
         return $this;
     }
 
-	public function getGrad7(): ?int
+	public function getGrade7(): ?int
     {
         return $this->grade7;
     }
@@ -218,7 +177,7 @@ class Curriculum
         return $this;
     }
 
-	public function getGrad8(): ?int
+	public function getGrade8(): ?int
     {
         return $this->grade8;
     }
@@ -336,7 +295,5 @@ class Curriculum
         $this->resource->removeElement($resource);
 
         return $this;
-    }
-	
-	
+    }	  
 }

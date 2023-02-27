@@ -3,8 +3,12 @@
 namespace App\Repository;
 
 use App\Entity\Resource;
+use App\Model\PageDto;
+use App\Model\ResourceDto;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
+use Doctrine\ORM\Tools\Pagination\Paginator;
+USE Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * @extends ServiceEntityRepository<Resource>
@@ -37,6 +41,30 @@ class ResourceRepository extends ServiceEntityRepository
         if ($flush) {
             $this->getEntityManager()->flush();
         }
+    }
+
+    public function findByCurriculumId(int $cID, int $offset = 0, int $limit = 20): PageDto
+    {
+// SELECT * FROM curriculum.resource r
+// JOIN curriculum.curriculum_has_resource ON curriculum.curriculum_has_resource.resource_id = r.id
+// JOIN curriculum.curriculum c ON curriculum.curriculum_has_resource.curriculum_id = C.id
+//  and c.id= 595
+
+        $query = $this->createQueryBuilder('c')
+            ->innerJoin('c.curriculum', 's', 'WITH', 's.id = :curriculumId')
+            ->setParameter('curriculumId', $cID)
+            ->setMaxResults($limit)
+            ->setFirstResult($offset)
+            ->getQuery();
+
+        $paginator = new Paginator($query, $fetchJoinCollection = false);
+        $total = count($paginator);
+
+        $content = new ArrayCollection();
+        foreach ($paginator as $c) {
+            $content->add(ResourceDto::of($c));
+        }
+        return PageDto::of ($content, $total, $offset, $limit);
     }
 
 //    /**
