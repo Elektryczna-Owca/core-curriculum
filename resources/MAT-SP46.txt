@@ -1,0 +1,256 @@
+https://pistacja.tv/film/mat00273-przedstawianie-danych-wykresy-punktowe-i-liniowe XIII.2
+https://pistacja.tv/film/mat00272-przedstawianie-danych-tabele-i-wykresy XIII.2
+https://pistacja.tv/film/mat00271-czym-jest-statystyka XIII.1
+https://pistacja.tv/film/mat00231-rysowanie-okregow-za-pomoca-cyrkla IX.7
+https://pistacja.tv/film/mat00229-okrag-i-kolo-wprowadzenie IX.6
+https://pistacja.tv/film/mat00280-jednostki-predkosci XII.9
+https://pistacja.tv/film/mat00279-obliczanie-czasu-gdy-dana-jest-droga-i-predkosc XII.9 XIV.5
+https://pistacja.tv/film/mat00278-obliczanie-predkosci-przy-danej-drodze-i-danym-czasie XII.9 XIV.5
+https://pistacja.tv/film/mat00277-obliczanie-drogi-przy-danej-predkosci-i-danym-czasie XII.9 XIV.5
+https://pistacja.tv/film/mat00249-objetosc-prostopadloscianu-i-szescianu XI.5
+https://pistacja.tv/film/mat00248-objetosc-i-jednostki-objetosci-wprowadzenie XI.5 XI.6
+https://pistacja.tv/film/mat00247-pole-powierzchni-prostopadloscianu-i-szescianu XI.5
+https://pistacja.tv/film/mat00246-siatka-prostopadloscianu-i-szescianu X.3 X.4
+https://pistacja.tv/film/mat00244-budowa-prostopadloscianu-i-szescianu X.2
+https://pistacja.tv/film/mat00243-figury-przestrzenne-wprowadzenie X.1
+https://pistacja.tv/film/mat00036-rownania-w-geometrii VI.2 XIV.7
+https://pistacja.tv/film/mat00016-rozwiazywanie-prostych-rownan-zadania-z-trescia VI.2 XIV.1 XIV.2 XIV.3 XIV.4
+https://pistacja.tv/film/mat00015-rozwiazywanie-prostych-rownan VI.2
+https://pistacja.tv/film/mat00014-rownania-z-odejmowaniem VI.2
+https://pistacja.tv/film/mat00013-rozwiazywanie-rownan-z-dodawaniem VI.2 XIV.7
+https://pistacja.tv/film/mat00012-rownania-z-dodawaniem VI.2
+https://pistacja.tv/film/mat00035-pamieciowe-rozwiazywanie-rownan-rownania-jako-zagadka VI.2 XIV.1 XIV.2 XIV.7
+https://pistacja.tv/film/mat00202-proste-rownolegle-przeciete-trzecia-prosta-katy VIII.6
+https://pistacja.tv/film/mat00210-katy-wierzcholkowe VIII.6
+https://pistacja.tv/film/mat00209-katy-przylegle VIII.6
+https://pistacja.tv/film/mat00148-skala-na-planach-i-mapach XII.8 XIV.4
+https://pistacja.tv/film/mat00147-rysowanie-odcinka-w-skali-gdy-znamy-jego-rzeczywista-dlugosc XII.8
+https://pistacja.tv/film/mat00146-obliczanie-dlugosci-odcinka-gdy-dana-jest-dlugosc-w-skali XII.8
+https://pistacja.tv/film/mat00145-skala-wprowadzenie XII.8
+https://pistacja.tv/film/mat00161-potegowanie-liczb-ujemnych III.5
+https://pistacja.tv/film/mat00160-mnozenie-i-dzielenie-liczb-calkowitych III.5
+https://pistacja.tv/film/mat00158-dodawanie-liczb-calkowitych III.5
+https://pistacja.tv/film/mat00157-wartosc-bezwzgledna III.3
+https://pistacja.tv/film/mat00156-porownywanie-liczb-calkowitych III.4
+https://pistacja.tv/film/mat00155-liczby-calkowite-na-osi-liczbowej III.2 XII.5
+https://pistacja.tv/film/mat00154-liczby-calkowite-wprowadzenie III.1
+https://pistacja.tv/film/mat00182-katy-w-trapezach-i-rownoleglobokach IX.3 IX.5 XI.7
+https://pistacja.tv/film/mat00261-suma-miar-katow-w-czworokacie IX.3 IX.5 XI.7
+https://pistacja.tv/film/mat00222-suma-miar-katow-w-trojkacie-zadania IX.3 XI.7
+https://pistacja.tv/film/mat00221-twierdzenie-o-sumie-miar-katow-wewnetrznych-trojkata IX.3 XI.7
+https://pistacja.tv/film/mat00242-pola-figur-zlozonych XI.4
+https://pistacja.tv/film/mat00818-pole-trapezu-zadania XI.2 XIV.2
+https://pistacja.tv/film/mat00241-wyprowadzenie-wzoru-na-pole-trapezu XI.2
+https://pistacja.tv/film/mat00817-pole-rownolegloboku-i-rombu-zadania XI.2 XIV.1 XIV.2
+https://pistacja.tv/film/mat00240-pole-rownolegloboku-i-rombu XI.2
+https://pistacja.tv/film/mat00819-pole-trojkata-zadania-tekstowe XI.2 XII.6 XIV.1 XIV.2
+https://pistacja.tv/film/mat00816-pole-trojkata-zadania XI.2
+https://pistacja.tv/film/mat00239-wyprowadzenie-wzoru-na-pole-trojkata XI.2
+https://pistacja.tv/film/mat00238-zamiana-jednostek-pola-przyklady XI.3 XII.6
+https://pistacja.tv/film/mat00237-zamiana-jednostek-pola-wprowadzenie XI.3
+https://pistacja.tv/film/mat00224-konstruowanie-trojkatow IX.2
+https://pistacja.tv/film/mat00225-nierownosc-trojkata IX.2
+https://pistacja.tv/film/mat00223-wysokosc-trojkata IX.2
+https://pistacja.tv/film/mat00220-podzial-trojkatow-ze-wzgledu-na-katy-i-boki IX.1
+https://pistacja.tv/film/mat00219-budowa-i-wlasnosci-trojkata IX.1
+https://pistacja.tv/film/mat00215-rysowanie-rombow-i-rownoleglobokow IX.5
+https://pistacja.tv/film/mat00212-podzial-czworokatow IX.4 IX.5
+https://pistacja.tv/film/mat00228-trapez-wprowadzenie IX.4 IX.5
+https://pistacja.tv/film/mat00227-romb-wprowadzenie IX.4 IX.5
+https://pistacja.tv/film/mat00226-rownoleglobok-wprowadzenie IX.4 IX.5
+https://pistacja.tv/film/mat00262-dzialania-na-ulamkach-zwyklych-i-dziesietnych V.3 V.7
+https://pistacja.tv/film/mat00260-rozwiniecia-dziesietne-ulamkow-zwyklych IV.10
+https://pistacja.tv/film/mat00259-zamiana-liczb-dziesietnych-na-ulamki-zwykle IV.8
+https://pistacja.tv/film/mat00258-zamiana-ulamkow-zwyklych-na-liczby-dziesietne IV.9
+https://pistacja.tv/film/mat00180-dzielenie-liczb-mieszanych V.1
+https://pistacja.tv/film/mat00178-dzielenie-ulamkow-zwyklych-przez-ulamki-zwykle V.1
+https://pistacja.tv/film/mat00179-dzielenie-liczb-naturalnych-przez-ulamki-zwykle V.1
+https://pistacja.tv/film/mat00177-dzielenie-ulamkow-zwyklych-przez-liczby-naturalne V.1
+https://pistacja.tv/film/mat00181-kwadrat-i-szescian-ulamkow-zwyklych-i-liczb-mieszanych V.6
+https://pistacja.tv/film/mat00176-mnozenie-liczb-mieszanych V.1
+https://pistacja.tv/film/mat00174-mnozenie-ulamkow-zwyklych V.1
+https://pistacja.tv/film/mat00175-obliczanie-ulamka-danej-liczby V.5
+https://pistacja.tv/film/mat00173-mnozenie-ulamkow-przez-liczby-naturalne V.1
+https://pistacja.tv/film/mat00195-szacowanie-wynikow-dzialan-na-ulamkach-dziesietnych V.8 XIV.6
+https://pistacja.tv/film/mat00194-zaokraglanie-liczb-dziesietnych IV.11
+https://pistacja.tv/film/mat00193-dzielenie-pisemne-liczb-naturalnych-z-wynikiem-dziesietnym IV.10
+https://pistacja.tv/film/mat00192-dzielenie-pisemne-liczb-dziesietnych V.2
+https://pistacja.tv/film/mat00190-dzielenie-pisemne-liczb-dziesietnych-przez-liczby-naturalne V.2
+https://pistacja.tv/film/mat00196-kwadrat-i-szescian-liczb-dziesietnych V.6
+https://pistacja.tv/film/mat00188-mnozenie-pisemne-liczb-dziesietnych V.2
+https://pistacja.tv/film/mat00191-dzielenie-ulamkow-dziesietnych-przez-10-100-1000 V.2
+https://pistacja.tv/film/mat00186-mnozenie-ulamkow-dziesietnych-przez-10-100-1000 V.2
+https://pistacja.tv/film/mat00187-dzielenie-liczb-dziesietnych-przez-liczby-naturalne V.2
+https://pistacja.tv/film/mat00185-pamieciowe-mnozenie-ulamkow-dziesietnych V.2
+https://pistacja.tv/film/mat00168-obliczanie-ile-procent-jednej-liczby-stanowi-druga-liczba XII.2
+https://pistacja.tv/film/mat00167-obliczanie-liczby-gdy-dany-jest-jej-procent XII.2
+https://pistacja.tv/film/mat00165-obliczanie-procentu-danej-liczby XII.2
+https://pistacja.tv/film/mat00163-zamiana-procentow-na-ulamki-i-odwrotnie XII.1
+https://pistacja.tv/film/mat00162-procenty-wprowadzenie XII.1
+https://pistacja.tv/film/mat00183-porownywanie-roznicowe-ulamkow-zwyklych V.4
+https://pistacja.tv/film/mat00172-odejmowanie-liczb-mieszanych-o-roznych-mianownikach-w-czesci-ulamkowej V.1
+https://pistacja.tv/film/mat00171-dodawanie-liczb-mieszanych-o-roznych-mianownikach-w-czesci-ulamkowej V.1
+https://pistacja.tv/film/mat00170-odejmowanie-ulamkow-o-roznych-mianownikach IV.4 V.1
+https://pistacja.tv/film/mat00169-dodawanie-ulamkow-zwyklych-o-roznych-mianownikach IV.4 V.1
+https://pistacja.tv/film/mat00095-najmniejsza-wspolna-wielokrotnosc-dwoch-liczb II.13
+https://pistacja.tv/film/mat00087-najwiekszy-wspolny-dzielnik II.13
+https://pistacja.tv/film/mat00153-rozklad-liczby-na-czynniki-pierwsze-przyklady II.9 II.16
+https://pistacja.tv/film/mat00152-rozklad-liczby-na-czynniki-pierwsze-wprowadzenie II.9
+https://pistacja.tv/film/mat00151-liczby-pierwsze-i-liczby-zlozone II.8 II.14
+https://pistacja.tv/film/mat00184-porzadkowanie-ulamkow-dziesietnych-trudniejsze-zadania V.4
+https://pistacja.tv/film/mat00138-porownywanie-i-porzadkowanie-liczb-dziesietnych-latwiejsze-zadania V.4
+https://pistacja.tv/film/mat00137-porownywanie-i-porzadkowanie-liczb-dziesietnych-wprowadzenie IV.12
+https://pistacja.tv/film/mat00140-szacowanie-wynikow-dodawania-i-odejmowania-liczb-dziesietnych V.8
+https://pistacja.tv/film/mat00189-porownywanie-roznicowe-ulamkow-dziesietnych IV.12
+https://pistacja.tv/film/mat00142-dodawanie-i-odejmowanie-pisemne-ulamkow-dziesietnych V.2
+https://pistacja.tv/film/mat00144-dodawanie-i-odejmowanie-pamieciowe-liczb-dziesietnych-zadania V.8
+https://pistacja.tv/film/mat00143-odejmowanie-pamieciowe-liczb-dziesietnych V.2
+https://pistacja.tv/film/mat00141-dodawanie-pamieciowe-liczb-dziesietnych V.2
+https://pistacja.tv/film/mat00086-poszukiwanie-dzielnikow-danej-liczby II.8
+https://pistacja.tv/film/mat00096-zaleznosci-pomiedzy-cechami-podzielnosci-liczb II.8 XIV.3
+https://pistacja.tv/film/mat00094-cechy-podzielnosci-liczb-cwiczenia II.7
+https://pistacja.tv/film/mat00091-cecha-podzielnosci-liczb-przez-4 II.7
+https://pistacja.tv/film/mat00092-cecha-podzielnosci-liczb-przez-9 II.7
+https://pistacja.tv/film/mat00089-cecha-podzielnosci-liczb-przez-3 II.7
+https://pistacja.tv/film/mat00093-cecha-podzielnosci-liczb-przez-10 II.7
+https://pistacja.tv/film/mat00090-cecha-podzielnosci-liczb-przez-5 II.7
+https://pistacja.tv/film/mat00088-cecha-podzielnosci-liczb-przez-2 II.7
+https://pistacja.tv/film/mat00085-dzielniki-liczb-wprowadzenie II.8
+https://pistacja.tv/film/mat00097-wielokrotnosci-liczb II.14
+https://pistacja.tv/film/mat00131-odczytywanie-liczb-dziesietnych-zaznaczonych-na-osi-liczbowej IV.7
+https://pistacja.tv/film/mat00130-zaznaczanie-liczb-dziesietnych-na-osi-liczbowej IV.7
+https://pistacja.tv/film/mat00128-zamiana-ulamkow-zwyklych-na-liczby-dziesietne IV.9
+https://pistacja.tv/film/mat00129-zapisywanie-liczb-dziesietnych-za-pomoca-ulamkow-zwyklych IV.9
+https://pistacja.tv/film/mat00126-ulamki-o-mianownikach-10-100-1000 IV.9
+https://pistacja.tv/film/mat00125-liczby-dziesietne-wprowadzenie IV.6
+https://pistacja.tv/film/mat00132-zapisywanie-wyrazen-dwumianowanych IV.6
+https://pistacja.tv/film/mat00056-szacowanie-rachunkow-pamieciowych-na-duzych-liczbach II.12 XIV.6
+https://pistacja.tv/film/mat00055-dzielenie-pamieciowe-duzych-liczb II.3
+https://pistacja.tv/film/mat00054-mnozenie-pamieciowe-duzych-liczb II.3
+https://pistacja.tv/film/mat00053-odejmowanie-pamieciowe-duzych-liczb II.1
+https://pistacja.tv/film/mat00052-dodawanie-pamieciowe-duzych-liczb II.1
+https://pistacja.tv/film/mat00084-dzielenie-pisemne-liczb-zakonczonych-zerami II.3
+https://pistacja.tv/film/mat00083-dzielenie-pisemne-przez-liczby-wielocyfrowe-przyklady II.3
+https://pistacja.tv/film/mat00082-dzielenie-pisemne-przez-liczby-wielocyfrowe-wprowadzenie II.3
+https://pistacja.tv/film/mat00076-mnozenie-pisemne-przez-liczby-wielocyfrowe-zadania II.3
+https://pistacja.tv/film/mat00075-mnozenie-pisemne-przez-liczby-wielocyfrowe-wprowadzenie II.3
+https://pistacja.tv/film/mat00078-mnozenie-pisemne-przez-liczby-zakonczone-zerami-zadania II.3
+https://pistacja.tv/film/mat00077-mnozenie-pisemne-przez-liczby-zakonczone-zerami-wprowadzenie II.3
+https://pistacja.tv/film/mat00034-szacowanie-wynikow-dzialan II.12 XIV.6
+https://pistacja.tv/film/mat00033-wykonywanie-dzialan-na-kalkulatorze-wprowadzenie II.2 II.3 XIV.6
+https://pistacja.tv/film/mat00234-jednostki-pola-wprowadzenie XI.3
+https://pistacja.tv/film/mat00233-graficzne-porownywanie-pol-figur XI.2
+https://pistacja.tv/film/mat00232-pola-figur-wprowadzenie XI.2
+https://pistacja.tv/film/mat00218-obliczanie-boku-na-podstawie-obwodu XI.1 XIV.3
+https://pistacja.tv/film/mat00217-obliczanie-obwodu-prostokata-i-kwadratu-przyklady XI.1 XIV.1 XIV.2
+https://pistacja.tv/film/mat00216-obwod-prostokata-i-obwod-kwadratu-wprowadzenie XI.1
+https://pistacja.tv/film/mat00214-rysowanie-prostokatow-i-kwadratow-o-podanych-dlugosciach-bokow-za-pomoca-ekierki IX.5
+https://pistacja.tv/film/mat00213-prostokat-i-kwadrat-wprowadzenie IX.5
+https://pistacja.tv/film/mat00815-zasady-odczytywania-i-zapisywania-liczb-w-systemie-rzymskim-do-trzydziestu I.5
+https://pistacja.tv/film/mat00065-zasady-odczytywania-i-zapisywania-liczb-w-systemie-rzymskim-do-dwunastu I.5
+https://pistacja.tv/film/mat00064-system-rzymski-wprowadzenie I.5
+https://pistacja.tv/film/mat00062-zamiana-jednostek-masy-wprowadzenie XII.7
+https://pistacja.tv/film/mat00061-zaleznosci-miedzy-jednostkami-masy XII.7
+https://pistacja.tv/film/mat00060-jednostki-masy-wprowadzenie XII.7
+https://pistacja.tv/film/mat00059-zamiana-jednostek-dlugosci-przyklady XII.6
+https://pistacja.tv/film/mat00058-zaleznosci-miedzy-jednostkami-dlugosci XII.6
+https://pistacja.tv/film/mat00057-jednostki-dlugosci-wprowadzenie VII.4
+https://pistacja.tv/film/mat00208-porownywanie-katow VIII.5
+https://pistacja.tv/film/mat00207-mierzenie-katow VIII.2
+https://pistacja.tv/film/mat00206-miara-katowa VIII.2 VIII.3
+https://pistacja.tv/film/mat00205-budowa-kata-rodzaje-katow VIII.1 VIII.4
+https://pistacja.tv/film/mat00204-mierzenie-dlugosci-lamanych VII.4
+https://pistacja.tv/film/mat00201-odleglosc-punktu-od-prostej VII.5
+https://pistacja.tv/film/mat00200-rysowanie-prostych-rownoleglych-za-pomoca-linijki-i-ekierki VII.3
+https://pistacja.tv/film/mat00199-rysowanie-prostych-prostopadlych-za-pomoca-linijki-i-ekierki VII.3
+https://pistacja.tv/film/mat00198-proste-rownolegle-i-prostopadle VII.2
+https://pistacja.tv/film/mat00197-punkt-odcinek-prosta-polprosta VII.1
+https://pistacja.tv/film/mat00236-pole-kwadratu-i-prostokata-obliczenia-praktyczne XI.2 XIV.1 XIV.2 XIV.5
+https://pistacja.tv/film/mat00235-pole-kwadratu-i-prostokata-wprowadzenie XI.2
+https://pistacja.tv/film/mat00116-porzadkowanie-ulamkow-wlasciwych-niewlasciwych-i-liczb-mieszanych IV.12
+https://pistacja.tv/film/mat00115-porzadkowanie-ulamkow-wlasciwych-o-takich-samych-mianownikach IV.12
+https://pistacja.tv/film/mat00114-porzadkowanie-ulamkow-wlasciwych-o-takich-samych-licznikach IV.12
+https://pistacja.tv/film/mat00113-porownywanie-liczb-mieszanych IV.12
+https://pistacja.tv/film/mat00112-porownywanie-ulamkow-zwyklych-o-roznych-licznikach-i-mianownikach IV.4 IV.12
+https://pistacja.tv/film/mat00111-porownywanie-ulamkow-zwyklych-o-tych-samych-licznikach IV.12
+https://pistacja.tv/film/mat00110-porownywanie-ulamkow-zwyklych-o-tych-samych-mianownikach IV.12
+https://pistacja.tv/film/mat00081-dzielenie-pisemne-przez-liczby-jednocyfrowe-przyklady II.3
+https://pistacja.tv/film/mat00080-dzielenie-pisemne-przez-liczby-jednocyfrowe-wprowadzenie II.3
+https://pistacja.tv/film/mat00079-ile-razy-dana-liczba-miesci-sie-w-innej-liczbie II.3
+https://pistacja.tv/film/mat00074-mnozenie-pisemne-przez-liczby-jednocyfrowe-przyklady II.3
+https://pistacja.tv/film/mat00073-mnozenie-pisemne-przez-liczby-jednocyfrowe-wprowadzenie II.3
+https://pistacja.tv/film/mat00136-obliczenia-kalendarzowe XII.4
+https://pistacja.tv/film/mat00135-czas-i-kalendarz XII.4
+https://pistacja.tv/film/mat00134-obliczenia-zegarowe XII.3
+https://pistacja.tv/film/mat00133-jednostki-czasu XII.3 XII.4
+https://pistacja.tv/film/mat00124-odejmowanie-ulamkow-zwyklych-o-jednakowych-mianownikach-zadania-tekstowe V.1 XIV.1
+https://pistacja.tv/film/mat00123-odejmowanie-liczb-mieszanych-o-jednakowych-mianownikach-w-czesci-ulamkowej V.1
+https://pistacja.tv/film/mat00122-odejmowanie-ulamkow-o-tych-samych-mianownikach-przyklady V.1
+https://pistacja.tv/film/mat00121-odejmowanie-ulamkow-o-tych-samych-mianownikach-wprowadzenie V.1
+https://pistacja.tv/film/mat00120-dodawanie-ulamkow-zwyklych-o-jednakowych-mianownikach-zadania-tekstowe V.1 XIV.1
+https://pistacja.tv/film/mat00119-dodawanie-liczb-mieszanych-o-jednakowych-mianownikach-w-czesci-ulamkowej V.1
+https://pistacja.tv/film/mat00118-dodawanie-ulamkow-zwyklych-o-tych-samych-mianownikach-przyklady V.1
+https://pistacja.tv/film/mat00117-dodawanie-ulamkow-zwyklych-o-tych-samych-mianownikach-wprowadzenie V.1
+https://pistacja.tv/film/mat00109-skracanie-ulamkow-zwyklych-przyklady IV.3
+https://pistacja.tv/film/mat00108-rozszerzanie-ulamkow-zwyklych-przyklady IV.3
+https://pistacja.tv/film/mat00107-skracanie-ulamkow-zwyklych IV.3
+https://pistacja.tv/film/mat00106-rozszerzanie-ulamkow-zwyklych IV.3
+https://pistacja.tv/film/mat00105-ulamki-rownowazne IV.3
+https://pistacja.tv/film/mat00369-wyrazenia-algebraiczne-nazywanie-i-odczytywanie VI.1
+https://pistacja.tv/film/mat00351-wyrazenia-algebraiczne-suma-roznica-iloczyn-iloraz VI.2
+https://pistacja.tv/film/mat00350-wyrazenia-algebraiczne-wprowadzenie VI.1 XIV.5
+https://pistacja.tv/film/mat00051-porzadkowanie-liczb I.3
+https://pistacja.tv/film/mat00050-porownywanie-duzych-liczb I.3
+https://pistacja.tv/film/mat00049-odczytywanie-duzych-liczb I.1
+https://pistacja.tv/film/mat00048-dziesiatkowy-uklad-pozycyjny I.1
+https://pistacja.tv/film/mat00103-liczby-mieszane-na-osi-liczbowej IV.7
+https://pistacja.tv/film/mat00104-ulamki-wlasciwe-na-osi-liczbowej IV.7
+https://pistacja.tv/film/mat00102-zamiana-liczby-mieszanej-na-ulamek-niewlasciwy IV.5
+https://pistacja.tv/film/mat00101-zamiana-ulamka-niewlasciwego-na-liczbe-mieszana IV.5
+https://pistacja.tv/film/mat00100-ulamki-wlasciwe-niewlasciwe-i-liczby-mieszane IV.5
+https://pistacja.tv/film/mat00099-ulamek-zwykly-jako-wynik-dzielenia IV.2
+https://pistacja.tv/film/mat00098-ulamek-zwykly-jako-czesc-calosci IV.1
+https://pistacja.tv/film/mat00072-odejmowanie-pisemne-liczb-z-zerami-w-srodku-przyklady II.2
+https://pistacja.tv/film/mat00071-odejmowanie-pisemne-liczb-z-zerami-w-srodku-wprowadzenie II.2
+https://pistacja.tv/film/mat00070-odejmowanie-pisemne-z-pozyczaniem-i-bez-pozyczania II.2
+https://pistacja.tv/film/mat00069-odejmowanie-pisemne-z-pozyczaniem II.2
+https://pistacja.tv/film/mat00068-odejmowanie-pisemne-bez-pozyczania-bez-rozpakowywania II.2
+https://pistacja.tv/film/mat00067-dodawanie-pisemne-przyklady II.2
+https://pistacja.tv/film/mat00066-dodawanie-pisemne-wprowadzenie II.2
+https://pistacja.tv/film/mat00047-kolejnosc-wykonywania-dzialan-z-potegami II.11
+https://pistacja.tv/film/mat00046-kolejnosc-wykonywania-dzialan-zadania-tekstowe II.11 XIV.1
+https://pistacja.tv/film/mat00045-kolejnosc-wykonywania-dzialan-przyklady-czesc-2 II.11
+https://pistacja.tv/film/mat00044-kolejnosc-wykonywania-dzialan-przyklady-czesc-1 II.11
+https://pistacja.tv/film/mat00043-kolejnosc-wykonywania-dzialan-wprowadzenie II.11
+https://pistacja.tv/film/mat00026-dzielenie-bez-reszty II.3
+https://pistacja.tv/film/mat00017-mnozenie-i-dzielenie-jako-dzialania-odwrotne II.3
+https://pistacja.tv/film/mat00032-porownywanie-ilorazowe II.6
+https://pistacja.tv/film/mat00031-metody-dzielenia-w-pamieci-przyklady II.3
+https://pistacja.tv/film/mat00030-graficzne-przedstawienie-metod-dzielenia-w-pamieci II.3
+https://pistacja.tv/film/mat00029-rozdzielnosc-dzielenia-wzgledem-dodawania II.5
+https://pistacja.tv/film/mat00028-dzielenie-definicja-i-przyklady II.3
+https://pistacja.tv/film/mat00027-dzielenie-z-reszta II.4
+https://pistacja.tv/film/mat00042-potegowanie-definicja-i-przyklady II.10
+https://pistacja.tv/film/mat00041-potegowanie-wprowadzenie II.10
+https://pistacja.tv/film/mat00040-szescian-liczby II.10
+https://pistacja.tv/film/mat00039-kwadrat-liczby II.10
+https://pistacja.tv/film/mat00025-rozdzielnosc-mnozenia-wzgledem-dodawania II.5
+https://pistacja.tv/film/mat00024-mnozenie-liczb-naturalnych-przez-10-100-1000 II.3
+https://pistacja.tv/film/mat00023-metody-mnozenia-pamieciowego II.3
+https://pistacja.tv/film/mat00022-tabliczka-mnozenia II.3
+https://pistacja.tv/film/mat00021-lacznosc-mnozenia II.5
+https://pistacja.tv/film/mat00020-przemiennosc-mnozenia II.5
+https://pistacja.tv/film/mat00019-mnozenie-liczb-naturalnych-definicja-i-przyklady II.3
+https://pistacja.tv/film/mat00018-mnozenie-liczb-naturalnych-wprowadzenie II.3
+https://pistacja.tv/film/mat00011-porownywanie-roznicowe-wprowadzenie II.6
+https://pistacja.tv/film/mat00010-dodawanie-i-odejmowanie-jako-dzialania-odwrotne II.1
+https://pistacja.tv/film/mat00009-metody-odejmowania-pamieciowego II.1
+https://pistacja.tv/film/mat00008-metody-dodawania-pamieciowego II.1
+https://pistacja.tv/film/mat00007-wlasnosci-dodawania II.5
+https://pistacja.tv/film/mat00006-dodawanie-i-odejmowanie II.1
+https://pistacja.tv/film/mat00005-zaznaczanie-i-odczytywanie-liczb-na-osi-liczbowej I.2
+https://pistacja.tv/film/mat00004-os-liczbowa-wprowadzenie I.2
+https://pistacja.tv/film/mat00003-zaokraglanie-liczb-naturalnych I.4
+https://pistacja.tv/film/mat00002-dziesiatkowy-uklad-pozycyjny I.1
+https://pistacja.tv/film/mat00001-liczby-naturalne I.1
+https://pistacja.tv/film/mat00159-odejmowanie-liczb-calkowitych III.5

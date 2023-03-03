@@ -1,0 +1,58 @@
+https://pistacja.tv/film/fiz00002-predkosc II.3 II.4 II.5
+https://pistacja.tv/film/fiz00004-wykresy-zmian-polozenia-drogi-i-predkosci II.6 II.9 II.18.b
+https://pistacja.tv/film/fiz00003-przyspieszenie II.7 II.8 II.9
+https://pistacja.tv/film/fiz00001-ruch-i-jego-wzglednosc II.1 II.2
+https://pistacja.tv/film/fiz00031-prawo-archimedesa V.7 V.9.c
+https://pistacja.tv/film/fiz00030-prawo-pascala V.5 V.6 V.9.b
+https://pistacja.tv/film/fiz00060-cisnienie-hydrostatyczne-i-cisnienie-atmosferyczne V.4 V.6 V.9.b
+https://pistacja.tv/film/fiz00029-cisnienie-i-parcie V.3 V.4 V.9.a
+https://pistacja.tv/film/fiz00028-napiecie-powierzchniowe V.8
+https://pistacja.tv/film/fiz00024-zasada-zachowania-energii-w-praktyce III.5
+https://pistacja.tv/film/fiz00080-energia-potencjalna-sprezystosci III.3 III.4
+https://pistacja.tv/film/fiz00023-energia-potencjalna-grawitacji III.3 III.4
+https://pistacja.tv/film/fiz00022-energia-kinetyczna III.3 III.4
+https://pistacja.tv/film/fiz00021-moc III.2
+https://pistacja.tv/film/fiz00020-praca III.1
+https://pistacja.tv/film/fiz00019-co-to-jest-energia III.3 III.5
+https://pistacja.tv/film/fiz00011-optyka-oka-i-wady-refrakcji IX.9 IX.14.b
+https://pistacja.tv/film/fiz00090-obrazy-w-soczewkach IX.8
+https://pistacja.tv/film/fiz00010-obrazy-w-zwierciadlach IX.5
+https://pistacja.tv/film/fiz00009-zwierciadla-i-soczewki IX.4 IX.7 IX.14.a
+https://pistacja.tv/film/fiz00008-zalamanie-i-rozszczepienie-swiatla IX.6 IX.10 IX.11 IX.14.a IX.14.c
+https://pistacja.tv/film/fiz00007-odbicie-i-rozproszenie-swiatla IX.2 IX.3
+https://pistacja.tv/film/fiz00005-cien-i-polcien IX.1
+https://pistacja.tv/film/fiz00006-swiatlo-i-jego-wlasciwosci IX.1 IX.12 IX.13
+https://pistacja.tv/film/fiz00054-fale-elektromagnetyczne IX.12 IX.13
+https://pistacja.tv/film/fiz00053-przemiany-energii-w-ruchu-drgajacym VIII.2
+https://pistacja.tv/film/fiz00052-fale-dzwiekowe VIII.6 VIII.7 VIII.8 VIII.9.b VIII.9.c
+https://pistacja.tv/film/fiz00051-fale-rozchodzenie-sie-fal VIII.4 VIII.5 VIII.9.a
+https://pistacja.tv/film/fiz00050-amplituda-okres-i-czestotliwosc-drgan VIII.2 VIII.3 VIII.9.a
+https://pistacja.tv/film/fiz00049-drgania-ruch-drgajacy VIII.1 VIII.2
+https://pistacja.tv/film/fiz00048-silnik-elektryczny VII.6
+https://pistacja.tv/film/fiz00047-elektromagnes VII.5
+https://pistacja.tv/film/fiz00046-wlasciwosci-magnetyczne-przewodnika-z-pradem VII.4 VII.7.a VII.7.b
+https://pistacja.tv/film/fiz00045-magnesy-wokol-nas VII.1 VII.2 VII.3
+https://pistacja.tv/film/fiz00071-i-zasada-termodynamiki IV.4 IV.3
+https://pistacja.tv/film/fiz00034-konwekcja-i-promieniowanie IV.8
+https://pistacja.tv/film/fiz00070-przewodnictwo-cieplne IV.7 IV.10.b
+https://pistacja.tv/film/fiz00036-topnienie-krzepniecie-parowanie-skraplanie IV.9 IV.10.a
+https://pistacja.tv/film/fiz00035-cieplo-wlasciwe IV.6 IV.10.c
+https://pistacja.tv/film/fiz00033-rownowaga-termiczna IV.4 IV.3
+https://pistacja.tv/film/fiz00032-energia-wewnetrzna-i-temperatura-przekazywanie-ciepla IV.1 IV.2 IV.5
+https://pistacja.tv/film/fiz00044-uzytkowanie-energii-elektrycznej-zasady-bhp VI.14 VI.15 VI.16.d
+https://pistacja.tv/film/fiz00043-praca-i-moc-pradu VI.10 VI.11 VI.12
+https://pistacja.tv/film/fiz00042-opor-elektryczny VI.12 VI.13 VI.16.e
+https://pistacja.tv/film/fiz00041-napiecie-i-natezenie-pradu-pomiar-i-jednostki VI.8 VI.9 VI.13
+https://pistacja.tv/film/fiz00040-prad-elektryczny VI.7 VI.8
+https://pistacja.tv/film/fiz00039-indukcja-elektrostatyczna VI.4 VI.16.b VI.16.c
+https://pistacja.tv/film/fiz00038-elektryzowanie-cial-przez-tarcie-i-dotyk VI.1 VI.5 VI.16.a
+https://pistacja.tv/film/fiz00037-ladunki-jednoimienne-i-roznoimienne VI.2 VI.3 VI.6
+https://pistacja.tv/film/fiz00018-trzecia-zasada-dynamiki II.13 II.18.a
+https://pistacja.tv/film/fiz00017-spadek-swobodny II.16 II.17
+https://pistacja.tv/film/fiz00016-druga-zasada-dynamiki II.15 II.18.a
+https://pistacja.tv/film/fiz00015-pierwsza-zasada-dynamiki II.14 II.18.a
+https://pistacja.tv/film/fiz00014-skladanie-wektorow-sil II.12
+https://pistacja.tv/film/fiz00013-sila-jako-wektor II.10 II.11 II.18.c
+https://pistacja.tv/film/chm00038-woda-i-jej-wlasciwosci V.1
+https://pistacja.tv/film/chm00008-gestosc-masa-objetosc V.1 V.2 V.9.d
+https://pistacja.tv/film/chm00001-dyfuzja V.1
