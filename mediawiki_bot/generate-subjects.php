@@ -205,7 +205,7 @@ $subjects[] = $foreignLang45678;
 // All entries for given subject and grade.
 foreach ($subjects as $subject) {
     foreach ($subject->grades as $grade) {
-        echo "$subject->name grade $grade\n";
+//        echo "$subject->name grade $grade\n";
         $pageText = '';
         $pageTitle = $subject->wikiTitle . "_klasa_$grade";
         $gradeCondition = "grade" . $grade . " = 1";
@@ -404,7 +404,7 @@ function loginRequest($logintoken)
     $output = curl_exec($ch);
     curl_close($ch);
 
-    echo($output);
+//    echo($output);
 }
 
 // Step 3: GET Request to fetch CSRF token
@@ -461,7 +461,7 @@ function editRequest($title, $text)
     $output = curl_exec($ch);
     curl_close($ch);
 
-    echo($output);
+    echo $output . "\n" ;
 }
 
 class Subject
