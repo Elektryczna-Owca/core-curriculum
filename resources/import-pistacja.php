@@ -11,10 +11,10 @@ try {
     die();
 }
 
-$subject = 'matematyka';
+$subject = 'geografia';
 //$file = 'MAT-SP46.txt';
 //$grade7 = 0;
-$file = 'MAT-SP78.txt';
+$file = 'Michal-GEO-SP8.txt';
 $grade7 = 1;
 
 //$subject = 'fizyka';
@@ -32,7 +32,7 @@ $grade7 = 1;
 //$grade7 = 1;
 
 
-$sql = "SELECT id FROM curriculum WHERE subject = ? AND symbol = ? AND grade7 = ?";
+$sql = "SELECT id FROM curriculum WHERE subject = ? AND symbol = ? AND grade8 = ?";
 $preparedStatement = $dbh->prepare($sql);
 
 $resources = file($file);
@@ -40,7 +40,7 @@ foreach ($resources as $resource) {
     $resource = trim($resource);
     $split = explode(' ', $resource);
     $url = $split[0];
-    $resourceId = insert($url, "pistacja.tv (wideo)");
+    $resourceId = insert($url, "Michał Barański (podcast)");
     if($resourceId === false) {
         continue;
     }
@@ -77,7 +77,7 @@ function insert($url, $comment) {
         return $id[0]['id'];
     }
 
-    $prepared = $dbh->prepare("INSERT INTO resource VALUES (NULL, ?, ?)");
+    $prepared = $dbh->prepare("INSERT INTO resource VALUES (NULL, 3, ?, ?)");
     $prepared->execute([$url, $comment]);
     return $dbh->lastInsertId();
 }

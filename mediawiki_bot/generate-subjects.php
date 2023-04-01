@@ -253,7 +253,7 @@ function generateNonIndentPage($rows)
         foreach ($resources as $resource) {
             $pageText .= ":* " . $resource['url'] . ' (' . trim($resource['comment']) . ")\n";
         }
-        $pageText .= ":* [https://edukacja-domowa.info/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
+        $pageText .= ":* [https://edukacja-domowa.wiki/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
     }
 
     return $pageText;
