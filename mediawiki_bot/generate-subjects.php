@@ -251,7 +251,7 @@ function generateNonIndentPage($rows)
         $resources = getResources($id);
 //        var_dump($resources);
         foreach ($resources as $resource) {
-            $pageText .= ":* " . $resource['url'] . ' (' . trim($resource['comment']) . ")\n";
+            $pageText .= ":* " . '[' . $resource['url'] . ' ' . trim($resource['comment']) . "]\n";
         }
         $pageText .= ":* [https://edukacja-domowa.wiki/form/dodaj-material/index.php?id=$id Zaproponuj materiał]\n\n";
     }
